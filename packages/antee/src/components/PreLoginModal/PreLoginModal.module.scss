@@ -1,0 +1,44 @@
+
+
+.antoreeModal {
+  width: 480px;
+}
+
+.antoreeBodyModal {
+  //padding-top: 1.5rem;
+}
+
+@media only screen and (max-width: 1100px) {
+
+  .antoreeModal {
+    width: 480px;
+  }
+
+  .antoreeBodyModal {
+    padding-top: 1.5rem;
+  }
+}
+@media only screen and (max-width: 900px) {
+
+ .antoreeModal{
+   width: 480px;
+
+ }
+  .antoreeBodyModal {
+    padding-top: 1.5rem;
+  }
+
+
+}
+@media only screen and (max-width: 600px) {
+
+  .antoreeModal{
+    width: 100%;
+
+  }
+  .antoreeBodyModal {
+    padding-top: 1.5rem;
+  }
+
+
+}

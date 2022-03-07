@@ -1,0 +1,177 @@
+---
+kind: pipeline
+type: kubernetes
+name: next-admin-staging-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      build_args_from_env:
+        - PUBLIC_URL
+        - REACT_APP_API_URL
+        - REACT_APP_METABASE_SECRET_KEY
+        - REACT_APP_FIREBASE_PROJECT_ID
+        - REACT_APP_FIREBASE_APP_ID
+        - REACT_APP_FIREBASE_API_KEY
+        - REACT_APP_FCM_SENDER_ID
+        - REACT_APP_FCM_VAPID_KEY
+      dockerfile:
+        - packages/next-admin/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - next-crm-webapp
+      tags:
+        - ${DRONE_COMMIT_SHA:0:7}
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+      PUBLIC_URL:
+        from_secret: stg_public_url
+      REACT_APP_API_URL:
+        from_secret: stg_react_app_api_url
+      REACT_APP_METABASE_SECRET_KEY:
+        from_secret: stg_react_app_metabase_secret_key
+      REACT_APP_FIREBASE_PROJECT_ID:
+        from_secret: stg_react_app_firebase_project_id
+      REACT_APP_FIREBASE_APP_ID:
+        from_secret: stg_react_app_firebase_app_id
+      REACT_APP_FIREBASE_API_KEY:
+        from_secret: stg_react_app_firebase_api_key
+      REACT_APP_FCM_SENDER_ID:
+        from_secret: stg_react_app_fcm_sender_id
+      REACT_APP_FCM_VAPID_KEY:
+        from_secret: stg_react_app_fcm_vapid_key
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      aws_region:
+        - ap-southeast-1
+      cluster:
+        - ant-v1-staging
+      image_name:
+        - 677045118514.dkr.ecr.ap-southeast-1.amazonaws.com/next-crm-webapp:${DRONE_COMMIT_SHA:0:7}
+      service:
+        - ant-v2-admin-fargate
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+trigger:
+  branch:
+    - develop
+resource: 
+  requests: 
+    cpu: 1024m
+    memory: 2GiB
+
+---
+kind: pipeline
+type: kubernetes
+name: next-admin-production-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      build_args_from_env:
+        - PUBLIC_URL
+        - REACT_APP_API_URL
+        - REACT_APP_METABASE_SECRET_KEY
+        - REACT_APP_FIREBASE_PROJECT_ID
+        - REACT_APP_FIREBASE_APP_ID
+        - REACT_APP_FIREBASE_API_KEY
+        - REACT_APP_FCM_SENDER_ID
+        - REACT_APP_FCM_VAPID_KEY
+      dockerfile:
+        - packages/next-admin/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - next-crm-webapp
+      tags:
+        - ${DRONE_TAG}
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+      PUBLIC_URL:
+         from_secret: prod_public_url
+      REACT_APP_API_URL:
+         from_secret: prod_react_app_api_url
+      REACT_APP_METABASE_SECRET_KEY:
+        from_secret: prod_react_app_metabase_secret_key
+      REACT_APP_FIREBASE_PROJECT_ID:
+        from_secret: prod_react_app_firebase_project_id
+      REACT_APP_FIREBASE_APP_ID:
+        from_secret: prod_react_app_firebase_app_id
+      REACT_APP_FIREBASE_API_KEY:
+        from_secret: prod_react_app_firebase_api_key
+      REACT_APP_FCM_SENDER_ID:
+        from_secret: prod_react_app_fcm_sender_id
+      REACT_APP_FCM_VAPID_KEY:
+        from_secret: prod_react_app_fcm_vapid_key
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      aws_region:
+        - ap-southeast-1
+      cluster:
+        - antoree-v1-prod
+      image_name:
+        - 120030082686.dkr.ecr.ap-southeast-1.amazonaws.com/next-crm-webapp:${DRONE_TAG}
+      service:
+        - ant-v2-admin
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+trigger:
+  ref:
+    - refs/tags/next-admin-*

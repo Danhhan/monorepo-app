@@ -1,0 +1,147 @@
+---
+kind: pipeline
+type: kubernetes
+name: antee-staging-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      dockerfile:
+        - packages/antee/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - antee-web-stg
+      tags:
+        - ${DRONE_COMMIT_SHA:0:7}
+      build_args:
+        - PUBLIC_URL=/
+        - REACT_APP_API_URI=https://api-v2.stg.antoree.tech
+      build_args_from_env:
+        - REACT_APP_CROWDIN_DISTRIBUTION_HASH
+        - REACT_APP_CROWDIN_FILE
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+      REACT_APP_CROWDIN_DISTRIBUTION_HASH:
+        from_secret: react_app_crowdin_distribution_hash
+      REACT_APP_CROWDIN_FILE:
+        from_secret: antee_react_app_crowdin_file
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      aws_region:
+        - ap-southeast-1
+      cluster:
+        - ant-v1-staging
+      image_name:
+        - 677045118514.dkr.ecr.ap-southeast-1.amazonaws.com/antee-web-stg:${DRONE_COMMIT_SHA:0:7}
+      service:
+        - antee-pwa-fargate
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+trigger:
+  branch:
+    - develop
+resource: 
+  requests: 
+    cpu: 1024m
+    memory: 2GiB
+
+---
+kind: pipeline
+type: kubernetes
+name: antee-production-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      dockerfile:
+        - packages/antee/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - antee-web-prod
+      tags:
+        - ${DRONE_TAG}
+      build_args:
+        - PUBLIC_URL=/
+        - REACT_APP_API_URI=https://api-v2.prod.antoree.tech/
+      build_args_from_env:
+        - REACT_APP_CROWDIN_DISTRIBUTION_HASH
+        - REACT_APP_CROWDIN_FILE
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+      REACT_APP_CROWDIN_DISTRIBUTION_HASH:
+        from_secret: react_app_crowdin_distribution_hash
+      REACT_APP_CROWDIN_FILE:
+        from_secret: antee_react_app_crowdin_file
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      cluster:
+        - antoree-v1-prod
+      aws_region:
+        - ap-southeast-1
+      image_name:
+        - 120030082686.dkr.ecr.ap-southeast-1.amazonaws.com/antee-web-prod:${DRONE_TAG}
+      service:
+        - antee-web-pro-svc
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+trigger:
+  ref:
+    - refs/tags/antee-*

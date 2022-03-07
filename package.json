@@ -1,0 +1,62 @@
+{
+  "name": "@antoree/pwa-monorepo",
+  "workspaces": [
+    "packages/*",
+    "shared/*"
+  ],
+  "scripts": {
+    "commit": "cz",
+    "extract-all": "yarn extract-next-admin && yarn extract-antee && yarn extract-antor",
+    "extract-next-admin": "yarn workspace @antoree/next-admin auto-extract",
+    "extract-antee": "yarn workspace @antoree/antee auto-extract",
+    "extract-antor": "yarn workspace @antoree/antor auto-extract",
+    "clean": "rimraf '**/**/node_modules' && yarn cache clean",
+    "postinstall": "is-ci || husky install",
+    "lint": "eslint {packages,shared}/*/src --no-error-on-unmatched-pattern",
+    "format": "prettier {packages,shared}/*/src --write",
+    "lint-next-admin": "eslint packages/next-admin/src"
+  },
+  "lint-staged": {
+    "**/{shared,packages}/**/**.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint"
+    ],
+    "*.{json,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "@antoree/eslint-config-ant": "workspace:shared/eslint-config-ant",
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "@commitlint/config-lerna-scopes": "^11.0.0",
+    "commitizen": "^4.2.2",
+    "cz-conventional-changelog": "3.3.0",
+    "eslint": "^7.5.0",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "husky": "next",
+    "is-ci": "^2.0.0",
+    "lint-staged": "^10.5.3",
+    "plop": "^2.7.4",
+    "prettier": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "serve": "^11.3.2",
+    "typescript": "^4.2.4"
+  },
+  "engines": {
+    "node": "14.15.4",
+    "yarn": "2.4.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "dependencies": {
+    "@antoree/ant-ui": "workspace:shared/ant-ui",
+    "@tailwindcss/aspect-ratio": "latest",
+    "react-meta-tags": "^1.0.1"
+  }
+}

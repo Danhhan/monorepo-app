@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;600;700;800&display=swap');
+
+.container {
+  @apply bg-cover bg-center bg-no-repeat;
+  height: 100vh;
+  background-image: url('../../../assets/images/ExportPrice/bg.jpeg');
+  font-family: 'Nunito', sans-serif;
+}
+
+.page {
+  font-family: 'Nunito';
+  width: 1600px;
+  margin: auto;
+  background: transparent;
+  height: 100%;
+
+  @media (max-width: 1600px) {
+    transform: scale(0.75);
+    margin-top: 0;
+    height: 25%;
+  }
+}
+
+.textColorBase {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+$gradientRed: 90deg, #ff1313 -0.04%, #ff3535 23.75%, #ff2f22 56.1%,
+  #ff542f 93.22%, #ff6e4e 100.04%;
+
+$gradientGreen: 90deg, #00b332 -0.06%, #06b20d 11.94%, #1bb118 28.28%,
+  #34b739 47.11%, #47bb4b 56.78%, #4bc249 67.79%, #35cf57 89.75%,
+  #4cdb5a 100.06%, #4cdb5a 100.06%;
+
+$gradientOrange: 90deg, #ff5c00 -0.06%, #ff620a 11.94%, #ff701f 28.28%,
+  #ff773d 47.11%, #ff7c53 67.79%, #fd8c68 89.75%, #ff9270 100.06%;
+
+$gradientBlue: 90deg, #00acb3 -0.06%, #06adb2 11.94%, #18b1b0 28.28%,
+  #34b7ac 47.11%, #5cbfa6 67.79%, #8fcaa0 89.75%, #a9cf9c 100.06%;
+
+@mixin mixinTextColorGradient($param: null) {
+  background: -webkit-linear-gradient($param);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.textcolorGradientGreen {
+  @include mixinTextColorGradient($gradientGreen);
+}
+.textcolorGradientBlue {
+  @include mixinTextColorGradient($gradientBlue);
+}
+.textcolorGradientOrange {
+  @include mixinTextColorGradient($gradientOrange);
+}
+.textcolorGradientRed {
+  @include mixinTextColorGradient($gradientRed);
+}
+
+.bgGradientGreen {
+  background: -webkit-linear-gradient($gradientGreen);
+}
+.bgGradientBlue {
+  background: -webkit-linear-gradient($gradientBlue);
+}
+.bgGradientOrange {
+  background: -webkit-linear-gradient($gradientOrange);
+}
+.bgGradientRed {
+  background: -webkit-linear-gradient($gradientRed);
+}
+.card {
+  position: relative;
+}
+.cardFooter {
+  position: absolute;
+  bottom: -10%;
+  width: 80%;
+  bottom: -4%;
+  left: 9%;
+  border-radius: 16px;
+}
+.baseFooter {
+  @apply w-full text-white rounded-lg py-2;
+  @apply rounded-2xl;
+}
+.footerPriceGreen {
+  @extend .baseFooter;
+  background: linear-gradient($gradientGreen);
+}
+.footerPriceBlue {
+  @extend .baseFooter;
+  background: linear-gradient($gradientBlue);
+}
+.footerPriceOrange {
+  @extend .baseFooter;
+  background: linear-gradient($gradientOrange);
+}
+.footerPriceRed {
+  @extend .baseFooter;
+  background: linear-gradient($gradientRed);
+}
+
+.discount {
+  background-image: url('../../../assets/images/ExportPrice/bgDiscount.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 6px;
+  right: -23px;
+}
+.borderBottomGreen {
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient($gradientGreen);
+  border-image-slice: 1;
+}
+.borderBottomBlue {
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient($gradientBlue);
+  border-image-slice: 1;
+}
+.borderBottomOrange {
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient($gradientOrange);
+  border-image-slice: 1;
+}
+.borderBottomRed {
+  border-bottom: 1px solid transparent;
+  border-image: linear-gradient($gradientRed);
+  border-image-slice: 1;
+}

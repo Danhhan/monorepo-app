@@ -1,0 +1,10 @@
+.pageBody {
+  @apply bg-white pt-4;
+  // background-image: url('../../assets/images/bgImage.jpg');
+  max-width: 1280px;
+  margin: auto;
+
+  @media (max-width: 1280px) {
+    padding: 0 16px;
+  }
+}

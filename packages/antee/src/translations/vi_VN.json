@@ -1,0 +1,1544 @@
+{
+  "+U6ozc": [
+    {
+      "type": 0,
+      "value": "Loại"
+    }
+  ],
+  "/161r2": [
+    {
+      "type": 0,
+      "value": "Đang tải khoá học..."
+    }
+  ],
+  "/4wXyO": [
+    {
+      "type": 0,
+      "value": "Gửi lại không thành công!"
+    }
+  ],
+  "/PLVzX": [
+    {
+      "type": 0,
+      "value": "Test ID phải là số nguyên dương"
+    }
+  ],
+  "/n98Fm": [
+    {
+      "type": 0,
+      "value": "Họ"
+    }
+  ],
+  "08dQvE": [
+    {
+      "type": 0,
+      "value": "Số điện thoại"
+    }
+  ],
+  "0CzjFB": [
+    {
+      "type": 0,
+      "value": "Chương trình học"
+    }
+  ],
+  "0DUbiY": [
+    {
+      "type": 0,
+      "value": "Bài tập về nhà"
+    }
+  ],
+  "0IajTz": [
+    {
+      "type": 0,
+      "value": "Tham gia khóa học"
+    }
+  ],
+  "0hNB7i": [
+    {
+      "type": 0,
+      "value": "Kết quả"
+    }
+  ],
+  "1aVtLW": [
+    {
+      "type": 0,
+      "value": "Bạn chưa đặt lịch test. Chọn "
+    },
+    {
+      "type": 1,
+      "value": "link"
+    },
+    {
+      "type": 0,
+      "value": " để hoàn tất đăng ký tham gia."
+    }
+  ],
+  "1bM5e1": [
+    {
+      "type": 0,
+      "value": "Không tìm thấy buổi học"
+    }
+  ],
+  "1txNtf": [
+    {
+      "type": 0,
+      "value": "Tạo thành công"
+    }
+  ],
+  "2+kAwK": [
+    {
+      "type": 0,
+      "value": "Tạm hoãn"
+    }
+  ],
+  "232q+I": [
+    {
+      "type": 1,
+      "value": "courses"
+    },
+    {
+      "type": 0,
+      "value": " buổi học thử"
+    }
+  ],
+  "2GFjIN": [
+    {
+      "type": 0,
+      "value": "Nhập mật khẩu"
+    }
+  ],
+  "2QJqr+": [
+    {
+      "type": 0,
+      "value": "Tải app Antoree để tham gia buổi test"
+    }
+  ],
+  "2c5Jmp": [
+    {
+      "type": 0,
+      "value": "Tất cả các buổi học"
+    }
+  ],
+  "30TWdP": [
+    {
+      "type": 0,
+      "value": "Nội dung từ vựng"
+    }
+  ],
+  "39AHJm": [
+    {
+      "type": 0,
+      "value": "Đăng ký"
+    }
+  ],
+  "3wsVWF": [
+    {
+      "type": 0,
+      "value": "Đã huỷ"
+    }
+  ],
+  "47FYwb": [
+    {
+      "type": 0,
+      "value": "Hủy"
+    }
+  ],
+  "4q+8tM": [
+    {
+      "type": 0,
+      "value": "Mở: "
+    },
+    {
+      "type": 1,
+      "value": "totalCourse"
+    },
+    {
+      "type": 0,
+      "value": " khoá học"
+    }
+  ],
+  "4rzkE5": [
+    {
+      "type": 0,
+      "value": "Bản ghi "
+    },
+    {
+      "type": 1,
+      "value": "order"
+    }
+  ],
+  "4zRPjf": [
+    {
+      "type": 0,
+      "value": "Tạm dừng: "
+    },
+    {
+      "type": 1,
+      "value": "totalCourse"
+    },
+    {
+      "type": 0,
+      "value": " khoá học"
+    }
+  ],
+  "52UMW3": [
+    {
+      "type": 0,
+      "value": "Tất cả giờ"
+    }
+  ],
+  "6/aEFZ": [
+    {
+      "type": 0,
+      "value": "Sắp diễn ra"
+    }
+  ],
+  "6PiRF9": [
+    {
+      "type": 0,
+      "value": "Đổi lịch test"
+    }
+  ],
+  "6w01yi": [
+    {
+      "type": 0,
+      "value": "-- Chọn thời gian --"
+    }
+  ],
+  "72ui7O": [
+    {
+      "type": 0,
+      "value": "Về trang chủ"
+    }
+  ],
+  "74BYXL": [
+    {
+      "type": 0,
+      "value": "Nữ"
+    }
+  ],
+  "7Y6Yvq": [
+    {
+      "type": 0,
+      "value": "Video buổi học"
+    }
+  ],
+  "8RtPNv": [
+    {
+      "type": 0,
+      "value": "Khoá học thử"
+    }
+  ],
+  "9/yVib": [
+    {
+      "type": 0,
+      "value": "Xác minh thành công"
+    }
+  ],
+  "95stPq": [
+    {
+      "type": 0,
+      "value": "Hoàn thành"
+    }
+  ],
+  "9Jehq4": [
+    {
+      "type": 0,
+      "value": "Buổi học hôm nay"
+    }
+  ],
+  "9hqlcd": [
+    {
+      "type": 0,
+      "value": "Đề xuất giáo viên phù hợp"
+    }
+  ],
+  "9j3hXO": [
+    {
+      "type": 0,
+      "value": "Đến"
+    }
+  ],
+  "9uOFF3": [
+    {
+      "type": 0,
+      "value": "Tổng Quan"
+    }
+  ],
+  "9vB75n": [
+    {
+      "type": 0,
+      "value": "Chúng tôi đã gửi 1 mã 6 số đến cho bạn. Hãy kiểm tra điện thoại."
+    }
+  ],
+  "A6ZA/Z": [
+    {
+      "type": 0,
+      "value": "Lỗi không có contact! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+    }
+  ],
+  "ARWQa7": [
+    {
+      "type": 0,
+      "value": "Khoá học "
+    },
+    {
+      "type": 1,
+      "value": "type"
+    },
+    {
+      "type": 0,
+      "value": " của bạn thời gian: "
+    },
+    {
+      "type": 1,
+      "value": "date"
+    },
+    {
+      "type": 0,
+      "value": ", từ "
+    },
+    {
+      "type": 1,
+      "value": "timeFrom"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "B5qO7V": [
+    {
+      "type": 0,
+      "value": "Tìm kiếm bằng tên giáo viên"
+    }
+  ],
+  "BEX6A7": [
+    {
+      "type": 0,
+      "value": "Thông tin cá nhân"
+    }
+  ],
+  "BSij1a": [
+    {
+      "type": 0,
+      "value": "đóng"
+    }
+  ],
+  "BUxbAO": [
+    {
+      "type": 0,
+      "value": "Mục tiêu học"
+    }
+  ],
+  "BofAZ9": [
+    {
+      "type": 0,
+      "value": "Kiểm tra trình độ"
+    }
+  ],
+  "By4O6Y": [
+    {
+      "type": 0,
+      "value": "Vui lòng nhập kí tự số"
+    }
+  ],
+  "CGA7Qm": [
+    {
+      "type": 0,
+      "value": "Xem ghi hình"
+    }
+  ],
+  "CM8x2X": [
+    {
+      "type": 0,
+      "value": "Chủ động"
+    }
+  ],
+  "CMbqoE": [
+    {
+      "type": 0,
+      "value": "Nhập email hoặc điện thoại số"
+    }
+  ],
+  "Cpf94t": [
+    {
+      "type": 0,
+      "value": "Vượt quá giới hạn khoá học cho phép"
+    }
+  ],
+  "Cppqb7": [
+    {
+      "type": 0,
+      "value": "Nội dung từ vựng"
+    }
+  ],
+  "DIDBlF": [
+    {
+      "type": 0,
+      "value": "Đã có lỗi xảy ra!"
+    }
+  ],
+  "DhQlSD": [
+    {
+      "type": 0,
+      "value": "Tải app ngay"
+    }
+  ],
+  "E80WrK": [
+    {
+      "type": 0,
+      "value": "Thông tin"
+    }
+  ],
+  "EBvApA": [
+    {
+      "type": 0,
+      "value": "ID "
+    },
+    {
+      "type": 1,
+      "value": "sessionId"
+    },
+    {
+      "type": 0,
+      "value": " "
+    },
+    {
+      "type": 1,
+      "value": "sessionTitle"
+    }
+  ],
+  "EHRQZv": [
+    {
+      "type": 0,
+      "value": "Vui lòng nhập mã khoá học được cung cấp vào ô bên dưới để tham gia buổi học"
+    }
+  ],
+  "EPTlRP": [
+    {
+      "type": 0,
+      "value": "Hỗ trợ"
+    }
+  ],
+  "ESnW7g": [
+    {
+      "type": 0,
+      "value": "Kết quả BTVN"
+    }
+  ],
+  "EWyQH5": [
+    {
+      "type": 0,
+      "value": "Quốc Tế"
+    }
+  ],
+  "EeVzlQ": [
+    {
+      "type": 0,
+      "value": "Nội dung ngữ pháp"
+    }
+  ],
+  "EhVruH": [
+    {
+      "type": 0,
+      "value": "Tìm kiếm"
+    }
+  ],
+  "F+SsQp": [
+    {
+      "type": 0,
+      "value": "Ngày mai"
+    }
+  ],
+  "F/t8q6": [
+    {
+      "type": 0,
+      "value": "Nhận lộ trình kép"
+    }
+  ],
+  "F5W4oC": [
+    {
+      "type": 0,
+      "value": "Nội dung bài tập về nhà"
+    }
+  ],
+  "F6bRVb": [
+    {
+      "type": 0,
+      "value": "Đổi mật khẩu thành công!"
+    }
+  ],
+  "FD+PFV": [
+    {
+      "type": 0,
+      "value": "Nội dung ngữ pháp"
+    }
+  ],
+  "FE+nHG": [
+    {
+      "type": 0,
+      "value": "Học viên biết được năng lực hiện tại của mình"
+    }
+  ],
+  "GFTdXw": [
+    {
+      "type": 0,
+      "value": "Ngày sinh"
+    }
+  ],
+  "GkKYZL": [
+    {
+      "type": 0,
+      "value": "Không có khoá học cho ngày hôm nay. Hãy chọn giáo viên bạn yêu thích và bắt đầu học nào."
+    }
+  ],
+  "Gtakub": [
+    {
+      "type": 0,
+      "value": "Khác (Tuỳ chọn)"
+    }
+  ],
+  "H0JBH6": [
+    {
+      "type": 0,
+      "value": "Đăng xuất"
+    }
+  ],
+  "HUjcIB": [
+    {
+      "type": 0,
+      "value": "Hôm nay"
+    }
+  ],
+  "I+1HSy": [
+    {
+      "type": 0,
+      "value": "Học thử"
+    }
+  ],
+  "J9JF+p": [
+    {
+      "type": 0,
+      "value": "Bắt đầu buổi học"
+    }
+  ],
+  "JBF/87": [
+    {
+      "type": 0,
+      "value": "Tiếp tục thay đổi"
+    }
+  ],
+  "JNj8eH": [
+    {
+      "type": 0,
+      "value": "Chọn khoá học để xem những buổi học chi tiết."
+    }
+  ],
+  "JfG49w": [
+    {
+      "type": 0,
+      "value": "Mở"
+    }
+  ],
+  "K3v9+M": [
+    {
+      "type": 0,
+      "value": "Chọn ngày rảnh để bắt đầu buổi học!"
+    }
+  ],
+  "L0ZY4x": [
+    {
+      "type": 0,
+      "value": "Thái độ của học viên"
+    }
+  ],
+  "L4nXIc": [
+    {
+      "type": 0,
+      "value": "Đổi mật khẩu"
+    }
+  ],
+  "LJ+F4N": [
+    {
+      "type": 0,
+      "value": "Đặt lịch giáo viên"
+    }
+  ],
+  "LrYIFK": [
+    {
+      "type": 0,
+      "value": "Gửi lại mã thành công"
+    }
+  ],
+  "Lwy31Q": [
+    {
+      "type": 0,
+      "value": "Chuẩn quốc tế"
+    }
+  ],
+  "M+Qxg3": [
+    {
+      "type": 0,
+      "value": "Không có buổi học hôm nay"
+    }
+  ],
+  "MLiW1a": [
+    {
+      "type": 0,
+      "value": "Chinh phục các bằng cấp quốc tế, hỗ trợ công việc,..."
+    }
+  ],
+  "MtrTNy": [
+    {
+      "type": 0,
+      "value": "Ngày mai"
+    }
+  ],
+  "N2IrpM": [
+    {
+      "type": 0,
+      "value": "Xác nhận"
+    }
+  ],
+  "N7+qV2": [
+    {
+      "type": 0,
+      "value": "Không, hãy giữ nguyên"
+    }
+  ],
+  "NIynnB": [
+    {
+      "type": 0,
+      "value": "Mật khẩu hiện tại"
+    }
+  ],
+  "NSyuEP": [
+    {
+      "type": 0,
+      "value": "Nhập mã xác thực"
+    }
+  ],
+  "NVhWmw": [
+    {
+      "type": 0,
+      "value": "Từ Anh, Úc, Mỹ, Canada, Philippines và Việt Nam"
+    }
+  ],
+  "Ne1NR/": [
+    {
+      "type": 0,
+      "value": "Bài tập về nhà"
+    }
+  ],
+  "O95R3Z": [
+    {
+      "type": 0,
+      "value": "Số điện thoại"
+    }
+  ],
+  "OXDyuT": [
+    {
+      "type": 0,
+      "value": "Mục tiêu học"
+    }
+  ],
+  "P6PLpi": [
+    {
+      "type": 0,
+      "value": "Tham gia"
+    }
+  ],
+  "P8CiZ+": [
+    {
+      "type": 0,
+      "value": "Thông tin buổi học thử"
+    }
+  ],
+  "PgJGHT": [
+    {
+      "type": 0,
+      "value": "Có sẵn"
+    }
+  ],
+  "PlBReU": [
+    {
+      "type": 0,
+      "value": "Đăng xuất"
+    }
+  ],
+  "PvmsBF": [
+    {
+      "type": 0,
+      "value": "Trạng thái khoá học"
+    }
+  ],
+  "Q6wcZ5": [
+    {
+      "type": 0,
+      "value": "Họ"
+    }
+  ],
+  "QF8hwJ": [
+    {
+      "type": 0,
+      "value": "Tham gia buổi học"
+    }
+  ],
+  "QRC/NM": [
+    {
+      "type": 0,
+      "value": "Hiện tại không có khoá học."
+    }
+  ],
+  "QTvWGs": [
+    {
+      "type": 0,
+      "value": "Chiều"
+    }
+  ],
+  "QlsDcr": [
+    {
+      "type": 0,
+      "value": "Thao tác"
+    }
+  ],
+  "Qu3us1": [
+    {
+      "type": 0,
+      "value": "Tham gia test"
+    }
+  ],
+  "R50Ch8": [
+    {
+      "type": 0,
+      "value": "Huỷ khoá học hiện tại sau đó chọn lại giáo viên để bắt đầu khoá học mới."
+    }
+  ],
+  "R86IN4": [
+    {
+      "type": 0,
+      "value": "Tạm hoãn"
+    }
+  ],
+  "RKuSvJ": [
+    {
+      "type": 0,
+      "value": "Chúng tôi tạm thời chưa hỗ trợ phiên bản điện \u001dthoại cho tính năng này."
+    }
+  ],
+  "RVhqZ4": [
+    {
+      "type": 0,
+      "value": "Tải xuống thất bại"
+    }
+  ],
+  "RZVeul": [
+    {
+      "type": 0,
+      "value": "Email hoặc điện thoại số"
+    }
+  ],
+  "RhoJ0D": [
+    {
+      "type": 0,
+      "value": "Không có tài khoản?"
+    }
+  ],
+  "Rybgfg": [
+    {
+      "type": 0,
+      "value": "Bắt đầu"
+    }
+  ],
+  "S2lDfu": [
+    {
+      "type": 0,
+      "value": "Cập nhật thông tin thất bại!"
+    }
+  ],
+  "SF0WU5": [
+    {
+      "type": 0,
+      "value": "Tiêu đề buổi học"
+    }
+  ],
+  "SGdcJD": [
+    {
+      "type": 0,
+      "value": "Nhập mã"
+    }
+  ],
+  "SQJto2": [
+    {
+      "type": 0,
+      "value": "Đăng nhập"
+    }
+  ],
+  "SelUZB": [
+    {
+      "type": 0,
+      "value": "Chức năng tham gia gọi trên thiết bị di động chỉ hỗ trợ qua app Antoree."
+    }
+  ],
+  "T23M7v": [
+    {
+      "type": 0,
+      "value": "Chào mừng bạn tới Antoree"
+    }
+  ],
+  "TH6xEq": [
+    {
+      "type": 0,
+      "value": "Chọn ngày bạn muốn thực hiện buổi test"
+    }
+  ],
+  "TUYrlM": [
+    {
+      "type": 0,
+      "value": "Tên người dùng hoặc mật khẩu không hợp lệ"
+    }
+  ],
+  "TemVby": [
+    {
+      "type": 0,
+      "value": "Tên đầy đủ"
+    }
+  ],
+  "Tj4hr9": [
+    {
+      "type": 0,
+      "value": "Thông tin cá nhân"
+    }
+  ],
+  "U9ZS0q": [
+    {
+      "type": 0,
+      "value": "Phản hồi buổi học từ giáo viên"
+    }
+  ],
+  "UD0YHG": [
+    {
+      "type": 0,
+      "value": "Thi chứng chỉ Cambridge, IELTS, TOEFL"
+    }
+  ],
+  "UFSwqb": [
+    {
+      "type": 0,
+      "value": "Không xác định"
+    }
+  ],
+  "Ub+AGc": [
+    {
+      "type": 0,
+      "value": "Đăng Nhập"
+    }
+  ],
+  "VMBH5+": [
+    {
+      "type": 0,
+      "value": "Sau buổi test, bạn sẽ nhận được "
+    },
+    {
+      "type": 1,
+      "value": "highlight"
+    },
+    {
+      "type": 0,
+      "value": "."
+    }
+  ],
+  "VuzjdC": [
+    {
+      "type": 0,
+      "value": "Đang diễn ra"
+    }
+  ],
+  "WM4MxD": [
+    {
+      "type": 0,
+      "value": "Trải nghiệm buổi học online 1 - 1 với giáo viên của Antoree"
+    }
+  ],
+  "WViqNz": [
+    {
+      "type": 0,
+      "value": "Test ID (Ví dụ: 32730)"
+    }
+  ],
+  "WdWd8e": [
+    {
+      "type": 0,
+      "value": "Hôm nay"
+    }
+  ],
+  "WkrNSk": [
+    {
+      "type": 0,
+      "value": "Tiếng Anh"
+    }
+  ],
+  "X0AL6c": [
+    {
+      "type": 0,
+      "value": "Chưa có giáo viên nào có lịch trống"
+    }
+  ],
+  "XBoahx": [
+    {
+      "type": 0,
+      "value": "Lỗi Server"
+    }
+  ],
+  "XFsHPo": [
+    {
+      "type": 0,
+      "value": "Đang tải..."
+    }
+  ],
+  "Y/tCwS": [
+    {
+      "type": 0,
+      "value": "Dựa trên thang điểm chuẩn Cambridge/Oxford"
+    }
+  ],
+  "YTszvQ": [
+    {
+      "type": 0,
+      "value": "Dành cho người lớn"
+    }
+  ],
+  "ZyClWl": [
+    {
+      "type": 0,
+      "value": "Bằng quốc tế cho trẻ em, trải nghiệm học riêng cho trẻ,..."
+    }
+  ],
+  "aBiYmt": [
+    {
+      "type": 0,
+      "value": "Dành cho trẻ em"
+    }
+  ],
+  "aCWkfE": [
+    {
+      "type": 0,
+      "value": "Thái độ của học sinh"
+    }
+  ],
+  "acrOoz": [
+    {
+      "type": 0,
+      "value": "Tiếp tục"
+    }
+  ],
+  "aheQdn": [
+    {
+      "type": 0,
+      "value": "Tên"
+    }
+  ],
+  "ajiSfy": [
+    {
+      "type": 0,
+      "value": "Kết quả"
+    }
+  ],
+  "b0v+Pu": [
+    {
+      "type": 0,
+      "value": "ID buổi học"
+    }
+  ],
+  "blfjwp": [
+    {
+      "type": 0,
+      "value": "Không diễn ra"
+    }
+  ],
+  "boUI9R": [
+    {
+      "type": 0,
+      "value": "Tăng khả năng giao tiếp"
+    }
+  ],
+  "bu0pKs": [
+    {
+      "type": 0,
+      "value": "Tham gia buổi học"
+    }
+  ],
+  "byP6IC": [
+    {
+      "type": 0,
+      "value": "Đã chọn"
+    }
+  ],
+  "c2XR2z": [
+    {
+      "type": 0,
+      "value": "Hãy liên hệ chăm \bsóc khách hàng để được giúp đỡ!"
+    }
+  ],
+  "cHGTZm": [
+    {
+      "type": 0,
+      "value": "Đặt lịch"
+    }
+  ],
+  "cKWR+e": [
+    {
+      "type": 0,
+      "value": "Học mọi lúc mọi nơi trên điện thoại và máy tính"
+    }
+  ],
+  "cTD1CD": [
+    {
+      "type": 0,
+      "value": "Lỗi Server"
+    }
+  ],
+  "cb6/8u": [
+    {
+      "type": 0,
+      "value": "Đăng nhập thất bại! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+    }
+  ],
+  "dM+p3/": [
+    {
+      "type": 0,
+      "value": "Từ"
+    }
+  ],
+  "dQ/0vv": [
+    {
+      "type": 0,
+      "value": "Chưa có thông tin buổi test."
+    }
+  ],
+  "dQ/hHC": [
+    {
+      "type": 0,
+      "value": "\u001dBuổi học trong khoá: "
+    },
+    {
+      "type": 1,
+      "value": "courseId"
+    }
+  ],
+  "dlyhDf": [
+    {
+      "type": 0,
+      "value": "Tối"
+    }
+  ],
+  "eC0B5w": [
+    {
+      "type": 0,
+      "value": "Không, Tôi đã đổi ý"
+    }
+  ],
+  "eeNr/Y": [
+    {
+      "type": 0,
+      "value": "Khoá học của tôi"
+    }
+  ],
+  "euABri": [
+    {
+      "type": 0,
+      "value": "Không nhận được? Gửi lại mã"
+    }
+  ],
+  "fTHhSB": [
+    {
+      "type": 0,
+      "value": "Mật khẩu mới"
+    }
+  ],
+  "fe7Y2Z": [
+    {
+      "type": 0,
+      "value": "Xác nhận mật khẩu mới"
+    }
+  ],
+  "g4eHbW": [
+    {
+      "type": 0,
+      "value": "Đến với khoá học của Antoree"
+    }
+  ],
+  "gFqaCE": [
+    {
+      "type": 0,
+      "value": "Đăng nhập không thành công!"
+    }
+  ],
+  "gQMO+E": [
+    {
+      "type": 0,
+      "value": "Đang tìm giáo viên..."
+    }
+  ],
+  "ggNo0F": [
+    {
+      "type": 0,
+      "value": "Phản hồi buổi học"
+    }
+  ],
+  "gjBiyj": [
+    {
+      "type": 0,
+      "value": "Đang tải..."
+    }
+  ],
+  "grHPam": [
+    {
+      "type": 0,
+      "value": "Vui lòng hoàn thành bài test để tham gia học thử"
+    }
+  ],
+  "h3ICzV": [
+    {
+      "type": 0,
+      "value": "Đang tải buổi học..."
+    }
+  ],
+  "hGQqkW": [
+    {
+      "type": 0,
+      "value": "Lịch"
+    }
+  ],
+  "hS+bnu": [
+    {
+      "type": 0,
+      "value": "Lựa chọn giáo viên phù hợp với mỗi học viên"
+    }
+  ],
+  "hXfCth": [
+    {
+      "type": 0,
+      "value": "Đặt khóa học"
+    }
+  ],
+  "hrxQ/i": [
+    {
+      "type": 0,
+      "value": "Tạo khoá học khôn thành công!"
+    }
+  ],
+  "i3kV2u": [
+    {
+      "type": 0,
+      "value": "Tổng Quan"
+    }
+  ],
+  "i40m33": [
+    {
+      "type": 0,
+      "value": "Nhập mã buổi học được cung cấp vào ô bên dưới để vào buổi học nhanh chóng cùng giáo viên Antoree"
+    }
+  ],
+  "iBdWt0": [
+    {
+      "type": 0,
+      "value": "Tiêu đề buổi học"
+    }
+  ],
+  "iDFfrZ": [
+    {
+      "type": 0,
+      "value": "Đăng ký thất bại. Liên lạc chăm sóc khách hàng để được hỗ trợ! Lỗi: "
+    },
+    {
+      "type": 1,
+      "value": "code"
+    }
+  ],
+  "j7uknr": [
+    {
+      "type": 0,
+      "value": "Linh hoạt"
+    }
+  ],
+  "jIbAky": [
+    {
+      "type": 0,
+      "value": "Nam"
+    }
+  ],
+  "jRpf+4": [
+    {
+      "type": 0,
+      "value": "Tham gia ngay"
+    }
+  ],
+  "jXThAs": [
+    {
+      "type": 0,
+      "value": "Chào mừng bạn"
+    }
+  ],
+  "jvo0vs": [
+    {
+      "type": 0,
+      "value": "Lưu"
+    }
+  ],
+  "k0ZWCr": [
+    {
+      "type": 0,
+      "value": "Đang tải khoá học..."
+    }
+  ],
+  "kH8qaP": [
+    {
+      "type": 0,
+      "value": "Không thể bắt đầu buổi học"
+    }
+  ],
+  "kyB/U/": [
+    {
+      "type": 0,
+      "value": "Tham gia"
+    }
+  ],
+  "l8wanU": [
+    {
+      "type": 0,
+      "value": "Đã tham gia"
+    }
+  ],
+  "lU3lpR": [
+    {
+      "type": 0,
+      "value": "Đổi khoá học không thành công!"
+    }
+  ],
+  "liBmCS": [
+    {
+      "type": 0,
+      "value": "Test tiếng anh miễn phí"
+    }
+  ],
+  "llOJon": [
+    {
+      "type": 0,
+      "value": "Mục đích học"
+    }
+  ],
+  "m8/n8c": [
+    {
+      "type": 0,
+      "value": "Giới tính"
+    }
+  ],
+  "mAXPzx": [
+    {
+      "type": 0,
+      "value": "Xác nhận đặt lịch"
+    }
+  ],
+  "n6s1Id": [
+    {
+      "type": 0,
+      "value": "Chào mừng bạn trở lại với Antoree"
+    }
+  ],
+  "neexcf": [
+    {
+      "type": 0,
+      "value": "Vui lòng nhập Test ID"
+    }
+  ],
+  "nv/xZs": [
+    {
+      "type": 0,
+      "value": "Đã đóng: "
+    },
+    {
+      "type": 1,
+      "value": "totalCourse"
+    },
+    {
+      "type": 0,
+      "value": " khoá học"
+    }
+  ],
+  "o8ROoP": [
+    {
+      "type": 0,
+      "value": "Quyền lợi học viên luôn được đảm bảo"
+    }
+  ],
+  "okCSTN": [
+    {
+      "type": 0,
+      "value": "Mã khóa học (Ví dụ: 32730)"
+    }
+  ],
+  "p6+L3q": [
+    {
+      "type": 0,
+      "value": "Đặt lịch khoá học"
+    }
+  ],
+  "qNCFg+": [
+    {
+      "type": 0,
+      "value": "Khóa chính"
+    }
+  ],
+  "rDbVyG": [
+    {
+      "type": 0,
+      "value": "Chọn khoá học để xem chi tiết các buổi học."
+    }
+  ],
+  "rPY9AU": [
+    {
+      "type": 0,
+      "value": "Đăng nhập thất bại! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm "
+    },
+    {
+      "type": 1,
+      "value": "code"
+    }
+  ],
+  "rbrahO": [
+    {
+      "type": 0,
+      "value": "Đóng"
+    }
+  ],
+  "rjxDoy": [
+    {
+      "type": 0,
+      "value": "Tên"
+    }
+  ],
+  "rnCx/v": [
+    {
+      "type": 0,
+      "value": "Tham gia buổi học"
+    }
+  ],
+  "rpiUSw": [
+    {
+      "type": 0,
+      "value": "Việt Nam"
+    }
+  ],
+  "sIMS7i": [
+    {
+      "type": 0,
+      "value": "Trạng thái"
+    }
+  ],
+  "sW6omg": [
+    {
+      "type": 0,
+      "value": "Thời gian bắt đầu"
+    }
+  ],
+  "scvoKh": [
+    {
+      "type": 0,
+      "value": "Số điện thoại"
+    }
+  ],
+  "subPR1": [
+    {
+      "type": 0,
+      "value": "Tham gia khoá học thử"
+    }
+  ],
+  "svuL7N": [
+    {
+      "type": 0,
+      "value": "Chức năng tham gia cuộc gọi trên thiết bị di động chỉ hỗ trợ qua app Antoree."
+    }
+  ],
+  "t+jiyO": [
+    {
+      "type": 0,
+      "value": "Phân loại"
+    }
+  ],
+  "tf1lIh": [
+    {
+      "type": 0,
+      "value": "Miễn phí"
+    }
+  ],
+  "tx/jZ/": [
+    {
+      "type": 0,
+      "value": "ID "
+    },
+    {
+      "type": 1,
+      "value": "id"
+    }
+  ],
+  "tzMNF3": [
+    {
+      "type": 0,
+      "value": "Trạng thái"
+    }
+  ],
+  "u7E3Yk": [
+    {
+      "type": 0,
+      "value": "Giáo viên"
+    }
+  ],
+  "uCk8r+": [
+    {
+      "type": 0,
+      "value": "Đã có tài khoản?"
+    }
+  ],
+  "uOkn5u": [
+    {
+      "type": 0,
+      "value": "Giáo viên hiện không có thời gian phù hợp!"
+    }
+  ],
+  "uPNU8E": [
+    {
+      "type": 0,
+      "value": "Xác minh không thành công!"
+    }
+  ],
+  "ug01Mk": [
+    {
+      "type": 0,
+      "value": "Thời gian"
+    }
+  ],
+  "uoV/0P": [
+    {
+      "type": 0,
+      "value": "Trẻ em"
+    }
+  ],
+  "uuAH4v": [
+    {
+      "type": 0,
+      "value": "100% thời gian tương tác 1 -1 với giáo viên bằng Tiếng Anh"
+    }
+  ],
+  "vd7Gry": [
+    {
+      "type": 0,
+      "value": "Buổi test"
+    }
+  ],
+  "viXE32": [
+    {
+      "type": 0,
+      "value": "Riêng tư"
+    }
+  ],
+  "w1IywU": [
+    {
+      "type": 0,
+      "value": "Hồ sơ học tập"
+    }
+  ],
+  "w4eXTl": [
+    {
+      "type": 0,
+      "value": "Không tìm thấy khóa học"
+    }
+  ],
+  "wTO/ag": [
+    {
+      "type": 0,
+      "value": "Tham Khảo Kết Quả Kiểm Tra"
+    }
+  ],
+  "wvnf6S": [
+    {
+      "type": 0,
+      "value": "Tổng: "
+    },
+    {
+      "type": 1,
+      "value": "totalCourse"
+    },
+    {
+      "type": 0,
+      "value": " khoá học"
+    }
+  ],
+  "x73B8S": [
+    {
+      "type": 0,
+      "value": "Chọn mục đích"
+    }
+  ],
+  "x8VqKP": [
+    {
+      "type": 0,
+      "value": "Trẻ em"
+    }
+  ],
+  "xv/i3O": [
+    {
+      "type": 0,
+      "value": "Sáng"
+    }
+  ],
+  "xzyHM+": [
+    {
+      "type": 0,
+      "value": "Tiếng Việt"
+    }
+  ],
+  "yuDEqv": [
+    {
+      "type": 0,
+      "value": "Kết quả BTVN"
+    }
+  ],
+  "yz77Hk": [
+    {
+      "type": 0,
+      "value": "Lỗi không có Learning Request! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+    }
+  ],
+  "zEqYhm": [
+    {
+      "type": 0,
+      "value": "Nội dung bài tập về nhà"
+    }
+  ],
+  "zGa/yi": [
+    {
+      "type": 0,
+      "value": "Học thử"
+    }
+  ],
+  "zHPqOq": [
+    {
+      "type": 0,
+      "value": "Người lớn"
+    }
+  ],
+  "zQvVDJ": [
+    {
+      "type": 0,
+      "value": "Tất cả"
+    }
+  ],
+  "zWgbGg": [
+    {
+      "type": 0,
+      "value": "Hôm nay"
+    }
+  ]
+}

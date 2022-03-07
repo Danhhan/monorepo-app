@@ -1,0 +1,9 @@
+.confirmSessionBg {
+  @apply lg:flex-grow w-full bg-center bg-contain bg-no-repeat;
+  background-image: url('../../assets/images/mobile-suggest-bg.png');
+  min-height: 170px;
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+}

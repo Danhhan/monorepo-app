@@ -1,0 +1,84 @@
+#collapsibleNavbar {
+  margin-left: 20%;
+}
+#search {
+  display: none;
+}
+#menumobile {
+  display: none;
+}
+@media only screen and (max-width: 1980px) {
+  #collapsibleNavbar {
+    margin-left: 10%;
+    margin-top: 20px;
+  }
+
+  #tabitemtkhomepage {
+    position: absolute;
+    left: 50%;
+    margin-top: -20px;
+    margin-left: -100px;
+  }
+}
+#menumainlayout {
+  width: 100vw;
+  position: fixed;
+  z-index: 20;
+  top: 0;
+  margin-bottom: 20%;
+  box-shadow: 0px 0.7px 1.4px rgba(0, 0, 0, 0.07),
+    0px 1.9px 4px rgba(0, 0, 0, 0.05), 0px 4.5px 10px rgba(0, 0, 0, 0.05);
+  padding: 2px;
+}
+
+@media only screen and (max-width: 1280px) {
+  #collapsibleNavbar {
+    margin-left: 10%;
+  }
+  // #tabitem {
+  //   margin-left: 20%;
+  // }
+}
+
+@media (orientation: portrait) and (max-width: 768px) {
+  #collapsibleNavbar {
+    margin-left: 10%;
+  }
+  #tabitem {
+    margin-left: 10%;
+  }
+  #search {
+    display: inline;
+    margin-left: 55%;
+  }
+  #menumobile {
+    display: inline;
+  }
+}
+@media (orientation: portrait) and (max-device-width: 412px) {
+  #search {
+    display: inline;
+    margin-left: 25%;
+  }
+  #menumobile {
+    display: inline;
+  }
+}
+@media (orientation: portrait) and (max-device-width: 360px) {
+  #search {
+    display: inline;
+    margin-left: 15%;
+  }
+  #menumobile {
+    display: inline;
+  }
+}
+@media (orientation: portrait) and (max-device-width: 280px) {
+  #search {
+    display: inline;
+    margin-left: 5%;
+  }
+  #menumobile {
+    display: inline;
+  }
+}

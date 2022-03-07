@@ -1,0 +1,54 @@
+.DetailItem {
+  margin-top: 120px;
+}
+#infobox {
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  height: 135px;
+}
+#infoboxloading {
+  border: 0.5px solid #cecece;
+  border-radius: 8px;
+  height: 135px;
+  width: 400px;
+}
+#title {
+  font-size: 22px;
+  font-weight: bold;
+}
+#infoboxdetail {
+  margin-top: 20px;
+  width: 100%;
+  height: 140px;
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  padding: '2px 0px 2px 0px';
+}
+
+@media only screen and (max-width: 600px) {
+  #infobox {
+    border: 1px solid #cecece;
+    border-radius: 8px;
+    width: 90%;
+    margin-left: 5%;
+  }
+  #infoboxdetail {
+    margin-top: 25px;
+    width: 90%;
+    height: auto;
+    border: 1px solid #cecece;
+    border-radius: 8px;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    padding: '2px 0px 2px 0px';
+  }
+  #title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 5%;
+  }
+  .DetailItem {
+    margin-top: 8%;
+    height: auto;
+  }
+}

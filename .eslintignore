@@ -1,0 +1,18 @@
+# Global ignore
+**/node_modules/**
+**/.git/**
+**/.yarn/**
+**/.husky/**
+**/dist/**
+**/coverage/**
+**/build/**
+**/lib/**
+**/public/**
+**/service-worker.*
+**/serviceWorkerRegistration.*
+
+
+# Project scope ignore
+shared/eslint-config-ant/
+packages/next-admin/src/containers/Student/StudentDetail/StudentDetail.js
+

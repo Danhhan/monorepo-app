@@ -1,0 +1,24 @@
+.courseCardContent {
+  @apply relative overflow-hidden;
+  cursor: pointer;
+  &:hover .viewDetail {
+    transition: right 0.5s ease;
+    right: -1%;
+  }
+  &:hover .duration {
+    transition: right 0.5s ease;
+    right: 12%;
+    margin-right: 12px;
+  }
+  .viewDetail {
+    margin-left: 0;
+    margin-right: 0;
+    @apply absolute;
+    right: -100%;
+  }
+  .duration {
+    margin-right: 0;
+    @apply absolute;
+    right: 0;
+  }
+}

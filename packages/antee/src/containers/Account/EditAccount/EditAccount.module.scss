@@ -1,0 +1,50 @@
+  .Edit {
+    position: static;
+    width: 750px;
+    height: 250px;
+    left: calc(50% - 656px / 2);
+    top: calc(50% - 112px / 2 + 4px);
+    border: rgb(121, 112, 112) solid 0.5px;
+    border-radius: 8px;
+
+    /* Core/Empty - $euiColorEmptyShade */
+
+    background: #ffffff;
+
+    /* Inside Auto Layout */
+
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    margin-top: 100px;
+  }
+  .TextEdit {
+    width: 300px;
+    margin-left: 20px;
+  }
+  .EditContent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 750px;
+    margin-left: 5%;
+    margin-top: 5%;
+  }
+  .Label {
+    margin-left: 55px;
+    margin-top: 5%;
+    font-weight: 600;
+  }
+  .hr {
+    position: absolute;
+    margin-top: 20px;
+    height: 0.09px;
+    width: 100%;
+    background-color: rgb(95, 100, 96);
+  }
+  .Btnsave {
+    float: right;
+    margin-left: 200px;
+  }
+

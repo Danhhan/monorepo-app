@@ -1,0 +1,719 @@
+{
+  "+U6ozc": {
+    "message": "Loại"
+  },
+  "/161r2": {
+    "message": "Đang tải khoá học..."
+  },
+  "/4wXyO": {
+    "message": "Gửi lại không thành công!"
+  },
+  "/PLVzX": {
+    "message": "Test ID phải là số nguyên dương"
+  },
+  "/n98Fm": {
+    "message": "Họ"
+  },
+  "08dQvE": {
+    "message": "Số điện thoại"
+  },
+  "0CzjFB": {
+    "message": "Chương trình học"
+  },
+  "0DUbiY": {
+    "message": "Bài tập về nhà"
+  },
+  "0IajTz": {
+    "message": "Tham gia khóa học"
+  },
+  "0hNB7i": {
+    "message": "Kết quả"
+  },
+  "1aVtLW": {
+    "message": "Bạn chưa đặt lịch test. Chọn {link} để hoàn tất đăng ký tham gia."
+  },
+  "1bM5e1": {
+    "message": "Không tìm thấy buổi học"
+  },
+  "1txNtf": {
+    "message": "Tạo thành công"
+  },
+  "2+kAwK": {
+    "message": "Tạm hoãn"
+  },
+  "232q+I": {
+    "message": "{courses} buổi học thử"
+  },
+  "2GFjIN": {
+    "message": "Nhập mật khẩu"
+  },
+  "2QJqr+": {
+    "message": "Tải app Antoree để tham gia buổi test"
+  },
+  "2c5Jmp": {
+    "message": "Tất cả các buổi học"
+  },
+  "30TWdP": {
+    "message": "Nội dung từ vựng"
+  },
+  "39AHJm": {
+    "message": "Đăng ký"
+  },
+  "3wsVWF": {
+    "message": "Đã huỷ"
+  },
+  "47FYwb": {
+    "message": "Hủy"
+  },
+  "4q+8tM": {
+    "message": "Mở: {totalCourse} khoá học"
+  },
+  "4rzkE5": {
+    "message": "Bản ghi {order}"
+  },
+  "4zRPjf": {
+    "message": "Tạm dừng: {totalCourse} khoá học"
+  },
+  "52UMW3": {
+    "message": "Tất cả giờ"
+  },
+  "6/aEFZ": {
+    "message": "Sắp diễn ra"
+  },
+  "6PiRF9": {
+    "message": "Đổi lịch test"
+  },
+  "6w01yi": {
+    "message": "-- Chọn thời gian --"
+  },
+  "72ui7O": {
+    "message": "Về trang chủ"
+  },
+  "74BYXL": {
+    "message": "Nữ"
+  },
+  "7Y6Yvq": {
+    "message": "Video buổi học"
+  },
+  "8RtPNv": {
+    "message": "Khoá học thử"
+  },
+  "9/yVib": {
+    "message": "Xác minh thành công"
+  },
+  "95stPq": {
+    "message": "Hoàn thành"
+  },
+  "9Jehq4": {
+    "message": "Buổi học hôm nay"
+  },
+  "9hqlcd": {
+    "message": "Đề xuất giáo viên phù hợp"
+  },
+  "9j3hXO": {
+    "message": "Đến"
+  },
+  "9uOFF3": {
+    "message": "Tổng Quan"
+  },
+  "9vB75n": {
+    "message": "Chúng tôi đã gửi 1 mã 6 số đến cho bạn. Hãy kiểm tra điện thoại."
+  },
+  "A6ZA/Z": {
+    "message": "Lỗi không có contact! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+  },
+  "ARWQa7": {
+    "message": "Khoá học {type} của bạn thời gian: {date}, từ {timeFrom}."
+  },
+  "B5qO7V": {
+    "message": "Tìm kiếm bằng tên giáo viên"
+  },
+  "BEX6A7": {
+    "message": "Thông tin cá nhân"
+  },
+  "BSij1a": {
+    "message": "đóng"
+  },
+  "BUxbAO": {
+    "message": "Mục tiêu học"
+  },
+  "BofAZ9": {
+    "message": "Kiểm tra trình độ"
+  },
+  "By4O6Y": {
+    "message": "Vui lòng nhập kí tự số"
+  },
+  "CGA7Qm": {
+    "message": "Xem ghi hình"
+  },
+  "CM8x2X": {
+    "message": "Chủ động"
+  },
+  "CMbqoE": {
+    "message": "Nhập email hoặc điện thoại số"
+  },
+  "Cpf94t": {
+    "message": "Vượt quá giới hạn khoá học cho phép"
+  },
+  "Cppqb7": {
+    "message": "Nội dung từ vựng"
+  },
+  "DIDBlF": {
+    "message": "Đã có lỗi xảy ra!"
+  },
+  "DhQlSD": {
+    "message": "Tải app ngay"
+  },
+  "E80WrK": {
+    "message": "Thông tin"
+  },
+  "EBvApA": {
+    "message": "ID {sessionId} {sessionTitle}"
+  },
+  "EHRQZv": {
+    "message": "Vui lòng nhập mã khoá học được cung cấp vào ô bên dưới để tham gia buổi học"
+  },
+  "EPTlRP": {
+    "message": "Hỗ trợ"
+  },
+  "ESnW7g": {
+    "message": "Kết quả BTVN"
+  },
+  "EWyQH5": {
+    "message": "Quốc Tế"
+  },
+  "EeVzlQ": {
+    "message": "Nội dung ngữ pháp"
+  },
+  "EhVruH": {
+    "message": "Tìm kiếm"
+  },
+  "F+SsQp": {
+    "message": "Ngày mai"
+  },
+  "F/t8q6": {
+    "message": "Nhận lộ trình kép"
+  },
+  "F5W4oC": {
+    "message": "Nội dung bài tập về nhà"
+  },
+  "F6bRVb": {
+    "message": "Đổi mật khẩu thành công!"
+  },
+  "FD+PFV": {
+    "message": "Nội dung ngữ pháp"
+  },
+  "FE+nHG": {
+    "message": "Học viên biết được năng lực hiện tại của mình"
+  },
+  "GFTdXw": {
+    "message": "Ngày sinh"
+  },
+  "GkKYZL": {
+    "message": "Không có khoá học cho ngày hôm nay. Hãy chọn giáo viên bạn yêu thích và bắt đầu học nào."
+  },
+  "Gtakub": {
+    "message": "Khác (Tuỳ chọn)"
+  },
+  "H0JBH6": {
+    "message": "Đăng xuất"
+  },
+  "HUjcIB": {
+    "message": "Hôm nay"
+  },
+  "I+1HSy": {
+    "message": "Học thử"
+  },
+  "J9JF+p": {
+    "message": "Bắt đầu buổi học"
+  },
+  "JBF/87": {
+    "message": "Tiếp tục thay đổi"
+  },
+  "JNj8eH": {
+    "message": "Chọn khoá học để xem những buổi học chi tiết."
+  },
+  "JfG49w": {
+    "message": "Mở"
+  },
+  "K3v9+M": {
+    "message": "Chọn ngày rảnh để bắt đầu buổi học!"
+  },
+  "L0ZY4x": {
+    "message": "Thái độ của học viên"
+  },
+  "L4nXIc": {
+    "message": "Đổi mật khẩu"
+  },
+  "LJ+F4N": {
+    "message": "Đặt lịch giáo viên"
+  },
+  "LrYIFK": {
+    "message": "Gửi lại mã thành công"
+  },
+  "Lwy31Q": {
+    "message": "Chuẩn quốc tế"
+  },
+  "M+Qxg3": {
+    "message": "Không có buổi học hôm nay"
+  },
+  "MLiW1a": {
+    "message": "Chinh phục các bằng cấp quốc tế, hỗ trợ công việc,..."
+  },
+  "MtrTNy": {
+    "message": "Ngày mai"
+  },
+  "N2IrpM": {
+    "message": "Xác nhận"
+  },
+  "N7+qV2": {
+    "message": "Không, hãy giữ nguyên"
+  },
+  "NIynnB": {
+    "message": "Mật khẩu hiện tại"
+  },
+  "NSyuEP": {
+    "message": "Nhập mã xác thực"
+  },
+  "NVhWmw": {
+    "message": "Từ Anh, Úc, Mỹ, Canada, Philippines và Việt Nam"
+  },
+  "Ne1NR/": {
+    "message": "Bài tập về nhà"
+  },
+  "O95R3Z": {
+    "message": "Số điện thoại"
+  },
+  "OXDyuT": {
+    "message": "Mục tiêu học"
+  },
+  "P6PLpi": {
+    "message": "Tham gia"
+  },
+  "P8CiZ+": {
+    "message": "Thông tin buổi học thử"
+  },
+  "PgJGHT": {
+    "message": "Có sẵn"
+  },
+  "PlBReU": {
+    "message": "Đăng xuất"
+  },
+  "PvmsBF": {
+    "message": "Trạng thái khoá học"
+  },
+  "Q6wcZ5": {
+    "message": "Họ"
+  },
+  "QF8hwJ": {
+    "message": "Tham gia buổi học"
+  },
+  "QRC/NM": {
+    "message": "Hiện tại không có khoá học."
+  },
+  "QTvWGs": {
+    "message": "Chiều"
+  },
+  "QlsDcr": {
+    "message": "Thao tác"
+  },
+  "Qu3us1": {
+    "message": "Tham gia test"
+  },
+  "R50Ch8": {
+    "message": "Huỷ khoá học hiện tại sau đó chọn lại giáo viên để bắt đầu khoá học mới."
+  },
+  "R86IN4": {
+    "message": "Tạm hoãn"
+  },
+  "RKuSvJ": {
+    "message": "Chúng tôi tạm thời chưa hỗ trợ phiên bản điện \u001dthoại cho tính năng này."
+  },
+  "RVhqZ4": {
+    "message": "Tải xuống thất bại"
+  },
+  "RZVeul": {
+    "message": "Email hoặc điện thoại số"
+  },
+  "RhoJ0D": {
+    "message": "Không có tài khoản?"
+  },
+  "Rybgfg": {
+    "message": "Bắt đầu"
+  },
+  "S2lDfu": {
+    "message": "Cập nhật thông tin thất bại!"
+  },
+  "SF0WU5": {
+    "message": "Tiêu đề buổi học"
+  },
+  "SGdcJD": {
+    "message": "Nhập mã"
+  },
+  "SQJto2": {
+    "message": "Đăng nhập"
+  },
+  "SelUZB": {
+    "message": "Chức năng tham gia gọi trên thiết bị di động chỉ hỗ trợ qua app Antoree."
+  },
+  "T23M7v": {
+    "message": "Chào mừng bạn tới Antoree"
+  },
+  "TH6xEq": {
+    "message": "Chọn ngày bạn muốn thực hiện buổi test"
+  },
+  "TUYrlM": {
+    "message": "Tên người dùng hoặc mật khẩu không hợp lệ"
+  },
+  "TemVby": {
+    "message": "Tên đầy đủ"
+  },
+  "Tj4hr9": {
+    "message": "Thông tin cá nhân"
+  },
+  "U9ZS0q": {
+    "message": "Phản hồi buổi học từ giáo viên"
+  },
+  "UD0YHG": {
+    "message": "Thi chứng chỉ Cambridge, IELTS, TOEFL"
+  },
+  "UFSwqb": {
+    "message": "Không xác định"
+  },
+  "Ub+AGc": {
+    "message": "Đăng Nhập"
+  },
+  "VMBH5+": {
+    "message": "Sau buổi test, bạn sẽ nhận được {highlight}."
+  },
+  "VuzjdC": {
+    "message": "Đang diễn ra"
+  },
+  "WM4MxD": {
+    "message": "Trải nghiệm buổi học online 1 - 1 với giáo viên của Antoree"
+  },
+  "WViqNz": {
+    "message": "Test ID (Ví dụ: 32730)"
+  },
+  "WdWd8e": {
+    "message": "Hôm nay"
+  },
+  "WkrNSk": {
+    "message": "Tiếng Anh"
+  },
+  "X0AL6c": {
+    "message": "Chưa có giáo viên nào có lịch trống"
+  },
+  "XBoahx": {
+    "message": "Lỗi Server"
+  },
+  "XFsHPo": {
+    "message": "Đang tải..."
+  },
+  "Y/tCwS": {
+    "message": "Dựa trên thang điểm chuẩn Cambridge/Oxford"
+  },
+  "YTszvQ": {
+    "message": "Dành cho người lớn"
+  },
+  "ZyClWl": {
+    "message": "Bằng quốc tế cho trẻ em, trải nghiệm học riêng cho trẻ,..."
+  },
+  "aBiYmt": {
+    "message": "Dành cho trẻ em"
+  },
+  "aCWkfE": {
+    "message": "Thái độ của học sinh"
+  },
+  "acrOoz": {
+    "message": "Tiếp tục"
+  },
+  "aheQdn": {
+    "message": "Tên"
+  },
+  "ajiSfy": {
+    "message": "Kết quả"
+  },
+  "b0v+Pu": {
+    "message": "ID buổi học"
+  },
+  "blfjwp": {
+    "message": "Không diễn ra"
+  },
+  "boUI9R": {
+    "message": "Tăng khả năng giao tiếp"
+  },
+  "bu0pKs": {
+    "message": "Tham gia buổi học"
+  },
+  "byP6IC": {
+    "message": "Đã chọn"
+  },
+  "c2XR2z": {
+    "message": "Hãy liên hệ chăm \bsóc khách hàng để được giúp đỡ!"
+  },
+  "cHGTZm": {
+    "message": "Đặt lịch"
+  },
+  "cKWR+e": {
+    "message": "Học mọi lúc mọi nơi trên điện thoại và máy tính"
+  },
+  "cTD1CD": {
+    "message": "Lỗi Server"
+  },
+  "cb6/8u": {
+    "message": "Đăng nhập thất bại! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+  },
+  "dM+p3/": {
+    "message": "Từ"
+  },
+  "dQ/0vv": {
+    "message": "Chưa có thông tin buổi test."
+  },
+  "dQ/hHC": {
+    "message": "\u001dBuổi học trong khoá: {courseId}"
+  },
+  "dlyhDf": {
+    "message": "Tối"
+  },
+  "eC0B5w": {
+    "message": "Không, Tôi đã đổi ý"
+  },
+  "eeNr/Y": {
+    "message": "Khoá học của tôi"
+  },
+  "euABri": {
+    "message": "Không nhận được? Gửi lại mã"
+  },
+  "fTHhSB": {
+    "message": "Mật khẩu mới"
+  },
+  "fe7Y2Z": {
+    "message": "Xác nhận mật khẩu mới"
+  },
+  "g4eHbW": {
+    "message": "Đến với khoá học của Antoree"
+  },
+  "gFqaCE": {
+    "message": "Đăng nhập không thành công!"
+  },
+  "gQMO+E": {
+    "message": "Đang tìm giáo viên..."
+  },
+  "ggNo0F": {
+    "message": "Phản hồi buổi học"
+  },
+  "gjBiyj": {
+    "message": "Đang tải..."
+  },
+  "grHPam": {
+    "message": "Vui lòng hoàn thành bài test để tham gia học thử"
+  },
+  "h3ICzV": {
+    "message": "Đang tải buổi học..."
+  },
+  "hGQqkW": {
+    "message": "Lịch"
+  },
+  "hS+bnu": {
+    "message": "Lựa chọn giáo viên phù hợp với mỗi học viên"
+  },
+  "hXfCth": {
+    "message": "Đặt khóa học"
+  },
+  "hrxQ/i": {
+    "message": "Tạo khoá học khôn thành công!"
+  },
+  "i3kV2u": {
+    "message": "Tổng Quan"
+  },
+  "i40m33": {
+    "message": "Nhập mã buổi học được cung cấp vào ô bên dưới để vào buổi học nhanh chóng cùng giáo viên Antoree"
+  },
+  "iBdWt0": {
+    "message": "Tiêu đề buổi học"
+  },
+  "iDFfrZ": {
+    "message": "Đăng ký thất bại. Liên lạc chăm sóc khách hàng để được hỗ trợ! Lỗi: {code}"
+  },
+  "j7uknr": {
+    "message": "Linh hoạt"
+  },
+  "jIbAky": {
+    "message": "Nam"
+  },
+  "jRpf+4": {
+    "message": "Tham gia ngay"
+  },
+  "jXThAs": {
+    "message": "Chào mừng bạn"
+  },
+  "jvo0vs": {
+    "message": "Lưu"
+  },
+  "k0ZWCr": {
+    "message": "Đang tải khoá học..."
+  },
+  "kH8qaP": {
+    "message": "Không thể bắt đầu buổi học"
+  },
+  "kyB/U/": {
+    "message": "Tham gia"
+  },
+  "l8wanU": {
+    "message": "Đã tham gia"
+  },
+  "lU3lpR": {
+    "message": "Đổi khoá học không thành công!"
+  },
+  "liBmCS": {
+    "message": "Test tiếng anh miễn phí"
+  },
+  "llOJon": {
+    "message": "Mục đích học"
+  },
+  "m8/n8c": {
+    "message": "Giới tính"
+  },
+  "mAXPzx": {
+    "message": "Xác nhận đặt lịch"
+  },
+  "n6s1Id": {
+    "message": "Chào mừng bạn trở lại với Antoree"
+  },
+  "neexcf": {
+    "message": "Vui lòng nhập Test ID"
+  },
+  "nv/xZs": {
+    "message": "Đã đóng: {totalCourse} khoá học"
+  },
+  "o8ROoP": {
+    "message": "Quyền lợi học viên luôn được đảm bảo"
+  },
+  "okCSTN": {
+    "message": "Mã khóa học (Ví dụ: 32730)"
+  },
+  "p6+L3q": {
+    "message": "Đặt lịch khoá học"
+  },
+  "qNCFg+": {
+    "message": "Khóa chính"
+  },
+  "rDbVyG": {
+    "message": "Chọn khoá học để xem chi tiết các buổi học."
+  },
+  "rPY9AU": {
+    "message": "Đăng nhập thất bại! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm {code}"
+  },
+  "rbrahO": {
+    "message": "Đóng"
+  },
+  "rjxDoy": {
+    "message": "Tên"
+  },
+  "rnCx/v": {
+    "message": "Tham gia buổi học"
+  },
+  "rpiUSw": {
+    "message": "Việt Nam"
+  },
+  "sIMS7i": {
+    "message": "Trạng thái"
+  },
+  "sW6omg": {
+    "message": "Thời gian bắt đầu"
+  },
+  "scvoKh": {
+    "message": "Số điện thoại"
+  },
+  "subPR1": {
+    "message": "Tham gia khoá học thử"
+  },
+  "svuL7N": {
+    "message": "Chức năng tham gia cuộc gọi trên thiết bị di động chỉ hỗ trợ qua app Antoree."
+  },
+  "t+jiyO": {
+    "message": "Phân loại"
+  },
+  "tf1lIh": {
+    "message": "Miễn phí"
+  },
+  "tx/jZ/": {
+    "message": "ID {id}"
+  },
+  "tzMNF3": {
+    "message": "Trạng thái"
+  },
+  "u7E3Yk": {
+    "message": "Giáo viên"
+  },
+  "uCk8r+": {
+    "message": "Đã có tài khoản?"
+  },
+  "uOkn5u": {
+    "message": "Giáo viên hiện không có thời gian phù hợp!"
+  },
+  "uPNU8E": {
+    "message": "Xác minh không thành công!"
+  },
+  "ug01Mk": {
+    "message": "Thời gian"
+  },
+  "uoV/0P": {
+    "message": "Trẻ em"
+  },
+  "uuAH4v": {
+    "message": "100% thời gian tương tác 1 -1 với giáo viên bằng Tiếng Anh"
+  },
+  "vd7Gry": {
+    "message": "Buổi test"
+  },
+  "viXE32": {
+    "message": "Riêng tư"
+  },
+  "w1IywU": {
+    "message": "Hồ sơ học tập"
+  },
+  "w4eXTl": {
+    "message": "Không tìm thấy khóa học"
+  },
+  "wTO/ag": {
+    "message": "Tham Khảo Kết Quả Kiểm Tra"
+  },
+  "wvnf6S": {
+    "message": "Tổng: {totalCourse} khoá học"
+  },
+  "x73B8S": {
+    "message": "Chọn mục đích"
+  },
+  "x8VqKP": {
+    "message": "Trẻ em"
+  },
+  "xv/i3O": {
+    "message": "Sáng"
+  },
+  "xzyHM+": {
+    "message": "Tiếng Việt"
+  },
+  "yuDEqv": {
+    "message": "Kết quả BTVN"
+  },
+  "yz77Hk": {
+    "message": "Lỗi không có Learning Request! Liên lạc với chăm sóc khách hàng để được trợ giúp thêm!"
+  },
+  "zEqYhm": {
+    "message": "Nội dung bài tập về nhà"
+  },
+  "zGa/yi": {
+    "message": "Học thử"
+  },
+  "zHPqOq": {
+    "message": "Người lớn"
+  },
+  "zQvVDJ": {
+    "message": "Tất cả"
+  },
+  "zWgbGg": {
+    "message": "Hôm nay"
+  }
+}

@@ -1,0 +1,719 @@
+{
+  "+U6ozc": {
+    "message": "Type"
+  },
+  "/161r2": {
+    "message": "Loading Courses..."
+  },
+  "/4wXyO": {
+    "message": "Resend failed!"
+  },
+  "/PLVzX": {
+    "message": "Test ID must be a positive integer"
+  },
+  "/n98Fm": {
+    "message": "Your First Name"
+  },
+  "08dQvE": {
+    "message": "Your Phone Number"
+  },
+  "0CzjFB": {
+    "message": "Study program"
+  },
+  "0DUbiY": {
+    "message": "Homework"
+  },
+  "0IajTz": {
+    "message": "Join Course"
+  },
+  "0hNB7i": {
+    "message": "View result"
+  },
+  "1aVtLW": {
+    "message": "You still not book a test. Select {link} to complete sign up."
+  },
+  "1bM5e1": {
+    "message": "The test session not found"
+  },
+  "1txNtf": {
+    "message": "Create Success"
+  },
+  "2+kAwK": {
+    "message": "Delayed"
+  },
+  "232q+I": {
+    "message": "{courses} Course"
+  },
+  "2GFjIN": {
+    "message": "Enter your password"
+  },
+  "2QJqr+": {
+    "message": "Download App to join the class"
+  },
+  "2c5Jmp": {
+    "message": "All Course Sessions"
+  },
+  "30TWdP": {
+    "message": "Vocabulary Content"
+  },
+  "39AHJm": {
+    "message": "Sign Up"
+  },
+  "3wsVWF": {
+    "message": "Canceled"
+  },
+  "47FYwb": {
+    "message": "Cancel"
+  },
+  "4q+8tM": {
+    "message": "Opening: {totalCourse} courses"
+  },
+  "4rzkE5": {
+    "message": "Record {order}"
+  },
+  "4zRPjf": {
+    "message": "Paused: {totalCourse} courses"
+  },
+  "52UMW3": {
+    "message": "All Time"
+  },
+  "6/aEFZ": {
+    "message": "Upcoming"
+  },
+  "6PiRF9": {
+    "message": "Change the test schedule"
+  },
+  "6w01yi": {
+    "message": "-- Enter Time Range --"
+  },
+  "72ui7O": {
+    "message": "Go to home"
+  },
+  "74BYXL": {
+    "message": "Female"
+  },
+  "7Y6Yvq": {
+    "message": "Record"
+  },
+  "8RtPNv": {
+    "message": "Trial Course"
+  },
+  "9/yVib": {
+    "message": "Verify Success"
+  },
+  "95stPq": {
+    "message": "Completed"
+  },
+  "9Jehq4": {
+    "message": "Today Sessions"
+  },
+  "9hqlcd": {
+    "message": "Suggest Teachers For You"
+  },
+  "9j3hXO": {
+    "message": "To"
+  },
+  "9uOFF3": {
+    "message": "Overview"
+  },
+  "9vB75n": {
+    "message": "We have send you a 6 - digits code. Please check your phone."
+  },
+  "A6ZA/Z": {
+    "message": "Error no contact! Please contact customer care for help!"
+  },
+  "ARWQa7": {
+    "message": "Your {type} course schedule: {date}, from {timeFrom}."
+  },
+  "B5qO7V": {
+    "message": "Search by teacher's name"
+  },
+  "BEX6A7": {
+    "message": "My profile"
+  },
+  "BSij1a": {
+    "message": "close"
+  },
+  "BUxbAO": {
+    "message": "Your goal"
+  },
+  "BofAZ9": {
+    "message": "Level test"
+  },
+  "By4O6Y": {
+    "message": "Please fill numeric characters"
+  },
+  "CGA7Qm": {
+    "message": "Watch records"
+  },
+  "CM8x2X": {
+    "message": "Agent"
+  },
+  "CMbqoE": {
+    "message": "Enter email address or phone number"
+  },
+  "Cpf94t": {
+    "message": "Exceeds the limit of course duration"
+  },
+  "Cppqb7": {
+    "message": "Type vocabulary content"
+  },
+  "DIDBlF": {
+    "message": "Error!"
+  },
+  "DhQlSD": {
+    "message": "Download the app now"
+  },
+  "E80WrK": {
+    "message": "Information"
+  },
+  "EBvApA": {
+    "message": "ID {sessionId} {sessionTitle}"
+  },
+  "EHRQZv": {
+    "message": "Enter the Test ID code provided in the form below to join the test session with your student"
+  },
+  "EPTlRP": {
+    "message": "Support"
+  },
+  "ESnW7g": {
+    "message": "Homework Result Attachment"
+  },
+  "EWyQH5": {
+    "message": "Global"
+  },
+  "EeVzlQ": {
+    "message": "Grammar Content"
+  },
+  "EhVruH": {
+    "message": "Search this"
+  },
+  "F+SsQp": {
+    "message": "Tomorrow"
+  },
+  "F/t8q6": {
+    "message": "Get dual route"
+  },
+  "F5W4oC": {
+    "message": "Type homework content"
+  },
+  "F6bRVb": {
+    "message": "Change password success!"
+  },
+  "FD+PFV": {
+    "message": "Type grammar content"
+  },
+  "FE+nHG": {
+    "message": "Student know their level"
+  },
+  "GFTdXw": {
+    "message": "Date of birth"
+  },
+  "GkKYZL": {
+    "message": "There is no course today. Let’s book your favorite teacher and start to learn."
+  },
+  "Gtakub": {
+    "message": "Others (Optional)"
+  },
+  "H0JBH6": {
+    "message": "Log out"
+  },
+  "HUjcIB": {
+    "message": "Today"
+  },
+  "I+1HSy": {
+    "message": "Trial"
+  },
+  "J9JF+p": {
+    "message": "Start session"
+  },
+  "JBF/87": {
+    "message": "Continue to change"
+  },
+  "JNj8eH": {
+    "message": "Select the course to see it sessions in details."
+  },
+  "JfG49w": {
+    "message": "Open"
+  },
+  "K3v9+M": {
+    "message": "Available date is required!"
+  },
+  "L0ZY4x": {
+    "message": "Type student’s attitude"
+  },
+  "L4nXIc": {
+    "message": "Change password"
+  },
+  "LJ+F4N": {
+    "message": "Book Teacher"
+  },
+  "LrYIFK": {
+    "message": "Resend Success"
+  },
+  "Lwy31Q": {
+    "message": "International standard"
+  },
+  "M+Qxg3": {
+    "message": "There's no session available on today"
+  },
+  "MLiW1a": {
+    "message": "Conquering international qualifications, job support,..."
+  },
+  "MtrTNy": {
+    "message": "Tomorrow"
+  },
+  "N2IrpM": {
+    "message": "Confirm"
+  },
+  "N7+qV2": {
+    "message": "No, just keep this"
+  },
+  "NIynnB": {
+    "message": "Current password"
+  },
+  "NSyuEP": {
+    "message": "Enter verification code"
+  },
+  "NVhWmw": {
+    "message": "From England, Australia, Canada, Philippines and VietNam"
+  },
+  "Ne1NR/": {
+    "message": "Homework Attachment"
+  },
+  "O95R3Z": {
+    "message": "Phone"
+  },
+  "OXDyuT": {
+    "message": "Your goals"
+  },
+  "P6PLpi": {
+    "message": "Join"
+  },
+  "P8CiZ+": {
+    "message": "Thông tin buổi học thử"
+  },
+  "PgJGHT": {
+    "message": "Available"
+  },
+  "PlBReU": {
+    "message": "Log out"
+  },
+  "PvmsBF": {
+    "message": "Course status"
+  },
+  "Q6wcZ5": {
+    "message": "First Name"
+  },
+  "QF8hwJ": {
+    "message": "Join session"
+  },
+  "QRC/NM": {
+    "message": "There is no course yet."
+  },
+  "QTvWGs": {
+    "message": "Afternoon"
+  },
+  "QlsDcr": {
+    "message": "Action"
+  },
+  "Qu3us1": {
+    "message": "Join Test"
+  },
+  "R50Ch8": {
+    "message": "Cancel the current session and choose your testing teacher, date & time again."
+  },
+  "R86IN4": {
+    "message": "Delayed"
+  },
+  "RKuSvJ": {
+    "message": "We recently still not support web version for this feature on mobile devices."
+  },
+  "RVhqZ4": {
+    "message": "Download failed"
+  },
+  "RZVeul": {
+    "message": "Email or Phone Number"
+  },
+  "RhoJ0D": {
+    "message": "Not have an account?"
+  },
+  "Rybgfg": {
+    "message": "Start"
+  },
+  "S2lDfu": {
+    "message": "Update Info Failed!"
+  },
+  "SF0WU5": {
+    "message": "Type title of session"
+  },
+  "SGdcJD": {
+    "message": "Enter code"
+  },
+  "SQJto2": {
+    "message": "Sign in"
+  },
+  "SelUZB": {
+    "message": "The function of joining calls on mobile devices is only available through the Antoree app."
+  },
+  "T23M7v": {
+    "message": "Welcome to Antoree"
+  },
+  "TH6xEq": {
+    "message": "Please select date you available for test"
+  },
+  "TUYrlM": {
+    "message": "Invalid user name or password"
+  },
+  "TemVby": {
+    "message": "Full Name"
+  },
+  "Tj4hr9": {
+    "message": "Personal information"
+  },
+  "U9ZS0q": {
+    "message": "Feedback from the teacher"
+  },
+  "UD0YHG": {
+    "message": "Exam Cambridge, IELTS, TOEFL"
+  },
+  "UFSwqb": {
+    "message": "Unknow"
+  },
+  "Ub+AGc": {
+    "message": "Sign In"
+  },
+  "VMBH5+": {
+    "message": "After test, you will get {highlight}."
+  },
+  "VuzjdC": {
+    "message": "Ongoing"
+  },
+  "WM4MxD": {
+    "message": "Experience online class 1 - 1 with teacher of Antoree"
+  },
+  "WViqNz": {
+    "message": "Test ID (Example: 32730)"
+  },
+  "WdWd8e": {
+    "message": "Today"
+  },
+  "WkrNSk": {
+    "message": "English"
+  },
+  "X0AL6c": {
+    "message": "No teachers have free time"
+  },
+  "XBoahx": {
+    "message": "Internal server error"
+  },
+  "XFsHPo": {
+    "message": "Loading..."
+  },
+  "Y/tCwS": {
+    "message": "Based on the Cambridge/Oxford standard scale"
+  },
+  "YTszvQ": {
+    "message": "For Adult"
+  },
+  "ZyClWl": {
+    "message": "International degrees for children, unique learning experiences for children,..."
+  },
+  "aBiYmt": {
+    "message": "For Child"
+  },
+  "aCWkfE": {
+    "message": "Student’s Attitude"
+  },
+  "acrOoz": {
+    "message": "Continue"
+  },
+  "aheQdn": {
+    "message": "Last Name"
+  },
+  "ajiSfy": {
+    "message": "Review lession"
+  },
+  "b0v+Pu": {
+    "message": "Session ID"
+  },
+  "blfjwp": {
+    "message": "Not Happened"
+  },
+  "boUI9R": {
+    "message": "Increase communication skills"
+  },
+  "bu0pKs": {
+    "message": "Join Session"
+  },
+  "byP6IC": {
+    "message": "Selected"
+  },
+  "c2XR2z": {
+    "message": "Please contact for help!"
+  },
+  "cHGTZm": {
+    "message": "Book"
+  },
+  "cKWR+e": {
+    "message": "Learn anytime, anywhere on your phone and computer"
+  },
+  "cTD1CD": {
+    "message": "Internal Server Error"
+  },
+  "cb6/8u": {
+    "message": "Error no contact neither LR! Please contact customer care for help!"
+  },
+  "dM+p3/": {
+    "message": "From"
+  },
+  "dQ/0vv": {
+    "message": "No test information yet."
+  },
+  "dQ/hHC": {
+    "message": "Sessions in course ID: {courseId}"
+  },
+  "dlyhDf": {
+    "message": "Night"
+  },
+  "eC0B5w": {
+    "message": "No, I changed my mind"
+  },
+  "eeNr/Y": {
+    "message": "My Courses"
+  },
+  "euABri": {
+    "message": "Not received? Resend"
+  },
+  "fTHhSB": {
+    "message": "New password"
+  },
+  "fe7Y2Z": {
+    "message": "Confirm new password"
+  },
+  "g4eHbW": {
+    "message": "Welcome to Antoree"
+  },
+  "gFqaCE": {
+    "message": "Login Failure!"
+  },
+  "gQMO+E": {
+    "message": "Getting Teachers..."
+  },
+  "ggNo0F": {
+    "message": "Feedback"
+  },
+  "gjBiyj": {
+    "message": "Loading..."
+  },
+  "grHPam": {
+    "message": "Please complete the test to participate in the trial lesson"
+  },
+  "h3ICzV": {
+    "message": "Loading sessions..."
+  },
+  "hGQqkW": {
+    "message": "Schedule"
+  },
+  "hS+bnu": {
+    "message": "Choose the right teacher for each student"
+  },
+  "hXfCth": {
+    "message": "Booking"
+  },
+  "hrxQ/i": {
+    "message": "Create Course Failed!"
+  },
+  "i3kV2u": {
+    "message": "Overview"
+  },
+  "i40m33": {
+    "message": "Enter the course ID provided in the box below to quickly enter the session with the Antoree's teacher"
+  },
+  "iBdWt0": {
+    "message": "Session title"
+  },
+  "iDFfrZ": {
+    "message": "Sign Up failure please contact tech for help! Error: {code}"
+  },
+  "j7uknr": {
+    "message": "Flexible"
+  },
+  "jIbAky": {
+    "message": "Male"
+  },
+  "jRpf+4": {
+    "message": "Quick Join"
+  },
+  "jXThAs": {
+    "message": "Welcome"
+  },
+  "jvo0vs": {
+    "message": "Save"
+  },
+  "k0ZWCr": {
+    "message": "Loading courses..."
+  },
+  "kH8qaP": {
+    "message": "Can't start this session"
+  },
+  "kyB/U/": {
+    "message": "Join"
+  },
+  "l8wanU": {
+    "message": "Joined"
+  },
+  "lU3lpR": {
+    "message": "Change Course Failed!"
+  },
+  "liBmCS": {
+    "message": "Free English Test"
+  },
+  "llOJon": {
+    "message": "Study goal"
+  },
+  "m8/n8c": {
+    "message": "Gender"
+  },
+  "mAXPzx": {
+    "message": "Booking confirmation"
+  },
+  "n6s1Id": {
+    "message": "Welcome back to Antoree"
+  },
+  "neexcf": {
+    "message": "Please fill Test ID"
+  },
+  "nv/xZs": {
+    "message": "Closed: {totalCourse} courses"
+  },
+  "o8ROoP": {
+    "message": "Student interests are always guaranteed"
+  },
+  "okCSTN": {
+    "message": "Course ID (Example: 32730)"
+  },
+  "p6+L3q": {
+    "message": "Book Course"
+  },
+  "qNCFg+": {
+    "message": "Main course"
+  },
+  "rDbVyG": {
+    "message": "Select a course to view lesson details."
+  },
+  "rPY9AU": {
+    "message": "Log in failure please contact tech for help! Error: {code}"
+  },
+  "rbrahO": {
+    "message": "Closed"
+  },
+  "rjxDoy": {
+    "message": "Your Last Name"
+  },
+  "rnCx/v": {
+    "message": "Join the test session"
+  },
+  "rpiUSw": {
+    "message": "VietNam"
+  },
+  "sIMS7i": {
+    "message": "Progress"
+  },
+  "sW6omg": {
+    "message": "Your starting time"
+  },
+  "scvoKh": {
+    "message": "Your phone number"
+  },
+  "subPR1": {
+    "message": "Join Trial"
+  },
+  "svuL7N": {
+    "message": "The function of joining calls on mobile devices is only available through the Antoree app."
+  },
+  "t+jiyO": {
+    "message": "Student Type"
+  },
+  "tf1lIh": {
+    "message": "Free"
+  },
+  "tx/jZ/": {
+    "message": "ID {id}"
+  },
+  "tzMNF3": {
+    "message": "Status"
+  },
+  "u7E3Yk": {
+    "message": "Teacher"
+  },
+  "uCk8r+": {
+    "message": "Already have an account?"
+  },
+  "uOkn5u": {
+    "message": "Available time of this teacher not found!"
+  },
+  "uPNU8E": {
+    "message": "Verify failed!"
+  },
+  "ug01Mk": {
+    "message": "Time"
+  },
+  "uoV/0P": {
+    "message": "Kid"
+  },
+  "uuAH4v": {
+    "message": "100% of the time 1 to 1 interaction with teachers in English"
+  },
+  "vd7Gry": {
+    "message": "Testing course"
+  },
+  "viXE32": {
+    "message": "Private"
+  },
+  "w1IywU": {
+    "message": "Learning profile"
+  },
+  "w4eXTl": {
+    "message": "Course not found"
+  },
+  "wTO/ag": {
+    "message": "Review Test Result"
+  },
+  "wvnf6S": {
+    "message": "Total: {totalCourse} courses"
+  },
+  "x73B8S": {
+    "message": "Select or create options"
+  },
+  "x8VqKP": {
+    "message": "Child"
+  },
+  "xv/i3O": {
+    "message": "Morning"
+  },
+  "xzyHM+": {
+    "message": "Vietnamese"
+  },
+  "yuDEqv": {
+    "message": "Homework Result"
+  },
+  "yz77Hk": {
+    "message": "Error no LR! Please contact customer care for help!"
+  },
+  "zEqYhm": {
+    "message": "Homework Content"
+  },
+  "zGa/yi": {
+    "message": "Trial course"
+  },
+  "zHPqOq": {
+    "message": "Adult"
+  },
+  "zQvVDJ": {
+    "message": "All"
+  },
+  "zWgbGg": {
+    "message": "Today"
+  }
+}

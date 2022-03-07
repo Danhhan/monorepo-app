@@ -1,0 +1,11 @@
+.fittedTable {
+    & > div:first-child {
+        display: block;
+        overflow: scroll hidden;
+        background-color: #000;
+
+        & > table > tbody > tr:first-child {
+            font-weight: 600;
+        }
+    }
+}

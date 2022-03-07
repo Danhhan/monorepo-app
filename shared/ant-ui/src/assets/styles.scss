@@ -1,0 +1,270 @@
+// @import '@elastic/eui/src/themes/eui/eui_colors_light.scss';
+// @import '@elastic/eui/src/themes/eui/eui_globals.scss';
+
+$slick-font-path: '~slick-carousel/slick/fonts/';
+$slick-loader-path: '~slick-carousel/slick/';
+
+@import '~slick-carousel/slick/slick.scss';
+@import '~slick-carousel/slick/slick-theme.scss';
+
+$euiColorPrimary: #14B24C !important;
+
+$euiColorSecondary: #006bb4;
+$euiColorAccent: #dd0a73;
+$euiColorWarning: #ffc700;
+
+$euiColorPrimary: #14B24C;
+
+@import '~@elastic/eui/src/theme_light.scss';
+
+// @import '~@elastic/eui/src/theme_light.scss';
+
+body {
+  // @include euiHeaderAffordForFixed($euiHeaderHeightCompensation * 2);
+
+  .scrollbar-hidden {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    &::-webkit-scrollbar {
+      display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .euiButton,
+  .euiFieldText,
+  .euiComboBox__inputWrap {
+    border-radius: 8px;
+  }
+
+  .euiButton--text {
+    height: 32px;
+  }
+
+  .euiFieldText,
+  .euiButton--text {
+    background-color: #fff;
+  }
+  .euiButtonEmpty--text:focus, .euiTab:focus {
+    background-color: transparent;
+  }
+  button:focus {
+    outline: none;
+  }
+
+  .euiNotificationBadge {
+    color: #fff;
+    background-color: #14B24C;
+  }
+
+  .euiKeyPadMenuItem,
+  .euiPanel.euiPanel--borderRadiusMedium,
+  .euiModal {
+    border-radius: 12px !important;
+  }
+
+  .scroll-down-tip {
+    height: 20px;
+    // width: 30px;
+    position: absolute;
+    left: 50%;
+    bottom: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    margin: 0 auto;
+    pointer-events: none;
+  }
+  .scroll-down-tip::before,
+  .scroll-down-tip::after {
+    content: '';
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    height: 6px;
+    width: 6px;
+    transform: translate(-50%, -100%) rotate(45deg);
+    border: 2px solid black;
+    border-top: transparent;
+    border-left: transparent;
+    opacity: 0;
+    animation: scroll-down 1s ease-in-out 10;
+  }
+  .scroll-down-tip::before {
+    top: 30%;
+    animation-delay: 0.3s;
+    /* animation: scroll-down 1s ease-in-out infinite; */
+  }
+
+  @keyframes scroll-down {
+    0% {
+      /* top:20%; */
+      opacity: 0;
+    }
+    30% {
+      opacity: 1;
+    }
+    60% {
+      opacity: 1;
+    }
+    100% {
+      top: 90%;
+      opacity: 0;
+    }
+  }
+
+  .infinite-scroll-component {
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    &:not(.visible-scroll)::-webkit-scrollbar {
+      display: none;
+    }
+
+    &:not(.visible-scroll) {
+      /* Hide scrollbar for IE, Edge and Firefox */
+      -ms-overflow-style: none; /* IE and Edge */
+      scrollbar-width: none; /* Firefox */
+    }
+
+    &.custom-scrollbar {
+      &::-webkit-scrollbar {
+        width: 0.5em;
+        background-color: #e8e8e8;
+        border-radius: 80px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        background: #00c08182;
+        border-radius: 80px;
+      }
+    }
+  }
+
+  .euiBreadcrumb::after {
+    content: none !important;
+  }
+
+  .euiBreadcrumb {
+    margin-left: -4px;
+  }
+
+  .euiHeaderBreadcrumbs,
+  .euiBreadcrumbs__inPopover {
+    .euiBreadcrumb:last-child .euiBreadcrumb__content {
+      background: #69707d33;
+      color: #5a606b;
+    }
+
+    .euiBreadcrumb:first-child .euiBreadcrumb__content {
+      padding-left: 12px;
+      border-radius: 6px 0 0 6px;
+      -webkit-clip-path: polygon(
+        0 0,
+        calc(100% - 8px) 0,
+        100% 50%,
+        calc(100% - 8px) 100%,
+        0 100%
+      );
+      clip-path: polygon(
+        0 0,
+        calc(100% - 8px) 0,
+        100% 50%,
+        calc(100% - 8px) 100%,
+        0 100%
+      );
+    }
+
+    .euiBreadcrumb__content {
+      background: #00c08126;
+      color: #00c081;
+      font-size: 12px;
+      line-height: 16px;
+      font-weight: 500;
+      padding: 4px 16px;
+      -webkit-clip-path: polygon(
+        0 0,
+        calc(100% - 8px) 0,
+        100% 50%,
+        calc(100% - 8px) 100%,
+        0 100%,
+        8px 50%
+      );
+      clip-path: polygon(
+        0 0,
+        calc(100% - 8px) 0,
+        100% 50%,
+        calc(100% - 8px) 100%,
+        0 100%,
+        8px 50%
+      );
+    }
+  }
+
+  .euiBreadcrumbs--truncate .euiBreadcrumb__content,
+  .euiBreadcrumb--truncate .euiBreadcrumb__content {
+    max-width: 100%;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    word-wrap: normal !important;
+    max-width: 160px;
+    text-align: center;
+    vertical-align: baseline;
+  }
+}
+
+.loading-antoree-custom {
+  & {
+    height: 1.2em;
+    margin-top: 0.3em;
+    letter-spacing: 0.1em;
+  }
+
+  & span {
+    position: relative;
+    top: 0.1em;
+    display: inline-block;
+    animation: bounce-text 0.4s ease infinite alternate;
+    font-family: 'Roboto', sans-serif;
+
+    text-shadow: 0 1px 0 transparent, 0 2px 0 transparent, 0 3px 0 transparent,
+      0 4px 0 transparent, 0 5px 0 transparent, 0 6px 0 transparent,
+      0 7px 0 transparent, 0 8px 0 transparent, 0 9px 0 transparent,
+      0 10px 10px transparent;
+  }
+
+  @for $i from 0 through 100 {
+    & span:nth-child(#{$i + 1}) {
+      animation-delay: #{$i * 0.1}s;
+    }
+  }
+
+  @keyframes bounce-text {
+    100% {
+      top: -0.1em;
+    }
+  }
+}
+
+/* code #1 */
+.loading01 {
+  margin-bottom: 0.3em;
+  letter-spacing: 0.1em;
+  color: #00c081;
+  span {
+    animation: loading01 1.4s infinite alternate;
+    @for $i from 0 through 100 {
+      &:nth-child(#{$i + 1}) {
+        animation-delay: #{$i * 0.1}s;
+      }
+    }
+  }
+}
+@keyframes loading01 {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

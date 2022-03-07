@@ -1,0 +1,19 @@
+.playYoutube {
+  background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2OCA0OCI+PHBhdGggY2xhc3M9Inl0cC1sYXJnZS1wbGF5LWJ1dHRvbi1iZyIgZD0iTTY2LjUyLDcuNzRjLTAuNzgtMi45My0yLjQ5LTUuNDEtNS40Mi02LjE5QzU1Ljc5LC4xMywzNCwwLDM0LDBTMTIuMjEsLjEzLDYuOSwxLjU1IEMzLjk3LDIuMzMsMi4yNyw0LjgxLDEuNDgsNy43NEMwLjA2LDEzLjA1LDAsMjQsMCwyNHMwLjA2LDEwLjk1LDEuNDgsMTYuMjZjMC43OCwyLjkzLDIuNDksNS40MSw1LjQyLDYuMTkgQzEyLjIxLDQ3Ljg3LDM0LDQ4LDM0LDQ4czIxLjc5LTAuMTMsMjcuMS0xLjU1YzIuOTMtMC43OCw0LjY0LTMuMjYsNS40Mi02LjE5QzY3Ljk0LDM0Ljk1LDY4LDI0LDY4LDI0UzY3Ljk0LDEzLjA1LDY2LjUyLDcuNzR6IiBmaWxsPSIjZjAwIiBmaWxsLW9wYWNpdHk9IjAuOCI+PC9wYXRoPjxwYXRoIGQ9Ik0gNDUsMjQgMjcsMTQgMjcsMzQiIGZpbGw9IiNmZmYiPjwvcGF0aD48L3N2Zz4=')
+    no-repeat center center;
+  background-size: 64px 64px;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.playYoutube:hover {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}

@@ -1,0 +1,5 @@
+.confirmSessionBg {
+  @apply lg:flex-grow w-full bg-center bg-contain bg-no-repeat;
+  background-image: url('../../assets/images/booking-confirmation.png');
+  min-height: 170px;
+}

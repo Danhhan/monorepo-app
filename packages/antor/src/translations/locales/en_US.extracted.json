@@ -1,0 +1,386 @@
+{
+  "+MrWpY": {
+    "message": "Student Notes"
+  },
+  "/161r2": {
+    "message": "Loading Courses..."
+  },
+  "/PLVzX": {
+    "message": "Test ID must be a positive integer"
+  },
+  "/fr3rV": {
+    "message": "Send test result fail"
+  },
+  "0DUbiY": {
+    "message": "Homework"
+  },
+  "0t3SIy": {
+    "message": "Use a wide range of vocabulary"
+  },
+  "1bM5e1": {
+    "message": "The test session not found"
+  },
+  "2GFjIN": {
+    "message": "Enter your password"
+  },
+  "2c5Jmp": {
+    "message": "All Course Sessions"
+  },
+  "30TWdP": {
+    "message": "Vocabulary Content"
+  },
+  "3jwVUq": {
+    "message": "Use English Only"
+  },
+  "47FYwb": {
+    "message": "Cancel"
+  },
+  "4q+8tM": {
+    "message": "Opening: {totalCourse} courses"
+  },
+  "4rzkE5": {
+    "message": "Record {order}"
+  },
+  "4zRPjf": {
+    "message": "Paused: {totalCourse} courses"
+  },
+  "5Gl2n9": {
+    "message": "You don't have permission"
+  },
+  "5ayzwk": {
+    "message": "Please check your Test ID code or contact the consultant"
+  },
+  "5jeq8P": {
+    "message": "Unknown"
+  },
+  "5y8+UH": {
+    "message": "You didn't make any change"
+  },
+  "6/aEFZ": {
+    "message": "Upcoming"
+  },
+  "72ui7O": {
+    "message": "Go to home"
+  },
+  "7PdBYC": {
+    "message": "There's no courses available"
+  },
+  "7uY06z": {
+    "message": "Pronounce clearly"
+  },
+  "92Mctp": {
+    "message": "note"
+  },
+  "95stPq": {
+    "message": "Completed"
+  },
+  "9Jehq4": {
+    "message": "Today Sessions"
+  },
+  "9WRlF4": {
+    "message": "Send"
+  },
+  "9a9+ww": {
+    "message": "Title"
+  },
+  "ACAHdL": {
+    "message": "Score Here (from 0 to 3)"
+  },
+  "AQqeVX": {
+    "message": "Test Result"
+  },
+  "AYWmWV": {
+    "message": "Review the lesson"
+  },
+  "B18F+U": {
+    "message": "Vary intonation"
+  },
+  "By4O6Y": {
+    "message": "Please fill numeric characters"
+  },
+  "CGA7Qm": {
+    "message": "Watch records"
+  },
+  "CMbqoE": {
+    "message": "Enter email address or phone number"
+  },
+  "Cpf94t": {
+    "message": "Exceeds the limit of course duration"
+  },
+  "EHRQZv": {
+    "message": "Enter the Test ID code provided in the form below to join the test session with your student"
+  },
+  "ESnW7g": {
+    "message": "Homework Result Attachment"
+  },
+  "EeVzlQ": {
+    "message": "Grammar Content"
+  },
+  "GuvrHL": {
+    "message": "Score Here (from 0 to 9)"
+  },
+  "I+38K2": {
+    "message": "My courses"
+  },
+  "IiE5Ye": {
+    "message": "Send feedback & student reviews"
+  },
+  "J9JF+p": {
+    "message": "Start session"
+  },
+  "JfG49w": {
+    "message": "Open"
+  },
+  "KVf2Xm": {
+    "message": "Upload file failed"
+  },
+  "LB85Fl": {
+    "message": "Hello {firstName}!"
+  },
+  "LrJIqT": {
+    "message": "Send feedback failed"
+  },
+  "NU0Nha": {
+    "message": "Forgot Password?"
+  },
+  "Ne1NR/": {
+    "message": "Homework Attachment"
+  },
+  "O2O0dl": {
+    "message": "Paraphrase"
+  },
+  "ODn2y0": {
+    "message": "Recommendation"
+  },
+  "PvmsBF": {
+    "message": "Course status"
+  },
+  "QF8hwJ": {
+    "message": "Join session"
+  },
+  "R86IN4": {
+    "message": "Delayed"
+  },
+  "RVhqZ4": {
+    "message": "Download failed"
+  },
+  "RZVeul": {
+    "message": "Email or Phone Number"
+  },
+  "RomaF8": {
+    "message": "Avoid grammatical mistakes"
+  },
+  "SF0WU5": {
+    "message": "Type title of session"
+  },
+  "SQJto2": {
+    "message": "Sign in"
+  },
+  "TUYrlM": {
+    "message": "Invalid user name or password"
+  },
+  "UFSwqb": {
+    "message": "Unknow"
+  },
+  "Ub+AGc": {
+    "message": "Sign In"
+  },
+  "UvFUuq": {
+    "message": "Student"
+  },
+  "VuzjdC": {
+    "message": "Ongoing"
+  },
+  "W8n8UJ": {
+    "message": "Course progress"
+  },
+  "WViqNz": {
+    "message": "Test ID (Example: 32730)"
+  },
+  "WdWd8e": {
+    "message": "Today Courses"
+  },
+  "WkrNSk": {
+    "message": "English"
+  },
+  "XBoahx": {
+    "message": "Internal server error"
+  },
+  "XkLOBQ": {
+    "message": "Send test result success"
+  },
+  "YvLhw+": {
+    "message": "Pronounce with ending sounds, stresses and intonations"
+  },
+  "a1sMIY": {
+    "message": "Send feedback success"
+  },
+  "aCWkfE": {
+    "message": "Student’s Attitude"
+  },
+  "ajiSfy": {
+    "message": "Review lession"
+  },
+  "b0v+Pu": {
+    "message": "Session ID"
+  },
+  "b11hht": {
+    "message": "Send Feedback"
+  },
+  "blfjwp": {
+    "message": "Not Happened"
+  },
+  "cdZVTE": {
+    "message": "Speak in full sentences"
+  },
+  "eJrDgb": {
+    "message": "Speak at length on each topic"
+  },
+  "ejg9fG": {
+    "message": "Speak in complex sentences"
+  },
+  "f3QQ4N": {
+    "message": "Use correct tense with correct form of verbs"
+  },
+  "gp1lqK": {
+    "message": "All Courses"
+  },
+  "h3ICzV": {
+    "message": "Loading sessions..."
+  },
+  "hGQqkW": {
+    "message": "Schedule"
+  },
+  "i40m33": {
+    "message": "Enter the course ID provided in the box below to quickly enter the session with the student"
+  },
+  "iBdWt0": {
+    "message": "Session title"
+  },
+  "iZX2vK": {
+    "message": "Join sounds together"
+  },
+  "jRpf+4": {
+    "message": "Quick Join"
+  },
+  "jSOGpo": {
+    "message": "Attitude towards English learning"
+  },
+  "k0ZWCr": {
+    "message": "Loading courses..."
+  },
+  "kH8qaP": {
+    "message": "Can't start session"
+  },
+  "kyB/U/": {
+    "message": "Join"
+  },
+  "l8wanU": {
+    "message": "Joined"
+  },
+  "laBkmC": {
+    "message": "Teaching Time:"
+  },
+  "lxVSzn": {
+    "message": "Create Test Result"
+  },
+  "mJDIV7": {
+    "message": "Join course"
+  },
+  "mVJ357": {
+    "message": "Strengths"
+  },
+  "n6s1Id": {
+    "message": "Welcome back to Antoree"
+  },
+  "neexcf": {
+    "message": "Please fill Test ID"
+  },
+  "nv/xZs": {
+    "message": "Closed: {totalCourse} courses"
+  },
+  "okCSTN": {
+    "message": "Course ID (Example: 32730)"
+  },
+  "onxofq": {
+    "message": "{sessions} sessions"
+  },
+  "pvt0BV": {
+    "message": "Use a variety of grammatical forms"
+  },
+  "qNCFg+": {
+    "message": "Main course"
+  },
+  "qie9A6": {
+    "message": "Upload file success"
+  },
+  "qvJ+Jd": {
+    "message": "Teaching Duration: {duration}"
+  },
+  "rbrahO": {
+    "message": "Closed"
+  },
+  "rnCx/v": {
+    "message": "Join the test session"
+  },
+  "sL6kGC": {
+    "message": "Please input content"
+  },
+  "tOKzzP": {
+    "message": "LR"
+  },
+  "tzMNF3": {
+    "message": "Status"
+  },
+  "u0jM2R": {
+    "message": "Search by student's name"
+  },
+  "uCu5tl": {
+    "message": "ACS"
+  },
+  "uFow7o": {
+    "message": "Second Language Acquisition"
+  },
+  "ug01Mk": {
+    "message": "Time"
+  },
+  "vd7Gry": {
+    "message": "Testing course"
+  },
+  "w4eXTl": {
+    "message": "Course not found"
+  },
+  "wHpFdV": {
+    "message": "Use phrasal verbs and collocation"
+  },
+  "wTO/ag": {
+    "message": "Review Test Result"
+  },
+  "wvnf6S": {
+    "message": "Total: {totalCourse} courses"
+  },
+  "xHlBZP": {
+    "message": "Pronounce words accurately"
+  },
+  "xXbJso": {
+    "message": "Sign out"
+  },
+  "xzyHM+": {
+    "message": "Vietnamese"
+  },
+  "y96tsN": {
+    "message": "Homework File"
+  },
+  "zEqYhm": {
+    "message": "Homework Content"
+  },
+  "zGa/yi": {
+    "message": "Trial course"
+  },
+  "zJvwgM": {
+    "message": "Weakness"
+  },
+  "zQvVDJ": {
+    "message": "All"
+  }
+}

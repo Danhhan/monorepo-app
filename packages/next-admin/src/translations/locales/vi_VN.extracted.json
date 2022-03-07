@@ -1,0 +1,1067 @@
+{
+  "+0+6BC": {
+    "message": "Người dùng {index}"
+  },
+  "+S6jjt": {
+    "message": "Testing courses detail"
+  },
+  "+U6ozc": {
+    "message": "Loại"
+  },
+  "+Uf3wS": {
+    "message": "Tên nhân viên sale hoặc email"
+  },
+  "/+ekhU": {
+    "message": "Khách Hàng/Liên Hệ"
+  },
+  "/0DJ3v": {
+    "message": "Đã đăng nhập: {username}"
+  },
+  "/VnDMl": {
+    "message": "Khác"
+  },
+  "/WMCDd": {
+    "message": "Có lỗi xảy ra!"
+  },
+  "/bPbzt": {
+    "message": "Kiểu sắp xếp"
+  },
+  "/dNip+": {
+    "message": "Trạng Thái Chi Tiết"
+  },
+  "0AfyWi": {
+    "message": "Testing Date"
+  },
+  "0D+b/i": {
+    "message": "Not found any option"
+  },
+  "0QiIhg": {
+    "message": "Cập nhật học viên thành công!"
+  },
+  "0XTb3q": {
+    "message": "1 số trường nhập không hợp lệ!"
+  },
+  "13DPqV": {
+    "message": "Session Id không hợp lệ"
+  },
+  "15B4VH": {
+    "message": "Quản lý giáo viên test"
+  },
+  "18VthJ": {
+    "message": "Lọc Dữ Liệu"
+  },
+  "1CHORC": {
+    "message": "Thành công"
+  },
+  "1Ia8qN": {
+    "message": "Đang xử lý"
+  },
+  "1J1Qos": {
+    "message": "Tổng Chi Phí Cho Liên Hệ"
+  },
+  "1u51Xp": {
+    "message": "Không có giáo viên phù hợp"
+  },
+  "2+kAwK": {
+    "message": "Đã bị dừng"
+  },
+  "20JG1O": {
+    "message": "ID giáo viên"
+  },
+  "2U8JyA": {
+    "message": "Quản lý giáo viên"
+  },
+  "2ddRz1": {
+    "message": "Student Management"
+  },
+  "3/M2rt": {
+    "message": "Gọi/Đặt lịch Kiểm tra"
+  },
+  "39Il6S": {
+    "message": "Khoá học thử"
+  },
+  "3PZa76": {
+    "message": "Tháng Này"
+  },
+  "3VI9mt": {
+    "message": "Save Changes"
+  },
+  "3VfCJg": {
+    "message": "tải lại"
+  },
+  "3lU1st": {
+    "message": "Khoá học thử"
+  },
+  "3wsVWF": {
+    "message": "Cancelled"
+  },
+  "4+XXuI": {
+    "message": "Trial course detail"
+  },
+  "4/0igv": {
+    "message": "Khách đã trial, đang chờ chốt sale."
+  },
+  "47FYwb": {
+    "message": "Hủy"
+  },
+  "4S241U": {
+    "message": "Liên Hệ"
+  },
+  "4SfHYA": {
+    "message": "Tested"
+  },
+  "4riFy2": {
+    "message": "Detail Score"
+  },
+  "4rzkE5": {
+    "message": "Ghi hình {order}"
+  },
+  "4yElpA": {
+    "message": "Tìm kiếm bằng số điện thoại, tên hoặc Id của học viên"
+  },
+  "527dFt": {
+    "message": "Edit Testing Result"
+  },
+  "52QtMe": {
+    "message": "Phạm vi ngày"
+  },
+  "53YZ+R": {
+    "message": "Tên File"
+  },
+  "55vTH+": {
+    "message": "ID người dùng"
+  },
+  "564fPd": {
+    "message": "Teenager/Adult"
+  },
+  "59NlY8": {
+    "message": "Young learner"
+  },
+  "5cGQ2I": {
+    "message": "Tổng Quát"
+  },
+  "5sg7KC": {
+    "message": "Mật khẩu"
+  },
+  "6UO0i6": {
+    "message": "Tìm học viên theo tên \u001dhoặc email nhân viên Sale"
+  },
+  "6kpC7A": {
+    "message": "Chấp nhận"
+  },
+  "6xap9L": {
+    "message": "Tốt"
+  },
+  "74BYXL": {
+    "message": "Nữ"
+  },
+  "7CTOHN": {
+    "message": "Có gì đó sai sai"
+  },
+  "7QiugJ": {
+    "message": "Chỗ Trống"
+  },
+  "7kAun3": {
+    "message": "Bản báo cáo Sales V2"
+  },
+  "7vAheX": {
+    "message": "Khung giờ của khách hàng {studentName} đã được book. Vui lòng huỷ lịch hiện tại hoặc chọn khung giờ khác."
+  },
+  "8HJxXG": {
+    "message": "Đăng ký"
+  },
+  "95stPq": {
+    "message": "Đã hoàn thành"
+  },
+  "9BLRFT": {
+    "message": "Tuỳ chọn trạng thái giáo viên"
+  },
+  "9j3hXO": {
+    "message": "Đến"
+  },
+  "9uOFF3": {
+    "message": "Tổng quan"
+  },
+  "9w92vX": {
+    "message": "CourseId (Chỉ dành cho ACS)"
+  },
+  "9wBisY": {
+    "message": "Tuỳ chọn xuất File"
+  },
+  "A2RcpJ": {
+    "message": "Khách Hàng/Đã Test"
+  },
+  "A6sL8J": {
+    "message": "Ghi nhớ đăng nhập"
+  },
+  "AQuupo": {
+    "message": "Tìm kiếm bằng LR ID"
+  },
+  "ARIlGw": {
+    "message": "GMV"
+  },
+  "AbW3oj": {
+    "message": "Lấy thông tin contact thất bại!"
+  },
+  "AqetH9": {
+    "message": "Thời gian bạn chọn đã có người chọn"
+  },
+  "B+0ikw": {
+    "message": "Không đạt"
+  },
+  "B6CB37": {
+    "message": "Web"
+  },
+  "BBRox/": {
+    "message": "Credentials Information"
+  },
+  "BGnY+U": {
+    "message": "Student Information"
+  },
+  "BQuFrc": {
+    "message": "{duration} minutes"
+  },
+  "CF99Ab": {
+    "message": "Xin chào!"
+  },
+  "CGA7Qm": {
+    "message": "Xem ghi hình"
+  },
+  "CL382c": {
+    "message": "Cập nhật ghi chú thành công!"
+  },
+  "CXeJvU": {
+    "message": "Báo cáo Referral"
+  },
+  "CuhOmD": {
+    "message": "Chọn Thời Gian Phù Hợp"
+  },
+  "D9sBYU": {
+    "message": "Tìm kiếm theo tên nhân viên sale"
+  },
+  "DUjOnJ": {
+    "message": "Không diễn ra"
+  },
+  "DuEsed": {
+    "message": "Tổng quan cuộc gọi Antoree"
+  },
+  "DzWJ6J": {
+    "message": "Chọn Thời Gian Học"
+  },
+  "ECx6bx": {
+    "message": "Cập nhật"
+  },
+  "EFB9vn": {
+    "message": "StudentType"
+  },
+  "EICWOz": {
+    "message": "Detail of Tester #{id}"
+  },
+  "EWw/tK": {
+    "message": "Áp Dụng"
+  },
+  "EeXm9z": {
+    "message": "Trial Course Management"
+  },
+  "EwRIOm": {
+    "message": "Người dùng"
+  },
+  "F0ysuP": {
+    "message": "Không chấp nhận"
+  },
+  "FBiax3": {
+    "message": "Danh sách học sinh"
+  },
+  "FJsLIc": {
+    "message": "Minimum length is {length}"
+  },
+  "FUM9SE": {
+    "message": "Cần một tài khoản?"
+  },
+  "FgydNe": {
+    "message": "Xem"
+  },
+  "G0NahN": {
+    "message": "Khách đã đặt lịch, đang chờ test."
+  },
+  "GWtmtu": {
+    "message": "Di động"
+  },
+  "GYogKH": {
+    "message": "Thích Nghi"
+  },
+  "GbzOYQ": {
+    "message": "Sales ID"
+  },
+  "GcPFLS": {
+    "message": "Làm việc"
+  },
+  "HDiafR": {
+    "message": "How to Score?"
+  },
+  "HHzdGS": {
+    "message": "Nhân viên"
+  },
+  "Hij/n+": {
+    "message": "Tên nhân viên sale"
+  },
+  "HoDs62": {
+    "message": "Thông tin nhân viên sale:"
+  },
+  "Hpv4PA": {
+    "message": "Xuất sắc"
+  },
+  "Humfno": {
+    "message": "Ngày kết thúc"
+  },
+  "I+1HSy": {
+    "message": "Học thử"
+  },
+  "IN9hRL": {
+    "message": "Khách Hàng Cố Định"
+  },
+  "INDuv8": {
+    "message": "HọcThử/Đã Test"
+  },
+  "INrbJL": {
+    "message": "Không tìm thấy người dùng"
+  },
+  "IZPgWf": {
+    "message": "{field} is required"
+  },
+  "IcMmI/": {
+    "message": "Học Thử/Đã Book"
+  },
+  "IpS0+6": {
+    "message": "LR ID"
+  },
+  "Iqnx0I": {
+    "message": "Chọn thời gian & thời lượng buổi học thử"
+  },
+  "J0LGYH": {
+    "message": "Result of Testing Course #{id}"
+  },
+  "J2gVvW": {
+    "message": "Tạo tài khoản gia đình"
+  },
+  "JHCioU": {
+    "message": "Testing Course Management"
+  },
+  "JNWL68": {
+    "message": "Tài khoản học viên đã tồn tại"
+  },
+  "JTYNyk": {
+    "message": "Email đã tồn tại!"
+  },
+  "Jb4Prv": {
+    "message": "Update lần cuối cùng"
+  },
+  "JxYhUr": {
+    "message": "Không tìm thấy thông tin"
+  },
+  "K3r6DQ": {
+    "message": "Xoá"
+  },
+  "K53mHU": {
+    "message": "Tạm ngưng/Đã Book"
+  },
+  "KFV1z0": {
+    "message": "Tester's ID"
+  },
+  "KgAlAZ": {
+    "message": "Ghi chú"
+  },
+  "KvP1A9": {
+    "message": "Student detail"
+  },
+  "L3VdNb": {
+    "message": "Detail of Student #{id}"
+  },
+  "LafZfP": {
+    "message": "Tester ID"
+  },
+  "LcvcPE": {
+    "message": "Assign cho"
+  },
+  "LvJJ2o": {
+    "message": "GPC"
+  },
+  "MJ2jZQ": {
+    "message": "Tổng"
+  },
+  "MXASV1": {
+    "message": "Session ID (Ví dụ: 123765)"
+  },
+  "N2IrpM": {
+    "message": "Confirm"
+  },
+  "NadqmZ": {
+    "message": "Chọn một LR ID tương ứng"
+  },
+  "OJziTd": {
+    "message": "Nhân viên sale"
+  },
+  "Oc/0wp": {
+    "message": "Ghi chú"
+  },
+  "OgTpZI": {
+    "message": "Không tồn tại"
+  },
+  "Oh++qh": {
+    "message": "Nhu cầu học"
+  },
+  "OyBNry": {
+    "message": "Lỗi xảy ra khi huỷ!"
+  },
+  "P8Xs51": {
+    "message": "ROI"
+  },
+  "PCHVx8": {
+    "message": "Send to Student"
+  },
+  "PNrSDy": {
+    "message": "Khách đã đóng tiền! Zia Zia."
+  },
+  "PY/Xrm": {
+    "message": "Tạo tài khoản thất bại!"
+  },
+  "PbSYGO": {
+    "message": "Cuộc gọi khoá học"
+  },
+  "PgJGHT": {
+    "message": "Khả dụng"
+  },
+  "PqW21d": {
+    "message": "Chọn ngày của khoá học"
+  },
+  "Pz5vyK": {
+    "message": "Tìm giáo viên"
+  },
+  "Q1xfqF": {
+    "message": "Outstanding"
+  },
+  "Q6wcZ5": {
+    "message": "First Name"
+  },
+  "Qd4b6s": {
+    "message": "Tìm theo email, tên, họ, số điện thoại hoặc Id"
+  },
+  "QlsDcr": {
+    "message": "Thao tác"
+  },
+  "QrihTZ": {
+    "message": "Friday"
+  },
+  "R86IN4": {
+    "message": "Delay"
+  },
+  "RREOwv": {
+    "message": "Tìm theo tên hoặc email"
+  },
+  "RYiGdc": {
+    "message": "Thông tin liên hệ"
+  },
+  "RhvWkq": {
+    "message": "Khoá học thử đã gọi/ Đã kiểm tra"
+  },
+  "RjJeWZ": {
+    "message": "Giá chuyển đổi"
+  },
+  "S03vAR": {
+    "message": "Tuỳ chọn giáo viên xuất sắc"
+  },
+  "S0YF9L": {
+    "message": "Course Information"
+  },
+  "SMsFXW": {
+    "message": "Newly"
+  },
+  "SQJto2": {
+    "message": "Đăng nhập"
+  },
+  "SVwJTM": {
+    "message": "Xuất File"
+  },
+  "SWvHLr": {
+    "message": "Tuần Này"
+  },
+  "SZHvpU": {
+    "message": "Bản báo cáo Sales"
+  },
+  "Sn4iLQ": {
+    "message": "Tài khoản đã tồn tại!"
+  },
+  "SooiSM": {
+    "message": "Hợp đồng thông thường"
+  },
+  "T20qo2": {
+    "message": "Hành động không thể đảo ngược!"
+  },
+  "T4CFK7": {
+    "message": "Id khoá học không hợp lệ"
+  },
+  "TAglPq": {
+    "message": "Chia contact"
+  },
+  "TQAsPT": {
+    "message": "Đã bị bỏ lỡ bởi giáo viên"
+  },
+  "TSEAxI": {
+    "message": "Thời gian rảnh của"
+  },
+  "Tw2QnJ": {
+    "message": "Có lỗi xảy ra!"
+  },
+  "Tz/YDY": {
+    "message": "\bQuản lý giáo viên dạy thử"
+  },
+  "UCvk7v": {
+    "message": "Danh sách buổi test - trial"
+  },
+  "UFXeub": {
+    "message": "Khoá học test"
+  },
+  "UVthWr": {
+    "message": "Bạn có muốn xoá người dùng này?"
+  },
+  "UXcN6v": {
+    "message": "Testing courses detail"
+  },
+  "UewDR0": {
+    "message": "Báo cáo Self booked"
+  },
+  "UpwcFd": {
+    "message": "Không khả dụng"
+  },
+  "UrR6rz": {
+    "message": "Thời gian rảnh"
+  },
+  "UvFUuq": {
+    "message": "Học viên"
+  },
+  "W41rbD": {
+    "message": "Bạn có muốn chuyển sang chi tiết thông tin học viên?"
+  },
+  "WAGIL0": {
+    "message": "Khách Hàng/Contacts"
+  },
+  "WMNHPh": {
+    "message": "Thứ Bảy"
+  },
+  "WkrNSk": {
+    "message": "Tiếng Anh"
+  },
+  "Wpn0Oh": {
+    "message": "GPE"
+  },
+  "XHLYdJ": {
+    "message": "Mục tiêu"
+  },
+  "XHzXqU": {
+    "message": "Tên giáo viên"
+  },
+  "XJcP+4": {
+    "message": "Đã tạo khóa học thử"
+  },
+  "Y7lOjK": {
+    "message": "Cập nhật nhân viên sale"
+  },
+  "YADZVF": {
+    "message": "Email hoặc mật khẩu không hợp lệ"
+  },
+  "YAgYL6": {
+    "message": "Thứ ba"
+  },
+  "ZPAml8": {
+    "message": "Buổi Test"
+  },
+  "ZgetKy": {
+    "message": "Bản báo cáo Tester"
+  },
+  "ZpQ6us": {
+    "message": "Kết quả"
+  },
+  "a2HshP": {
+    "message": "Khoá học đã gọi/ Khoá học chính"
+  },
+  "a7zc5p": {
+    "message": "Edit Result"
+  },
+  "aRvg8J": {
+    "message": "Ngày thử việc"
+  },
+  "aSFqwp": {
+    "message": "Khách Hàng/Liên Hệ"
+  },
+  "acXalb": {
+    "message": "Quân mật khẩu ?"
+  },
+  "aheQdn": {
+    "message": "Họ"
+  },
+  "auGxmu": {
+    "message": "Liên Hệ/Đã Test"
+  },
+  "azMsfM": {
+    "message": "Thứ hai"
+  },
+  "b4HuiT": {
+    "message": "Nhu cầu"
+  },
+  "b4N6Le": {
+    "message": "Kết quả cuối cùng"
+  },
+  "bW7B87": {
+    "message": "Mới"
+  },
+  "brIVLz": {
+    "message": "Hi {displayName} !"
+  },
+  "byP6IC": {
+    "message": "Đã chọn"
+  },
+  "c1pQ+7": {
+    "message": "Tên nhân viên sale"
+  },
+  "cMpbk+": {
+    "message": "Cuộc gọi không thành công"
+  },
+  "cr83G4": {
+    "message": "Tìm kiếm theo tên"
+  },
+  "d48QW8": {
+    "message": "Tìm theo tên nhân viên sale"
+  },
+  "dCCBpr": {
+    "message": "Huỷ Thành Công"
+  },
+  "dL4sQS": {
+    "message": "Danh sách giáo viên dạy thử"
+  },
+  "dM+p3/": {
+    "message": "Từ"
+  },
+  "dNRJ20": {
+    "message": "Khách hàng đã đăng ký tài khoản, đang chờ đặt lịch test."
+  },
+  "daQk5Q": {
+    "message": "Bạn có muốn cập nhật lại thông tin tài khoản này?"
+  },
+  "ddNEPq": {
+    "message": "Chỗ đã book"
+  },
+  "deEeEI": {
+    "message": "Đăng Ký"
+  },
+  "dgsU9C": {
+    "message": "Thời lượng của khóa học thử"
+  },
+  "dtAIjs": {
+    "message": "LR ID"
+  },
+  "eCUIuS": {
+    "message": "Tạo khoá học thử mới"
+  },
+  "eIKVwN": {
+    "message": "Bỏ \u001dLỡ Bởi Giáo Viên"
+  },
+  "ejEGdx": {
+    "message": "Trang chủ"
+  },
+  "ejaYuF": {
+    "message": "Thurday"
+  },
+  "eoajVr": {
+    "message": "Có lỗi xảy ra!"
+  },
+  "es7ci2": {
+    "message": "30 phút"
+  },
+  "f3Df2M": {
+    "message": "Invaild email"
+  },
+  "fJRb48": {
+    "message": "Thời gian bạn chọn đã được người khác chọn hãy huỷ để chọn 1 thời gian khác"
+  },
+  "fNCCY7": {
+    "message": "Cơ bản"
+  },
+  "gCInZB": {
+    "message": "ID: {id}"
+  },
+  "gGYKeQ": {
+    "message": "{minutes} phút"
+  },
+  "gHZLq7": {
+    "message": "Đã bỏ lỡ/Đã book"
+  },
+  "gRnF7m": {
+    "message": "Trạng Thái Team Sales"
+  },
+  "gZlFBP": {
+    "message": "Xác nhận"
+  },
+  "gdsJqT": {
+    "message": "Bản báo cáo học thử"
+  },
+  "guATPN": {
+    "message": "Dự thính"
+  },
+  "gyn2eP": {
+    "message": "Brilliant"
+  },
+  "h4F3r8": {
+    "message": "Video ghi lại"
+  },
+  "hGQqkW": {
+    "message": "Lịch học"
+  },
+  "hZMFMd": {
+    "message": "Thông tin Sale"
+  },
+  "hkENym": {
+    "message": "Khách Hàng"
+  },
+  "hleU/g": {
+    "message": "Chọn giáo viên"
+  },
+  "hoUawP": {
+    "message": "Số điện thoại, tên hoặc Id học viên"
+  },
+  "hzSNj4": {
+    "message": "Bảng điều khiển"
+  },
+  "i41OFE": {
+    "message": "Cuộc gọi khó học thử"
+  },
+  "i4lHYC": {
+    "message": "Xoá người dùng phụ thất bại!"
+  },
+  "iFPxPU": {
+    "message": "Kiểu khoá học"
+  },
+  "iFsDVR": {
+    "message": "Đang tải"
+  },
+  "iS3Y+u": {
+    "message": "Đã Test/Đã Book"
+  },
+  "iucMT9": {
+    "message": "Thông tin cá nhân"
+  },
+  "j4njOc": {
+    "message": "Tuyệt vời"
+  },
+  "jIbAky": {
+    "message": "Nam"
+  },
+  "jLBYql": {
+    "message": "Người dùng phụ"
+  },
+  "jT0ec8": {
+    "message": "Giá ước tính"
+  },
+  "jdJhOL": {
+    "message": "Số điện thoại"
+  },
+  "jksDiO": {
+    "message": "Create New Student"
+  },
+  "jvo0vs": {
+    "message": "Lưu"
+  },
+  "k+kHlN": {
+    "message": "Tên Team"
+  },
+  "k4RBtE": {
+    "message": "Course's ID"
+  },
+  "k6RPAV": {
+    "message": "Học Thử/Đã kiểm tra"
+  },
+  "kBJUtE": {
+    "message": "Video"
+  },
+  "kBsiID": {
+    "message": "Người kiểm tra"
+  },
+  "kHkPdE": {
+    "message": "Booked"
+  },
+  "kPidXT": {
+    "message": "Thời gian bắt đầu - Thời gian kết thúc"
+  },
+  "ki/M8J": {
+    "message": "Chọn khoảng thời gian khoá học"
+  },
+  "kwNgVV": {
+    "message": "Chi tiết tài khoản"
+  },
+  "kxqBFC": {
+    "message": "Khoá học đang diễn ra"
+  },
+  "lJePcp": {
+    "message": "Thất bại"
+  },
+  "lZSAfZ": {
+    "message": "Email đã được sử dụng"
+  },
+  "lwgmWU": {
+    "message": "Khách đã test, đang chờ trả kết quả."
+  },
+  "lxblgl": {
+    "message": "Thứ Tư"
+  },
+  "m/1nDd": {
+    "message": "Hãy kiểm tra lại các trường nhập của bạn!"
+  },
+  "m8/n8c": {
+    "message": "Giới tính"
+  },
+  "mH35gI": {
+    "message": "45 phút"
+  },
+  "mJR06P": {
+    "message": "Chủ nhật"
+  },
+  "mXiD5u": {
+    "message": "Số điện thoại"
+  },
+  "mguQzw": {
+    "message": "Tạo Khóa học"
+  },
+  "myq2ZL": {
+    "message": "Bình thường"
+  },
+  "n1QmKe": {
+    "message": "Không áp dụng"
+  },
+  "n5QvJy": {
+    "message": "Ngày bắt đầu"
+  },
+  "n9aLMZ": {
+    "message": "Note from Sales"
+  },
+  "n9tse2": {
+    "message": "Huỷ buổi kiểm tra"
+  },
+  "nE2xuO": {
+    "message": "Tạo buổi kiểm tra mới"
+  },
+  "nmpevl": {
+    "message": "Huỷ"
+  },
+  "o+nfLw": {
+    "message": "{name}"
+  },
+  "oBXOvm": {
+    "message": "Chia contact thành công!"
+  },
+  "oIqAYV": {
+    "message": "Thông tin giáo viên"
+  },
+  "oMchBm": {
+    "message": "Xoá người dùng phụ thành công!"
+  },
+  "oYlwSf": {
+    "message": "Thông tin Tester"
+  },
+  "obZly8": {
+    "message": "Danh sách giáo viên kiểm tra"
+  },
+  "omeeRg": {
+    "message": "Khoá học kiểm tra"
+  },
+  "onm8no": {
+    "message": "Học thử đã được book"
+  },
+  "opgNql": {
+    "message": "Báo cáo Self Booked"
+  },
+  "pITBSJ": {
+    "message": "Huỷ"
+  },
+  "pONqz8": {
+    "message": "Tên"
+  },
+  "pUno1E": {
+    "message": "Nguồn Book"
+  },
+  "pbZbmV": {
+    "message": "Thông tin cá nhân - Người dùng 1"
+  },
+  "pfHP9Q": {
+    "message": "Cập nhật thất bại!"
+  },
+  "q0739A": {
+    "message": "Tìm theo Số điện thoại, tên hoặc ID học viên"
+  },
+  "q1WWIr": {
+    "message": "Đang xử lý"
+  },
+  "qMZ5yQ": {
+    "message": "Đã có lỗi xảy ra!"
+  },
+  "qMePPG": {
+    "message": "Ghi chú"
+  },
+  "qUYTGi": {
+    "message": "Chia hàng loạt"
+  },
+  "qcjR/8": {
+    "message": "Xem ghi chú"
+  },
+  "qhi6Ld": {
+    "message": "Trường bắt buộc"
+  },
+  "qoPh/M": {
+    "message": "View Testing Result"
+  },
+  "qzc588": {
+    "message": "Tester detail"
+  },
+  "rPY9AU": {
+    "message": "Đăng nhập thất bại liên hệ chăm sóc khách hàng để được hỗ trợ! Lỗi: {code}"
+  },
+  "rbrahO": {
+    "message": "Đóng"
+  },
+  "remS1l": {
+    "message": "Tài khoản đã tồn tại"
+  },
+  "sCh0tp": {
+    "message": "Saleman"
+  },
+  "sLnDOb": {
+    "message": "Hủy thay đổi"
+  },
+  "sQ5OWD": {
+    "message": "Phiên làm việc đã hết hạn, vui lòng đăng nhập lại !"
+  },
+  "sYJC4e": {
+    "message": "Không tìm thấy dữ liệu"
+  },
+  "sy+pv5": {
+    "message": "Email"
+  },
+  "t+jiyO": {
+    "message": "Phân Loại Học Sinh"
+  },
+  "tW9a95": {
+    "message": "ID người dùng"
+  },
+  "txUL0F": {
+    "message": "Họ"
+  },
+  "tzMNF3": {
+    "message": "Trạng thái"
+  },
+  "u7E3Yk": {
+    "message": "Giáo Viên"
+  },
+  "ug01Mk": {
+    "message": "Thời Gian"
+  },
+  "uhwf+D": {
+    "message": "Học viên"
+  },
+  "uiQMxJ": {
+    "message": "Tạo thêm người dùng phụ"
+  },
+  "uoV/0P": {
+    "message": "Trẻ em"
+  },
+  "ut7Gbk": {
+    "message": "Degrees & Certifications"
+  },
+  "v7MyS6": {
+    "message": "Nguồn dữ liệu"
+  },
+  "vAjk3b": {
+    "message": "Không có ghi hình buổi học"
+  },
+  "vH4c6j": {
+    "message": "Không có nhân viên sale để cập nhật"
+  },
+  "vQg0Rk": {
+    "message": "Create New Tester"
+  },
+  "vfG+nh": {
+    "message": "Xác nhận mật khẩu"
+  },
+  "vhsMLE": {
+    "message": "Tìm kiếm bằng LR ID"
+  },
+  "wEQDC6": {
+    "message": "Chỉnh sửa"
+  },
+  "wPwRaF": {
+    "message": "Không có quyền thực hiện"
+  },
+  "wQ8FPv": {
+    "message": "Learning Request"
+  },
+  "wittYy": {
+    "message": "Ngày tạo"
+  },
+  "wjjOCT": {
+    "message": "60 phút"
+  },
+  "wsUmh9": {
+    "message": "Team"
+  },
+  "xRo7zo": {
+    "message": "Nhân viên bán hàng"
+  },
+  "xSnUPR": {
+    "message": "Tải xuống kết quả"
+  },
+  "xXbJso": {
+    "message": "Đăng xuất"
+  },
+  "xf6kP+": {
+    "message": "Thông tin người dùng đang được quản lý bởi người khác"
+  },
+  "xlThe+": {
+    "message": "Truy cập bị từ chối!"
+  },
+  "xqFsCz": {
+    "message": "Cool"
+  },
+  "xrKHS6": {
+    "message": "Thành công"
+  },
+  "xxQxLE": {
+    "message": "Địa chỉ email"
+  },
+  "xzyHM+": {
+    "message": "Tiếng Việt"
+  },
+  "ygubEH": {
+    "message": "Bạn có muốn huỷ khoá học có id {id}?"
+  },
+  "yo8xxa": {
+    "message": "Đã kiểm tra/Liên hệ"
+  },
+  "yp1K0y": {
+    "message": "Detail of Courses #{id}"
+  },
+  "zApMkp": {
+    "message": "Cập nhật thành công!"
+  },
+  "zD+441": {
+    "message": "Cuộc gọi thử"
+  },
+  "zHPqOq": {
+    "message": "Người lớn"
+  },
+  "zQvVDJ": {
+    "message": "Tất cả"
+  },
+  "zWgbGg": {
+    "message": "Hôm nay"
+  },
+  "zhD6xP": {
+    "message": "Thời lượng buổi học thử"
+  }
+}

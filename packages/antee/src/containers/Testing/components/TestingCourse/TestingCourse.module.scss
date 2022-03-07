@@ -1,0 +1,19 @@
+.customCard {
+  box-shadow: red;
+
+  & > div:nth-child(2) > h2 {
+    width: 100%;
+    & > button {
+      width: 100%;
+      text-decoration: none !important;
+      & > button {
+        height: min-content;
+        padding: 0;
+        & > span {
+          text-decoration: underline;
+          padding: 0;
+        }
+      }
+    }
+  }
+}

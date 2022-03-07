@@ -1,0 +1,20 @@
+version: "3.7"
+
+services:
+  next-admin:
+    image: next-admin:latest
+    container_name: next-admin-container
+    build:
+      context: ../..
+      dockerfile: packages/antor/Dockerfile
+      target: prod
+      args:
+        - PUBLIC_URL=/v2
+        - REACT_APP_API_URL=https://api-v2.stg.antoree.tech
+        - REACT_APP_FIREBASE_PROJECT_ID=antoree-dev-eb506
+        - REACT_APP_FIREBASE_APP_ID=1:133117513655:web:75f8eb134f3dccef0d6232
+        - REACT_APP_FIREBASE_API_KEY=AIzaSyCYYvCxli5ony9uNEttEaW9SD0R4atzOXI
+        - REACT_APP_FCM_SENDER_ID=133117513655
+        - REACT_APP_FCM_VAPID_KEY=BFkpX5zafmWtLi9apZBXzlmZN7JaO3EgI46T36TtUITW6vSpxMY2oeHjwFdQe_J9Qp8vOKVDhOPkaB3HrYTL1Uo
+    ports:
+      - 80:80

@@ -1,0 +1,60 @@
+.itemMenu {
+  svg {
+    color: #3f3f3f;
+    // position: absolute;
+    // left: 14px;
+  }
+  span {
+    color: #3f3f3f;
+    // padding-bottom: 14px;
+    // padding-left: 14px;
+  }
+}
+#antoreeAvatar {
+  //   border: '1px solid #cdcfd1',
+  //   width: 'fit-content',
+  //   marginLeft: '30px',
+  border: 1px solid #cdcfd1;
+  width: fit-content;
+  margin-left: 30px;
+}
+.popOver {
+  // padding: 0px;
+}
+.buttonItem {
+  display: block;
+  // padding: 14px 99px 0px 14px;
+  text-decoration: none;
+  width: 100%;
+}
+@media only screen and (max-width: 800px) {
+  #antoreeAvatar {
+    //   border: '1px solid #cdcfd1',
+    //   width: 'fit-content',
+    //   marginLeft: '30px',
+    border: 1px solid #cdcfd1;
+    width: fit-content;
+    margin-left: 10px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  #antoreeAvatar {
+    //   border: '1px solid #cdcfd1',
+    //   width: 'fit-content',
+    //   marginLeft: '30px',
+    border: 1px solid #cdcfd1;
+    width: fit-content;
+    margin-left: 10px;
+  }
+}
+// @media only screen and (max-width: 400px) {
+//   #antoreeAvatar {
+//     //   border: '1px solid #cdcfd1',
+//     //   width: 'fit-content',
+//     //   marginLeft: '30px',
+//     border: 1px solid #cdcfd1;
+//     width: fit-content;
+//     margin-left: 30111px;
+//   }
+// }

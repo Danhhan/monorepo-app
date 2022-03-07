@@ -1,0 +1,143 @@
+.headerItem {
+  > :not(:first-child) {
+    display: none;
+  }
+
+  @media (max-width: 1100px) {
+    > :first-child {
+      display: none !important;
+    }
+
+    > :not(:first-child) {
+      display: block !important;
+    }
+  }
+}
+.antoreeSearch {
+  display: none;
+}
+.antoreeSearchContainer {
+  display: none;
+}
+.customTab {
+  color: rgba(52, 55, 65, 1);
+  background-color: transparent !important;
+  text-decoration: none !important;
+  &::after {
+    width: 40% !important;
+    margin: auto;
+    right: 0;
+  }
+}
+.navMobile {
+  display: none;
+}
+.buttonSoucre {
+  display: block;
+}
+.antoreeLogo {
+  width: 160px;
+  height: auto;
+}
+@media only screen and (max-width: 1100px) {
+  .navMobile {
+    display: block;
+    background-color: white;
+    color: black;
+    position: fixed;
+    width: 100%;
+    top: 8%;
+    z-index: 200;
+  }
+  .buttonSoucre {
+    display: none;
+  }
+  .antoreeLogo {
+    width: 120px;
+    height: auto;
+  }
+  .antoreeSearchContainer {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 25px;
+    box-shadow: none;
+    position: fixed;
+    background-color: #fff;
+    width: 92vw;
+
+    z-index: 100;
+    top: 60px;
+    // bottom: 15px;
+
+    // left: 50%;
+  }
+  .antoreeSearch {
+    display: block;
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .navMobile {
+    display: block;
+    background-color: white;
+    color: black;
+    position: fixed;
+    width: 100%;
+    top: 8%;
+    z-index: 200;
+  }
+  .buttonSoucre {
+    display: none;
+  }
+  .antoreeLogo {
+    width: 130px;
+    height: auto;
+  }
+  .antoreeSearchContainer {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    width: 100vw;
+
+    box-shadow: none
+    // position: fixed;
+    // z-index: 100;
+    // top: 75px;
+    // left: 50%;
+  }
+  .antoreeSearch {
+    display: block;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .navMobile {
+    display: block;
+    background-color: white;
+    color: black;
+    position: fixed;
+    width: 100%;
+    top: 8%;
+    z-index: 200;
+  }
+  .buttonSoucre {
+    display: none;
+  }
+  .antoreeLogo {
+    width: 130px;
+    height: auto;
+  }
+  .antoreeSearchContainer {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    width: 100vw;
+
+    box-shadow:none
+  }
+  .antoreeSearch {
+    display: block;
+  }
+}

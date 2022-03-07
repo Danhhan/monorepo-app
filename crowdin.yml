@@ -1,0 +1,10 @@
+commit_message: 'fix: new translations %original_file_name% from Crowdin (%language%)'
+files:
+  - source: /packages/antee/src/translations/crowdin.json
+    translation: /packages/antee/src/translations/%locale_with_underscore%.extracted.json
+  - source: /packages/antor/src/translations/locales/crowdin.json
+    translation: >-
+      /packages/antor/src/translations/locales/%locale_with_underscore%.extracted.json
+  - source: /packages/next-admin/src/translations/locales/crowdin.json
+    translation: >-
+      /packages/next-admin/src/translations/locales/%locale_with_underscore%.extracted.json

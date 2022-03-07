@@ -1,0 +1,50 @@
+.signInContainer {
+  @apply flex flex-row;
+  min-width: 100vw;
+  min-height: 100vh;
+}
+.Group {
+  display: flex;
+}
+.antoReeeIconLock{
+  border-radius: 8px;
+
+}
+.antoreeTextmore {
+  padding-top:32px ;
+  padding-bottom: 8px;
+  text-align: center;
+
+}
+.panelLeft {
+  @apply bg-cover md:flex-grow;
+  background-image: url('../../assets/images/sign-in-bg.png');
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 0vw;
+  overflow: hidden;
+}
+
+.panelRight {
+  @media (min-width: 900px) {
+    width: 50vw;
+  }
+
+  background: #fff;
+
+  @apply flex-grow md:flex-grow-0 md:w-5/12;
+}
+
+.customAvatarSubUser {
+  width: 96px;
+  height: 96px;
+  line-height: 96px;
+}
+
+.customDatePicker {
+  .react-datepicker__year-dropdown--scrollable {
+    overflow-x: auto;
+  }
+}

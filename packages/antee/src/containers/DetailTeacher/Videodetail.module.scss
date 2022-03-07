@@ -1,0 +1,306 @@
+.soundVideo {
+  font-size: 50px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  color: #f5f7fa;
+  z-index: 10;
+  margin-top: 32px;
+  margin-left: 32px;
+  background-color: rgba(52, 55, 65, 0.3);
+  border-radius: 8px;
+}
+#videoPlay1{
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+.imgTeacher{
+  max-width: 100%;
+  border-radius: 12px;
+  float: left;
+}
+#videoPlay2 {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+#availableTimeNewIpad{
+  display: none;
+}
+.teacherContainer{
+  display: flex;
+  flex-direction: row;
+  font-size: 16px;
+}
+.teacherItemleft{
+  flex:50%;
+
+}
+.imgnoVideo {
+  display: none;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+
+}
+.imgVideo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+
+.teacherItemright{
+  flex:50%;
+}
+
+.teacherContainer{
+  padding-left: 56px;
+  padding-right: 56px;
+}
+#youtubePlay1 {
+  width: 600px;
+  height: 100%;
+}
+.pauseVideo {
+  font-size: 50px;
+  width: 100px;
+  margin-top: 250px;
+  position: absolute;
+
+  color: white;
+}
+#videoPlay1:hover {
+  .Playvideo {
+    display: none;
+  }
+}
+#availableTimeNew {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+    0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+}
+
+@media only screen and (max-width: 1200px) {
+  .soundVideo {
+    font-size: 100px;
+    width: 100px;
+    position: absolute;
+    color: white;
+    z-index: 10;
+    margin-left: auto;
+    margin-top: auto;
+  }
+  #availableTimeNewIpad{
+    display: block;
+    max-width: 100%;
+
+  }
+  .teacherItemleft{
+    display: block;
+    width: fit-content;
+  }
+  .teacherItemright{
+    display: none;
+    width: fit-content;
+  }
+  .imgnoVideo {
+    display: none;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+
+  }
+  .imgVideo {
+    margin-left: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  #availableTimeNew {
+    display: block;
+    max-width: 100%;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+    0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+  }
+  #videoPlay2 {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  #videoPlay1{
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  #youtubePlay1 {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .soundVideo {
+    font-size: 100px;
+    width: 100px;
+    position: absolute;
+    color: white;
+    z-index: 10;
+    margin-left: auto;
+    margin-top: auto;
+  }
+
+  .imgnoVideo {
+    display: none;
+    width: 20rem;
+    height: auto;
+    border-radius: 12px;
+
+  }
+  .imgVideo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  .teacherContainer{
+    display: block;
+    margin-top: 50px;
+    flex-direction: row;
+    font-size: 16px;
+  }
+  #availableTimeNewIpad{
+    display: block;
+    max-width: 100%;
+
+  }
+  .teacherItemleft{
+    display: block;
+    width: fit-content;
+  }
+  .teacherItemright{
+    display: none;
+    width: fit-content;
+  }
+  #availableTimeNew {
+    max-width: 100%;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+    0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+  }
+  #videoPlay2 {
+    width: 100%;
+    height:auto;
+    border-radius: 12px;
+  }
+  #youtubePlay1 {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .soundVideo {
+    font-size: 100px;
+    width: 100px;
+    position: absolute;
+    color: white;
+    z-index: 10;
+    margin-left: auto;
+    margin-top: auto;
+  }
+  .imgnoVideo {
+    display: none;
+    width: 20rem;
+    height: auto;
+    border-radius: 12px;
+
+  }
+  .imgVideo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  .teacherContainer{
+    display: block;
+    margin-top: 50px;
+    flex-direction: row;
+    font-size: 16px;
+  }
+  #availableTimeNewIpad{
+    display: block;
+    max-width: 100%;
+
+  }
+  .teacherItemleft{
+    display: block;
+    width: fit-content;
+  }
+  .teacherItemright{
+    display: none;
+    width: fit-content;
+  }
+  #availableTimeNew {
+    max-width: 100%;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+    0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+  }
+  #videoPlay2 {
+    max-width: 100%;
+    height: auto;
+
+    border-radius: 12px;
+  }
+  #youtubePlay1 {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .soundVideo {
+    font-size: 100px;
+    width: 100px;
+    position: absolute;
+    color: white;
+    z-index: 10;
+    margin-left: auto;
+    margin-top: auto;
+  }
+  #availableTimeNew {
+    max-width: 480px;
+    width: 100%;
+    box-shadow: none;
+  }
+  .imgnoVideo {
+    display: none;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+
+  }
+  #videoPlay1{
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  .imgVideo {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  #availableTimeNewIpad{
+    display: block;
+    max-width: 100%;
+
+  }
+  #videoPlay2 {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+  #youtubePlay1 {
+    width: 100%;
+    height: auto;
+  }
+}

@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  antor-pwa:
+    image: antor-pwa:latest
+    container_name: antor-pwa-container
+    build:
+      context: ../..
+      dockerfile: packages/antor/Dockerfile
+      target: prod
+      args:
+        - PUBLIC_URL=/
+    ports:
+      - 80:80

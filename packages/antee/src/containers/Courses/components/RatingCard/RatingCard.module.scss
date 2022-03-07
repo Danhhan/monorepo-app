@@ -1,0 +1,13 @@
+.ratingBorder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  @apply w-14 h-14 rounded-full;
+}
+.ratingChild {
+  @apply flex justify-center items-center;
+  margin: auto;
+}
+.ratingChild h4 {
+  color: #ffffff;
+}

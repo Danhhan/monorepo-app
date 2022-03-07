@@ -1,0 +1,40 @@
+.circleBackground,
+.circleProgress {
+  fill: none;
+}
+
+.circleBackgroundFail,
+.circleProgressFail {
+  fill: none;
+}
+.circleBackground {
+  stroke: rgba(0, 192, 129, 0.2);
+}
+
+.circleProgress {
+  stroke: #00c081;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.circleText {
+  font-size: 0.75em;
+  font-weight: bold;
+  fill: #00c081;
+}
+
+.circleBackgroundFail {
+  stroke: #999999;
+}
+
+.circleProgressFail {
+  stroke: #999999;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.circleTextFail {
+  font-size: 1em;
+  font-weight: bold;
+  fill: #999999;
+}

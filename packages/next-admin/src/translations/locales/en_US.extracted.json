@@ -1,0 +1,1067 @@
+{
+  "+0+6BC": {
+    "message": "User {index}"
+  },
+  "+S6jjt": {
+    "message": "Testing courses detail"
+  },
+  "+U6ozc": {
+    "message": "Type"
+  },
+  "+Uf3wS": {
+    "message": "Saleman name or email"
+  },
+  "/+ekhU": {
+    "message": "Customer/Contact"
+  },
+  "/0DJ3v": {
+    "message": "Sign in as {userName}"
+  },
+  "/VnDMl": {
+    "message": "Other"
+  },
+  "/WMCDd": {
+    "message": "Something went wrong!"
+  },
+  "/bPbzt": {
+    "message": "Sort Type"
+  },
+  "/dNip+": {
+    "message": "Detailed Status"
+  },
+  "0AfyWi": {
+    "message": "Testing Date"
+  },
+  "0D+b/i": {
+    "message": "Not found any option"
+  },
+  "0QiIhg": {
+    "message": "Update Student successfully!"
+  },
+  "0XTb3q": {
+    "message": "Some field are invalid or not acceptable!"
+  },
+  "13DPqV": {
+    "message": "Invalid session id"
+  },
+  "15B4VH": {
+    "message": "Teacher Test Management"
+  },
+  "18VthJ": {
+    "message": "Data Filters"
+  },
+  "1CHORC": {
+    "message": "Successfully"
+  },
+  "1Ia8qN": {
+    "message": "Processing"
+  },
+  "1J1Qos": {
+    "message": "Total Cost for Contacts"
+  },
+  "1u51Xp": {
+    "message": "No Teacher Available"
+  },
+  "2+kAwK": {
+    "message": "Delayed"
+  },
+  "20JG1O": {
+    "message": "Teacher ID"
+  },
+  "2U8JyA": {
+    "message": "Teachers Management"
+  },
+  "2ddRz1": {
+    "message": "Student Management"
+  },
+  "3/M2rt": {
+    "message": "Testing Call/Booking"
+  },
+  "39Il6S": {
+    "message": "Trial course"
+  },
+  "3PZa76": {
+    "message": "This Month"
+  },
+  "3VI9mt": {
+    "message": "Save Changes"
+  },
+  "3VfCJg": {
+    "message": "reload"
+  },
+  "3lU1st": {
+    "message": "Trial Course List"
+  },
+  "3wsVWF": {
+    "message": "Cancelled"
+  },
+  "4+XXuI": {
+    "message": "Trial course detail"
+  },
+  "4/0igv": {
+    "message": "Customer complete trial, waiting for sale."
+  },
+  "47FYwb": {
+    "message": "Cancel"
+  },
+  "4S241U": {
+    "message": "Contacts"
+  },
+  "4SfHYA": {
+    "message": "Tested"
+  },
+  "4riFy2": {
+    "message": "Detail Score"
+  },
+  "4rzkE5": {
+    "message": "Record {order}"
+  },
+  "4yElpA": {
+    "message": "Search for Student by Phone Number, Name or Student ID"
+  },
+  "527dFt": {
+    "message": "Edit Testing Result"
+  },
+  "52QtMe": {
+    "message": "Date Range"
+  },
+  "53YZ+R": {
+    "message": "FileName"
+  },
+  "55vTH+": {
+    "message": "User ID"
+  },
+  "564fPd": {
+    "message": "Teenager/Adult"
+  },
+  "59NlY8": {
+    "message": "Young learner"
+  },
+  "5cGQ2I": {
+    "message": "Antoree Overview"
+  },
+  "5sg7KC": {
+    "message": "Password"
+  },
+  "6UO0i6": {
+    "message": "Search for Student by Saleman Name or Email"
+  },
+  "6kpC7A": {
+    "message": "Acceptable"
+  },
+  "6xap9L": {
+    "message": "Good"
+  },
+  "74BYXL": {
+    "message": "Female"
+  },
+  "7CTOHN": {
+    "message": "Something Went Wrong"
+  },
+  "7QiugJ": {
+    "message": "Open Slots"
+  },
+  "7kAun3": {
+    "message": "Sales Report V2"
+  },
+  "7vAheX": {
+    "message": "The current customer's trial slot has been booked. Please cancel the current schedule or book another one."
+  },
+  "8HJxXG": {
+    "message": "Sign up"
+  },
+  "95stPq": {
+    "message": "Completed"
+  },
+  "9BLRFT": {
+    "message": "Status Teacher Options"
+  },
+  "9j3hXO": {
+    "message": "To"
+  },
+  "9uOFF3": {
+    "message": "Overview"
+  },
+  "9w92vX": {
+    "message": "CourseId (ACS Only)"
+  },
+  "9wBisY": {
+    "message": "Export File Options"
+  },
+  "A2RcpJ": {
+    "message": "Customer/Tested"
+  },
+  "A6sL8J": {
+    "message": "Remember me"
+  },
+  "AQuupo": {
+    "message": "Search for Student by Learning Request ID"
+  },
+  "ARIlGw": {
+    "message": "GMV"
+  },
+  "AbW3oj": {
+    "message": "Refresh contact failure!"
+  },
+  "AqetH9": {
+    "message": "The teacher available time has been booked"
+  },
+  "B+0ikw": {
+    "message": "Not Passed"
+  },
+  "B6CB37": {
+    "message": "Web"
+  },
+  "BBRox/": {
+    "message": "Credentials Information"
+  },
+  "BGnY+U": {
+    "message": "Student Information"
+  },
+  "BQuFrc": {
+    "message": "{duration} minutes"
+  },
+  "CF99Ab": {
+    "message": "Hello !"
+  },
+  "CGA7Qm": {
+    "message": "Watch records"
+  },
+  "CL382c": {
+    "message": "Update Note successfully!"
+  },
+  "CXeJvU": {
+    "message": "Referral Report"
+  },
+  "CuhOmD": {
+    "message": "Select Suitable Time Range"
+  },
+  "D9sBYU": {
+    "message": "Search for Student by Saleman Name"
+  },
+  "DUjOnJ": {
+    "message": "Not happend"
+  },
+  "DuEsed": {
+    "message": "Antoree Call Overview"
+  },
+  "DzWJ6J": {
+    "message": "Book a Studying Time"
+  },
+  "ECx6bx": {
+    "message": "Updated At"
+  },
+  "EFB9vn": {
+    "message": "StudentType"
+  },
+  "EICWOz": {
+    "message": "Detail of Tester #{id}"
+  },
+  "EWw/tK": {
+    "message": "Apply"
+  },
+  "EeXm9z": {
+    "message": "Trial Course Management"
+  },
+  "EwRIOm": {
+    "message": "User"
+  },
+  "F0ysuP": {
+    "message": "Not Acceptable"
+  },
+  "FBiax3": {
+    "message": "Student List"
+  },
+  "FJsLIc": {
+    "message": "Minimum length is {length}"
+  },
+  "FUM9SE": {
+    "message": "Need an account?"
+  },
+  "FgydNe": {
+    "message": "View"
+  },
+  "G0NahN": {
+    "message": "Customer booked, waiting for test."
+  },
+  "GWtmtu": {
+    "message": "Mobile"
+  },
+  "GYogKH": {
+    "message": "Adaptable"
+  },
+  "GbzOYQ": {
+    "message": "Sales ID"
+  },
+  "GcPFLS": {
+    "message": "Work"
+  },
+  "HDiafR": {
+    "message": "How to Score?"
+  },
+  "HHzdGS": {
+    "message": "Employees"
+  },
+  "Hij/n+": {
+    "message": "Saleman name"
+  },
+  "HoDs62": {
+    "message": "Saleman Information:"
+  },
+  "Hpv4PA": {
+    "message": "Excellent"
+  },
+  "Humfno": {
+    "message": "End date"
+  },
+  "I+1HSy": {
+    "message": "Trial"
+  },
+  "IN9hRL": {
+    "message": "Fixed Customers"
+  },
+  "INDuv8": {
+    "message": "Trials/Tested"
+  },
+  "INrbJL": {
+    "message": "User not found"
+  },
+  "IZPgWf": {
+    "message": "{field} is required"
+  },
+  "IcMmI/": {
+    "message": "Trial/Booked"
+  },
+  "IpS0+6": {
+    "message": "Learning Request ID"
+  },
+  "Iqnx0I": {
+    "message": "Choose Time & Duration"
+  },
+  "J0LGYH": {
+    "message": "Result of Testing Course #{id}"
+  },
+  "J2gVvW": {
+    "message": "Create New Student With SubUsers"
+  },
+  "JHCioU": {
+    "message": "Testing Course Management"
+  },
+  "JNWL68": {
+    "message": "Student Account Already Exist"
+  },
+  "JTYNyk": {
+    "message": "Email Existed!"
+  },
+  "Jb4Prv": {
+    "message": "Last Update"
+  },
+  "JxYhUr": {
+    "message": "Not Found Contact"
+  },
+  "K3r6DQ": {
+    "message": "Delete"
+  },
+  "K53mHU": {
+    "message": "Delayed/Booked"
+  },
+  "KFV1z0": {
+    "message": "Tester's ID"
+  },
+  "KgAlAZ": {
+    "message": "Add note"
+  },
+  "KvP1A9": {
+    "message": "Student detail"
+  },
+  "L3VdNb": {
+    "message": "Detail of Student #{id}"
+  },
+  "LafZfP": {
+    "message": "Tester ID"
+  },
+  "LcvcPE": {
+    "message": "Assign For"
+  },
+  "LvJJ2o": {
+    "message": "GPC"
+  },
+  "MJ2jZQ": {
+    "message": "Total"
+  },
+  "MXASV1": {
+    "message": "Session ID (Example: 123765)"
+  },
+  "N2IrpM": {
+    "message": "Confirm"
+  },
+  "NadqmZ": {
+    "message": "Select a Student"
+  },
+  "OJziTd": {
+    "message": "Saleman"
+  },
+  "Oc/0wp": {
+    "message": "Add Note"
+  },
+  "OgTpZI": {
+    "message": "Non-Excellent"
+  },
+  "Oh++qh": {
+    "message": "Study Goals"
+  },
+  "OyBNry": {
+    "message": "Cancel Error!"
+  },
+  "P8Xs51": {
+    "message": "ROI"
+  },
+  "PCHVx8": {
+    "message": "Send to Student"
+  },
+  "PNrSDy": {
+    "message": "Customers have paid! hooray! "
+  },
+  "PY/Xrm": {
+    "message": "Create student failure!"
+  },
+  "PbSYGO": {
+    "message": "Course Call"
+  },
+  "PgJGHT": {
+    "message": "Available"
+  },
+  "PqW21d": {
+    "message": "Select Course Date"
+  },
+  "Pz5vyK": {
+    "message": "Search Input Teacher"
+  },
+  "Q1xfqF": {
+    "message": "Outstanding"
+  },
+  "Q6wcZ5": {
+    "message": "First Name"
+  },
+  "Qd4b6s": {
+    "message": "Search with Email, Name,Last Name , Phone or Id"
+  },
+  "QlsDcr": {
+    "message": "Action"
+  },
+  "QrihTZ": {
+    "message": "Friday"
+  },
+  "R86IN4": {
+    "message": "Delay"
+  },
+  "RREOwv": {
+    "message": "Search by name or email"
+  },
+  "RYiGdc": {
+    "message": "Contact Information"
+  },
+  "RhvWkq": {
+    "message": "Trials Call/Tested"
+  },
+  "RjJeWZ": {
+    "message": "Conversion Cost"
+  },
+  "S03vAR": {
+    "message": "Excellent Teacher Options"
+  },
+  "S0YF9L": {
+    "message": "Course Information"
+  },
+  "SMsFXW": {
+    "message": "Newly"
+  },
+  "SQJto2": {
+    "message": "Sign in"
+  },
+  "SVwJTM": {
+    "message": "Export"
+  },
+  "SWvHLr": {
+    "message": "This Week"
+  },
+  "SZHvpU": {
+    "message": "Sales Report"
+  },
+  "Sn4iLQ": {
+    "message": "Account Exist!"
+  },
+  "SooiSM": {
+    "message": "Regular Contracts"
+  },
+  "T20qo2": {
+    "message": "This Action Cannot Undo!"
+  },
+  "T4CFK7": {
+    "message": "Invalid CourseID"
+  },
+  "TAglPq": {
+    "message": "Devide contact"
+  },
+  "TQAsPT": {
+    "message": "Missed By Teacher"
+  },
+  "TSEAxI": {
+    "message": "Available Time of"
+  },
+  "Tw2QnJ": {
+    "message": "Error Occurs!"
+  },
+  "Tz/YDY": {
+    "message": "Teachers Trial Management"
+  },
+  "UCvk7v": {
+    "message": "List Test - Trial Courses"
+  },
+  "UFXeub": {
+    "message": "Testing courses"
+  },
+  "UVthWr": {
+    "message": "Do You Want To Delete This User?"
+  },
+  "UXcN6v": {
+    "message": "Testing course detail"
+  },
+  "UewDR0": {
+    "message": "Self booked Report"
+  },
+  "UpwcFd": {
+    "message": "Unavailable"
+  },
+  "UrR6rz": {
+    "message": "Available Time"
+  },
+  "UvFUuq": {
+    "message": "Student"
+  },
+  "W41rbD": {
+    "message": "Do You Want To Redirect To Account Detail Page To Update?"
+  },
+  "WAGIL0": {
+    "message": "Customer/Contacts"
+  },
+  "WMNHPh": {
+    "message": "Saturday"
+  },
+  "WkrNSk": {
+    "message": "English"
+  },
+  "Wpn0Oh": {
+    "message": "GPE"
+  },
+  "XHLYdJ": {
+    "message": "Goals"
+  },
+  "XHzXqU": {
+    "message": "Teacher Name"
+  },
+  "XJcP+4": {
+    "message": "Trials Booked"
+  },
+  "Y7lOjK": {
+    "message": "Update saleman"
+  },
+  "YADZVF": {
+    "message": "Invaild email or password"
+  },
+  "YAgYL6": {
+    "message": "Tuesday"
+  },
+  "ZPAml8": {
+    "message": "Testing"
+  },
+  "ZgetKy": {
+    "message": "Tester Report"
+  },
+  "ZpQ6us": {
+    "message": "Result"
+  },
+  "a2HshP": {
+    "message": "Course Call/Main Course"
+  },
+  "a7zc5p": {
+    "message": "Edit Result"
+  },
+  "aRvg8J": {
+    "message": "Probation date"
+  },
+  "aSFqwp": {
+    "message": "Customer/Contract"
+  },
+  "acXalb": {
+    "message": "Forgot password ?"
+  },
+  "aheQdn": {
+    "message": "Last Name"
+  },
+  "auGxmu": {
+    "message": "Contract/Tested"
+  },
+  "azMsfM": {
+    "message": "Monday"
+  },
+  "b4HuiT": {
+    "message": "Needs"
+  },
+  "b4N6Le": {
+    "message": "Final Results"
+  },
+  "bW7B87": {
+    "message": "New"
+  },
+  "brIVLz": {
+    "message": "Hi {displayName} !"
+  },
+  "byP6IC": {
+    "message": "Selected"
+  },
+  "c1pQ+7": {
+    "message": "Sale name"
+  },
+  "cMpbk+": {
+    "message": "Fail Call"
+  },
+  "cr83G4": {
+    "message": "Search by name"
+  },
+  "d48QW8": {
+    "message": "Search by Saleman Name"
+  },
+  "dCCBpr": {
+    "message": "Cancel Success"
+  },
+  "dL4sQS": {
+    "message": "Teachers Trial List"
+  },
+  "dM+p3/": {
+    "message": "From"
+  },
+  "dNRJ20": {
+    "message": "Customer signed up, waiting for test."
+  },
+  "daQk5Q": {
+    "message": "Do You Want To Update Infomation Of This Account?"
+  },
+  "ddNEPq": {
+    "message": "Booked Slots"
+  },
+  "deEeEI": {
+    "message": "Register"
+  },
+  "dgsU9C": {
+    "message": "Testing Duration"
+  },
+  "dtAIjs": {
+    "message": "LR ID"
+  },
+  "eCUIuS": {
+    "message": "Create New Trial Course"
+  },
+  "eIKVwN": {
+    "message": "Miss By Teacher"
+  },
+  "ejEGdx": {
+    "message": "Home"
+  },
+  "ejaYuF": {
+    "message": "Thurday"
+  },
+  "eoajVr": {
+    "message": "Error Occured!"
+  },
+  "es7ci2": {
+    "message": "30 minutes"
+  },
+  "f3Df2M": {
+    "message": "Invaild email"
+  },
+  "fJRb48": {
+    "message": "This time slot is already booked, please cancel to choose a new one"
+  },
+  "fNCCY7": {
+    "message": "Basic"
+  },
+  "gCInZB": {
+    "message": "Your ID: {id}"
+  },
+  "gGYKeQ": {
+    "message": "{minutes} mins"
+  },
+  "gHZLq7": {
+    "message": "Missed/Booked"
+  },
+  "gRnF7m": {
+    "message": "Sales Teams Status"
+  },
+  "gZlFBP": {
+    "message": "Okay"
+  },
+  "gdsJqT": {
+    "message": "Trial Report"
+  },
+  "guATPN": {
+    "message": "Dự thính"
+  },
+  "gyn2eP": {
+    "message": "Brilliant"
+  },
+  "h4F3r8": {
+    "message": "Recorded Video"
+  },
+  "hGQqkW": {
+    "message": "Schedule"
+  },
+  "hZMFMd": {
+    "message": "Sales Information"
+  },
+  "hkENym": {
+    "message": "Customer"
+  },
+  "hleU/g": {
+    "message": "Select a Teacher"
+  },
+  "hoUawP": {
+    "message": "Phone Number, Name or Student ID"
+  },
+  "hzSNj4": {
+    "message": "Dashboard"
+  },
+  "i41OFE": {
+    "message": "Trials Call"
+  },
+  "i4lHYC": {
+    "message": "Remove Sub User failure!"
+  },
+  "iFPxPU": {
+    "message": "Courses Type"
+  },
+  "iFsDVR": {
+    "message": "Loading"
+  },
+  "iS3Y+u": {
+    "message": "Tested/Booked"
+  },
+  "iucMT9": {
+    "message": "Persional Information"
+  },
+  "j4njOc": {
+    "message": "Perfect"
+  },
+  "jIbAky": {
+    "message": "Male"
+  },
+  "jLBYql": {
+    "message": "Sub Users"
+  },
+  "jT0ec8": {
+    "message": "Estimated Price"
+  },
+  "jdJhOL": {
+    "message": "Phone number"
+  },
+  "jksDiO": {
+    "message": "Create New Student"
+  },
+  "jvo0vs": {
+    "message": "Save"
+  },
+  "k+kHlN": {
+    "message": "Team Name"
+  },
+  "k4RBtE": {
+    "message": "Course's ID"
+  },
+  "k6RPAV": {
+    "message": "Trial/Tested"
+  },
+  "kBJUtE": {
+    "message": "Video"
+  },
+  "kBsiID": {
+    "message": "Tester"
+  },
+  "kHkPdE": {
+    "message": "Booked"
+  },
+  "kPidXT": {
+    "message": "Start Time - End Time"
+  },
+  "ki/M8J": {
+    "message": "Select Courses Time Range"
+  },
+  "kwNgVV": {
+    "message": "Account Detail"
+  },
+  "kxqBFC": {
+    "message": "Ongoing Courses"
+  },
+  "lJePcp": {
+    "message": "Failure"
+  },
+  "lZSAfZ": {
+    "message": "The email have already been taken"
+  },
+  "lwgmWU": {
+    "message": "Customer tested, waiting for result."
+  },
+  "lxblgl": {
+    "message": "Wednesday"
+  },
+  "m/1nDd": {
+    "message": "Please re-check your form before submit!"
+  },
+  "m8/n8c": {
+    "message": "Gender"
+  },
+  "mH35gI": {
+    "message": "45 minutes"
+  },
+  "mJR06P": {
+    "message": "Sunday"
+  },
+  "mXiD5u": {
+    "message": "Phone Number"
+  },
+  "mguQzw": {
+    "message": "Create New Course"
+  },
+  "myq2ZL": {
+    "message": "Normal"
+  },
+  "n1QmKe": {
+    "message": "Not Applicable"
+  },
+  "n5QvJy": {
+    "message": "Start date"
+  },
+  "n9aLMZ": {
+    "message": "Note from Sales"
+  },
+  "n9tse2": {
+    "message": "Cancle Testing Course"
+  },
+  "nE2xuO": {
+    "message": "Create New Testing Course"
+  },
+  "nmpevl": {
+    "message": "Discard"
+  },
+  "o+nfLw": {
+    "message": "{name}"
+  },
+  "oBXOvm": {
+    "message": "Devide contact successfully!"
+  },
+  "oIqAYV": {
+    "message": "Teacher Information"
+  },
+  "oMchBm": {
+    "message": "Remove Sub User successfully!"
+  },
+  "oYlwSf": {
+    "message": "Tester Information"
+  },
+  "obZly8": {
+    "message": "Teachers Test List"
+  },
+  "omeeRg": {
+    "message": "Testing Course List"
+  },
+  "onm8no": {
+    "message": "Trial Booked"
+  },
+  "opgNql": {
+    "message": "Self Booked Report"
+  },
+  "pITBSJ": {
+    "message": "Cancel"
+  },
+  "pONqz8": {
+    "message": "First name"
+  },
+  "pUno1E": {
+    "message": "Booking Source"
+  },
+  "pbZbmV": {
+    "message": "Persional Information - User 1"
+  },
+  "pfHP9Q": {
+    "message": "Update failure!"
+  },
+  "q0739A": {
+    "message": "Search by Phone Number, Name or Student ID"
+  },
+  "q1WWIr": {
+    "message": "In progress"
+  },
+  "qMZ5yQ": {
+    "message": "Error occured!"
+  },
+  "qMePPG": {
+    "message": "Note"
+  },
+  "qUYTGi": {
+    "message": "Bulk devide contacts"
+  },
+  "qcjR/8": {
+    "message": "View Note"
+  },
+  "qhi6Ld": {
+    "message": "This Field Is Require"
+  },
+  "qoPh/M": {
+    "message": "View Testing Result"
+  },
+  "qzc588": {
+    "message": "Tester detail"
+  },
+  "rPY9AU": {
+    "message": "Log in failure please contact tech for help! Error: {code}"
+  },
+  "rbrahO": {
+    "message": "Close"
+  },
+  "remS1l": {
+    "message": "Account Exist"
+  },
+  "sCh0tp": {
+    "message": "Saleman"
+  },
+  "sLnDOb": {
+    "message": "Discard Changes"
+  },
+  "sQ5OWD": {
+    "message": "Session expired. Please sign in again !"
+  },
+  "sYJC4e": {
+    "message": "Data Not Found"
+  },
+  "sy+pv5": {
+    "message": "Email"
+  },
+  "t+jiyO": {
+    "message": "Student Type"
+  },
+  "tW9a95": {
+    "message": "User's ID"
+  },
+  "txUL0F": {
+    "message": "Last name"
+  },
+  "tzMNF3": {
+    "message": "Status"
+  },
+  "u7E3Yk": {
+    "message": "Teacher"
+  },
+  "ug01Mk": {
+    "message": "Time"
+  },
+  "uhwf+D": {
+    "message": "Students"
+  },
+  "uiQMxJ": {
+    "message": "Add Sub User"
+  },
+  "uoV/0P": {
+    "message": "Kid"
+  },
+  "ut7Gbk": {
+    "message": "Degrees & Certifications"
+  },
+  "v7MyS6": {
+    "message": "Data sources"
+  },
+  "vAjk3b": {
+    "message": "No records"
+  },
+  "vH4c6j": {
+    "message": "No SaleMan For Update"
+  },
+  "vQg0Rk": {
+    "message": "Create New Tester"
+  },
+  "vfG+nh": {
+    "message": "Confirm Password"
+  },
+  "vhsMLE": {
+    "message": "Search by Learning Request ID"
+  },
+  "wEQDC6": {
+    "message": "Edit"
+  },
+  "wPwRaF": {
+    "message": "Not Permission Access"
+  },
+  "wQ8FPv": {
+    "message": "Learning Request"
+  },
+  "wittYy": {
+    "message": "Created At"
+  },
+  "wjjOCT": {
+    "message": "60 minutes"
+  },
+  "wsUmh9": {
+    "message": "Team"
+  },
+  "xRo7zo": {
+    "message": "Salesman"
+  },
+  "xSnUPR": {
+    "message": "Download Result"
+  },
+  "xXbJso": {
+    "message": "Sign out"
+  },
+  "xf6kP+": {
+    "message": "This contact has been care by someone"
+  },
+  "xlThe+": {
+    "message": "Access Denied!"
+  },
+  "xqFsCz": {
+    "message": "Cool"
+  },
+  "xrKHS6": {
+    "message": "Success"
+  },
+  "xxQxLE": {
+    "message": "Email Address"
+  },
+  "xzyHM+": {
+    "message": "Vietnamese"
+  },
+  "ygubEH": {
+    "message": "Do You Want To Cancel Course With {id}?"
+  },
+  "yo8xxa": {
+    "message": "Tested/Contacts"
+  },
+  "yp1K0y": {
+    "message": "Detail of Courses #{id}"
+  },
+  "zApMkp": {
+    "message": "Update successfully!"
+  },
+  "zD+441": {
+    "message": "Testing Call"
+  },
+  "zHPqOq": {
+    "message": "Adult"
+  },
+  "zQvVDJ": {
+    "message": "All"
+  },
+  "zWgbGg": {
+    "message": "Today"
+  },
+  "zhD6xP": {
+    "message": "Trial Duration"
+  }
+}

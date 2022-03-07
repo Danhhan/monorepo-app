@@ -1,0 +1,148 @@
+.scroll::-webkit-scrollbar {
+  // -webkit-border-radius: 10px;
+  // border-radius: 10px;
+  // width: 7px;
+  display: none;
+}
+.coucseHeader{
+ margin-top:  10%;
+}
+.Mycources {
+  min-height: 100vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: rgb(85, 88, 86);
+    border-radius: 5px;
+  }
+}
+
+.containerFluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.rowAntee::after {
+  content: '';
+  clear: both;
+  display: table;
+}
+.colAnteeSm1 {
+  width: 8.33%;
+}
+.colAnteeSm2 {
+  width: 16.66%;
+}
+.colAnteeSm3 {
+  width: 25%;
+}
+.colAnteeSm4 {
+  width: 33.33%;
+}
+.colAnteeSm5 {
+  width: 41.66%;
+}
+.colAnteeSm6 {
+  width: 50%;
+}
+.colAnteeSm7 {
+  width: 58.33%;
+}
+.colAnteeSm8 {
+  width: 66.66%;
+}
+.colAnteeSm9 {
+  width: 75%;
+}
+.colAnteeSm10 {
+  width: 83.33%;
+}
+.colAnteeSm11 {
+  width: 91.66%;
+}
+.colAnteeSm12 {
+  width: 100%;
+}
+@media (min-width: 1200px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl {
+    max-width: 1140px;
+  }
+}
+.rowAntee {
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.coucseBody{
+  padding: 25px;
+}
+@media only screen and (max-width: 1000px) {
+  .Mycources {
+    min-height: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+    &::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: rgb(85, 88, 86);
+      border-radius: 5px;
+    }
+  }
+  .coucseHeader{
+    margin-top:  20%;
+  }
+  .coucseBody{
+    max-width: 680px;
+  }
+
+}
+@media only screen and (max-width: 500px) {
+  .Mycources {
+    min-height: auto;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    &::-webkit-scrollbar {
+      width: 8px;
+    }
+    &::-webkit-scrollbar-track {
+      box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+    &::-webkit-scrollbar-thumb {
+      background-color: rgb(85, 88, 86);
+      border-radius: 5px;
+    }
+  }
+  .coucseHeader{
+    margin-top:  20%;
+  }
+  .coucseBody{
+    padding: 0px;
+    max-width: 100%;
+  }
+
+}
+
+// /* Handle */
+// .scroll::-webkit-scrollbar-thumb {
+//   -webkit-border-radius: 10px;
+//   border-radius: 10px;
+//   background: #c2c3c6;
+// }

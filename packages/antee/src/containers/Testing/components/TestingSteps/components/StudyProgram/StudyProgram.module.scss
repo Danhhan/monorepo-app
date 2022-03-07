@@ -1,0 +1,15 @@
+.bigRadio {
+  width: 448px;
+  height: 308px;
+}
+@media (orientation: portrait) {
+  .bigRadio {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-left: 10px;
+  }
+  .StudyBody {
+    margin-top: 100px;
+  }
+}

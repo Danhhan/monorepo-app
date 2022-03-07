@@ -1,0 +1,164 @@
+/* 
+Copyright (c) 2021 Antorre Ltd , All rights reserved
+Author : Thin9x
+Code  không có bugs, tất cả chỉ là tính năng : ))
+
+*/
+
+  .Container {
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    margin-bottom: 10px;
+    transform: translate(-50%, -50%);
+  }
+  .editTextName {
+    display: inline-flex;
+    align-self: auto;
+    margin-top: 10%;
+    width: 500px;
+  }
+  .labeledit {
+    position: absolute;
+    top: 50px;
+    font-weight: 600;
+  }
+  .TextEdit {
+    margin-left: 10px;
+  }
+  .editNamelabel {
+  }
+  .Labelh1 {
+    font-size: 27px;
+    font-weight: 600;
+    margin-top: 250px;
+  }
+  .Bodyeditaccount {
+    border: 0.5px solid rgb(131, 129, 129);
+    width: 750px;
+    margin-top: 25px;
+    height: 250px;
+  }
+  .Bodyaccount {
+    display: flex;
+    align-self: auto;
+    margin-top: 10%;
+    width: 750px;
+  }
+  .Infotext {
+    margin-top: 10px;
+  }
+  .ButtonChange {
+    padding-left: 450px;
+  }
+  .Namelabel {
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .hr {
+    position: absolute;
+    margin-top: 20px;
+    height: 0.2px;
+    width: 100%;
+    background-color: rgb(95, 100, 96);
+  }
+  .btnchange {
+    position: absolute;
+    border: none !important;
+    box-sizing: none !important;
+    box-shadow: none !important;
+    background-color: white !important;
+    left: 80%;
+  }
+
+// ipad pro
+@media only screen and (max-width: 1024px) and (max-height: 1366px) {
+  .Container {
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    margin-bottom: 10px;
+    transform: translate(-50%, -50%);
+  }
+  .Labelh1 {
+    font-size: 27px;
+    font-weight: 600;
+  }
+  .Bodyaccount {
+    display: flex;
+    align-self: auto;
+    margin-top: 10%;
+    width: 750px;
+  }
+  .Infotext {
+    margin-top: 10px;
+  }
+  .ButtonChange {
+    padding-left: 450px;
+  }
+  .Namelabel {
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .hr {
+    position: absolute;
+    margin-top: 20px;
+    height: 0.2px;
+    width: 100%;
+    background-color: rgb(95, 100, 96);
+  }
+  .btnchange {
+    position: absolute;
+    border: none !important;
+    box-sizing: none !important;
+    box-shadow: none !important;
+    background-color: white !important;
+    left: 80%;
+  }
+}
+
+@media (orientation: portrait) {
+  .Container {
+    position: absolute;
+    top: 750px;
+    left: 50%;
+    width: 100%;
+    margin-bottom: 10px;
+    transform: translate(-50%, -50%);
+  }
+  .Labelh1 {
+    font-size: 27px;
+    font-weight: 600;
+  }
+  .Bodyaccount {
+    display: flex;
+    align-self: auto;
+    margin-top: 10%;
+    width: max-content;
+  }
+  .Infotext {
+    margin-top: 10px;
+  }
+  .ButtonChange {
+    padding-left: auto;
+  }
+  .Namelabel {
+    font-weight: 600;
+    font-size: 16px;
+  }
+  .hr {
+    position: absolute;
+    margin-top: 20px;
+    height: 0.2px;
+    width: 100%;
+    background-color: rgb(95, 100, 96);
+  }
+  .btnchange {
+    position: absolute;
+    border: none !important;
+    box-sizing: none !important;
+    box-shadow: none !important;
+    background-color: white !important;
+    left: 75%;
+  }
+}

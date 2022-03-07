@@ -1,0 +1,5 @@
+.confirmChangeCourseBg {
+  @apply lg:flex-grow w-full bg-center bg-contain bg-no-repeat;
+  background-image: url('../../../../assets/images/todayCourseNotFound.svg');
+  min-height: 170px;
+}

@@ -1,0 +1,386 @@
+{
+  "+MrWpY": {
+    "message": "Ghi Chú Học Viên"
+  },
+  "/161r2": {
+    "message": "Đang tải khoá học..."
+  },
+  "/PLVzX": {
+    "message": "Test ID phải là số nguyên dương"
+  },
+  "/fr3rV": {
+    "message": "Gửi kết quả kiểm tra thất bại"
+  },
+  "0DUbiY": {
+    "message": "Bài tập về nhà"
+  },
+  "0t3SIy": {
+    "message": "Sử dụng nhiều từ vựng"
+  },
+  "1bM5e1": {
+    "message": "Không tìm thấy buổi kiểm tra"
+  },
+  "2GFjIN": {
+    "message": "Nhập mật khẩu của bạn"
+  },
+  "2c5Jmp": {
+    "message": "Tất cả các buổi học"
+  },
+  "30TWdP": {
+    "message": "Nội dung từ vựng"
+  },
+  "3jwVUq": {
+    "message": "Chỉ sử dụng tiếng anh"
+  },
+  "47FYwb": {
+    "message": "Hủy"
+  },
+  "4q+8tM": {
+    "message": "Đang mở: {totalCourse} khoá học"
+  },
+  "4rzkE5": {
+    "message": "Bản ghi {order}"
+  },
+  "4zRPjf": {
+    "message": "Tạm dừng: {totalCourse} khoá học"
+  },
+  "5Gl2n9": {
+    "message": "Bạn không có quyền"
+  },
+  "5ayzwk": {
+    "message": "Vui lòng kiểm tra lại Test ID hoặc liên hệ với tư vấn viên"
+  },
+  "5jeq8P": {
+    "message": "Không xác định"
+  },
+  "5y8+UH": {
+    "message": "Bạn không thay đổi gì hết"
+  },
+  "6/aEFZ": {
+    "message": "Sắp diễn ra"
+  },
+  "72ui7O": {
+    "message": "Về trang chủ"
+  },
+  "7PdBYC": {
+    "message": "Không có khoá học nào"
+  },
+  "7uY06z": {
+    "message": "Phát âm rõ"
+  },
+  "92Mctp": {
+    "message": "ghi chú"
+  },
+  "95stPq": {
+    "message": "Đã hoàn thành"
+  },
+  "9Jehq4": {
+    "message": "Buổi học hôm nay"
+  },
+  "9WRlF4": {
+    "message": "Gửi"
+  },
+  "9a9+ww": {
+    "message": "Tiêu đề"
+  },
+  "ACAHdL": {
+    "message": "Điểm (từ 0 đến 3)"
+  },
+  "AQqeVX": {
+    "message": "Kết quả kiểm tra"
+  },
+  "AYWmWV": {
+    "message": "Đánh giá buổi học"
+  },
+  "B18F+U": {
+    "message": "Ngữ điệu"
+  },
+  "By4O6Y": {
+    "message": "Vui lòng nhập kí tự số"
+  },
+  "CGA7Qm": {
+    "message": "Xem ghi hình"
+  },
+  "CMbqoE": {
+    "message": "Nhập địa chỉ email hoặc sô điện thoại"
+  },
+  "Cpf94t": {
+    "message": "Vượt quá giới hạn của thời lượng khóa học"
+  },
+  "EHRQZv": {
+    "message": "Vui lòng nhập mã Test ID được cung cấp vào ô bên dưới để tham gia buổi kiểm tra cùng học viên"
+  },
+  "ESnW7g": {
+    "message": "Kết quả BTVN"
+  },
+  "EeVzlQ": {
+    "message": "Nội dung ngữ pháp"
+  },
+  "GuvrHL": {
+    "message": "Điểm (từ 0 đến 9)"
+  },
+  "I+38K2": {
+    "message": "Khoá học của tôi"
+  },
+  "IiE5Ye": {
+    "message": "Gửi phản hồi & đánh giá học viên"
+  },
+  "J9JF+p": {
+    "message": "Bắt đầu buổi học"
+  },
+  "JfG49w": {
+    "message": "Mở"
+  },
+  "KVf2Xm": {
+    "message": "Tải file lên thất bại"
+  },
+  "LB85Fl": {
+    "message": "Chào {firstName}!"
+  },
+  "LrJIqT": {
+    "message": "Gửi phản hồi thất bại"
+  },
+  "NU0Nha": {
+    "message": "Quân mật khẩu?"
+  },
+  "Ne1NR/": {
+    "message": "Bài tập về nhà"
+  },
+  "O2O0dl": {
+    "message": "Diễn giải"
+  },
+  "ODn2y0": {
+    "message": "Lời khuyên"
+  },
+  "PvmsBF": {
+    "message": "Trạng thái khoá học"
+  },
+  "QF8hwJ": {
+    "message": "Tham gia buổi học"
+  },
+  "R86IN4": {
+    "message": "Tạm hoãn"
+  },
+  "RVhqZ4": {
+    "message": "Tải xuống thất bại"
+  },
+  "RZVeul": {
+    "message": "Email hoặc số điện thoại"
+  },
+  "RomaF8": {
+    "message": "Tránh sai ngữ pháp"
+  },
+  "SF0WU5": {
+    "message": "Nhập tiêu đề buổi học"
+  },
+  "SQJto2": {
+    "message": "Đăng nhập"
+  },
+  "TUYrlM": {
+    "message": "Tên người dùng hoặc mật khẩu không hợp lệ"
+  },
+  "UFSwqb": {
+    "message": "Không xác định"
+  },
+  "Ub+AGc": {
+    "message": "Đăng Nhập"
+  },
+  "UvFUuq": {
+    "message": "Học viên"
+  },
+  "VuzjdC": {
+    "message": "Đang diễn ra"
+  },
+  "W8n8UJ": {
+    "message": "Tiến trình khoá học"
+  },
+  "WViqNz": {
+    "message": "Test ID (Ví dụ: 32730)"
+  },
+  "WdWd8e": {
+    "message": "Khoá học hôm nay"
+  },
+  "WkrNSk": {
+    "message": "Tiếng Anh"
+  },
+  "XBoahx": {
+    "message": "Đã xảy ra lỗi máy chủ nội bộ"
+  },
+  "XkLOBQ": {
+    "message": "Gửi kết quả kiểm tra thành công"
+  },
+  "YvLhw+": {
+    "message": "Phát âm đúng điểm nhấn, ngữ điệu"
+  },
+  "a1sMIY": {
+    "message": "Gửi phản hồi thành công"
+  },
+  "aCWkfE": {
+    "message": "Thái độ của học sinh"
+  },
+  "ajiSfy": {
+    "message": "Chi tiết buổi học"
+  },
+  "b0v+Pu": {
+    "message": "ID buổi học"
+  },
+  "b11hht": {
+    "message": "Gửi phản hồi"
+  },
+  "blfjwp": {
+    "message": "Không diễn ra"
+  },
+  "cdZVTE": {
+    "message": "Nói rõ câu"
+  },
+  "eJrDgb": {
+    "message": "Phát âm đầy đủ chủ đề"
+  },
+  "ejg9fG": {
+    "message": "Phát âm những câu phức tạp"
+  },
+  "f3QQ4N": {
+    "message": "Sử dụng đúng thì với các động từ"
+  },
+  "gp1lqK": {
+    "message": "Tất cả khoá học"
+  },
+  "h3ICzV": {
+    "message": "Đang tải buổi học..."
+  },
+  "hGQqkW": {
+    "message": "Lịch học"
+  },
+  "i40m33": {
+    "message": "Nhập mã buổi học được cung cấp vào ô bên dưới để vào buổi học nhanh chóng cùng học viên Antoree"
+  },
+  "iBdWt0": {
+    "message": "Tiêu đề buổi học"
+  },
+  "iZX2vK": {
+    "message": "Nối âm"
+  },
+  "jRpf+4": {
+    "message": "Tham gia ngay"
+  },
+  "jSOGpo": {
+    "message": "Thái độ học tiếng anh"
+  },
+  "k0ZWCr": {
+    "message": "Đang tải khoá học..."
+  },
+  "kH8qaP": {
+    "message": "Không thể bắt đầu buổi học"
+  },
+  "kyB/U/": {
+    "message": "Tham gia"
+  },
+  "l8wanU": {
+    "message": "Đã tham gia"
+  },
+  "laBkmC": {
+    "message": "Thời gian dạy:"
+  },
+  "lxVSzn": {
+    "message": "Tạo kết quả kiểm tra"
+  },
+  "mJDIV7": {
+    "message": "Tham gia khóa học"
+  },
+  "mVJ357": {
+    "message": "Điểm mạnh"
+  },
+  "n6s1Id": {
+    "message": "Chào mừng bạn trở lại với Antoree"
+  },
+  "neexcf": {
+    "message": "Vui lòng nhập Test ID"
+  },
+  "nv/xZs": {
+    "message": "Đã đóng: {totalCourse} khoá học"
+  },
+  "okCSTN": {
+    "message": "Mã khóa học (Ví dụ: 32730)"
+  },
+  "onxofq": {
+    "message": "{sessions} buổi học"
+  },
+  "pvt0BV": {
+    "message": "Sử dụng nhiều dạng ngữ pháp"
+  },
+  "qNCFg+": {
+    "message": "Khóa chính"
+  },
+  "qie9A6": {
+    "message": "Tải lên thành công"
+  },
+  "qvJ+Jd": {
+    "message": "Thời lượng dạy học: {duration}"
+  },
+  "rbrahO": {
+    "message": "Đóng"
+  },
+  "rnCx/v": {
+    "message": "Tham gia buổi kiểm tra"
+  },
+  "sL6kGC": {
+    "message": "Vui lòng nhập nội dung"
+  },
+  "tOKzzP": {
+    "message": "LR"
+  },
+  "tzMNF3": {
+    "message": "Trạng thái"
+  },
+  "u0jM2R": {
+    "message": "Tìm kiếm bằng tên học viên"
+  },
+  "uCu5tl": {
+    "message": "ACS"
+  },
+  "uFow7o": {
+    "message": "Tiếp thu ngôn ngữ"
+  },
+  "ug01Mk": {
+    "message": "Thời gian"
+  },
+  "vd7Gry": {
+    "message": "Khoá học thử"
+  },
+  "w4eXTl": {
+    "message": "Không tìm thấy khóa học"
+  },
+  "wHpFdV": {
+    "message": "Sử dụng động từ, cụm từ"
+  },
+  "wTO/ag": {
+    "message": "Tham khảo kết quả kiểm tra"
+  },
+  "wvnf6S": {
+    "message": "Tổng: {totalCourse} khoá học"
+  },
+  "xHlBZP": {
+    "message": "Phát âm chính xác"
+  },
+  "xXbJso": {
+    "message": "Đăng xuất"
+  },
+  "xzyHM+": {
+    "message": "Tiếng Việt"
+  },
+  "y96tsN": {
+    "message": "Bài tập về nhà"
+  },
+  "zEqYhm": {
+    "message": "Nội dung bài tập về nhà"
+  },
+  "zGa/yi": {
+    "message": "Học thử"
+  },
+  "zJvwgM": {
+    "message": "Điểm yếu"
+  },
+  "zQvVDJ": {
+    "message": "Tất cả"
+  }
+}

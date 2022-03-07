@@ -1,0 +1,1011 @@
+// /* For mobile phones: */
+// [class*='col'] {
+//   width: 100%;
+// }
+// .row::after {
+//   content: '';
+//   clear: both;
+//   display: table;
+// }
+
+// [class*='col'] {
+//   float: left;
+//   padding: 15px;
+// }
+// .overview {
+//   position: absolute;
+//   top: 25%;
+//   bottom: 10;
+//   left: 40%;
+//   right: 40%;
+//   margin-left: 200px;
+// }
+// .img {
+//   width: 130px;
+//   height: 135px;
+//   margin-right: 16px;
+// }
+// .col1 {
+//   width: 8.33%;
+// }
+// .card {
+//   width: 100%;
+//   margin-top: 15px;
+// }
+// .col2 {
+//   width: 16.66%;
+// }
+// .col3 {
+//   box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+//     0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+//   border-radius: 12px;
+//   margin-left: 10px;
+//   margin-top: 10px;
+//   margin-right: 10px;
+//   margin-bottom: 10px;
+//   width: 450px;
+//   height: 356px;
+// }
+// .col3Moreone {
+//   box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+//     0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+//   border-radius: 12px;
+//   margin-left: 10px;
+//   margin-top: 10px;
+//   margin-right: 10px;
+//   margin-bottom: 10px;
+//   width: 450px;
+//   height: 356px;
+//   position: absolute;
+//   left: 250px;
+// }
+// .col4 {
+//   width: 33.33%;
+// }
+// .col5 {
+//   width: 41.66%;
+// }
+// .col6 {
+//   width: 50%;
+// }
+// .col7 {
+//   width: 58.33%;
+// }
+// .col8 {
+//   width: 66.66%;
+// }
+// .col9 {
+//   width: 75%;
+// }
+// .col10 {
+//   width: 83.33%;
+// }
+// .col11 {
+//   width: 91.66%;
+// }
+// .col12 {
+//   width: 100%;
+// }
+
+// @media only screen and (max-width: 6000px) and (max-width: 4000px) {
+//   /* For desktop: */
+//   .overview {
+//     position: absolute;
+//     top: 25%;
+//     bottom: 10;
+//     left: 35%;
+//     right: 650px;
+//     margin-left: 200px;
+//   }
+//   .img {
+//     width: 130px;
+//     height: 135px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     margin-top: 15px;
+//   }
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//     position: absolute;
+//     left: 250px;
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 3000px) {
+//   /* For desktop: */
+//   .overview {
+//     position: absolute;
+//     top: 25%;
+//     bottom: 10;
+//     left: 25%;
+//     right: 250px;
+//     margin-left: 200px;
+//   }
+//   .img {
+//     width: 130px;
+//     height: 135px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     margin-top: 15px;
+//   }
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//     position: absolute;
+//     left: 250px;
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 2300px) {
+//   /* For desktop: */
+//   .overview {
+//     position: absolute;
+//     top: 25%;
+//     bottom: 10;
+//     left: 20%;
+//     right: 250px;
+//     margin-left: 200px;
+//   }
+//   .img {
+//     width: 130px;
+//     height: 135px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     margin-top: 15px;
+//   }
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//     position: absolute;
+//     left: 250px;
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 2000px) {
+//   /* For desktop: */
+//   .overview {
+//     position: absolute;
+//     top: 25%;
+//     bottom: 10;
+//     left: 300px;
+//     right: 250px;
+//     margin-left: 200px;
+//   }
+//   .img {
+//     width: 130px;
+//     height: 135px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     margin-top: 15px;
+//   }
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//     position: absolute;
+//     left: 250px;
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+// @media only screen and (max-width: 1900px) {
+//   /* For desktop: */
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 250px;
+//     right: 0%;
+//     margin-left: 220px;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     margin-top: 15px;
+//   }
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     height: 356px;
+
+//     position: absolute;
+//     left: 450px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+// @media only screen and (max-width: 1700px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 250px;
+//     right: 250px;
+//     margin-left: 230px;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     height: 356px;
+
+//     position: absolute;
+//     left: 450px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+// @media only screen and (max-width: 1600px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 250px;
+//     right: 250px;
+//     margin-left: 230px;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     width: auto;
+//     box-shadow: none;
+//     border: 0.5px rgba(0, 0, 0, 0.1) solid;
+//     margin-left: auto;
+//     margin-top: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     position: absolute;
+//     height: 356px;
+
+//     left: 250px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+// @media only screen and (max-width: 1500px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 140px;
+//     right: 0px;
+//     margin-left: 55px;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     height: 356px;
+
+//     position: absolute;
+//     left: 500px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+// @media only screen and (max-width: 1100px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 30%;
+//     right: 5%;
+//     margin-right: 5%;
+//     margin-left: 5%;
+//   }
+
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 346px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     height: 346px;
+
+//     position: absolute;
+//     left: 120px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 800px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 10%;
+//     right: 5%;
+//     margin-right: 10%;
+//     margin-left: 10%;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 160px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     height: 300px;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: 10px;
+//     margin-top: 10px;
+//     margin-right: 10px;
+//     margin-bottom: 10px;
+//     width: 450px;
+//     height: 366px;
+//   }
+//   .col3Moreone {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     top: 200px;
+//     width: 450px;
+//     height: 346px;
+
+//     position: absolute;
+//     left: 120px;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 600px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 20%;
+//     right: 5%;
+//     margin-right: 10%;
+//     margin-left: 10%;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 160px;
+//     margin-right: 16px;
+//   }
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//     height: 200px;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     width: 98%;
+//     box-shadow: none;
+//     border: 0.5px rgba(0, 0, 0, 0.1) solid;
+//     margin-left: auto;
+//     margin-top: 10px;
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }
+
+// @media only screen and (max-width: 500px) {
+//   .overview {
+//     position: absolute;
+//     top: 30%;
+//     bottom: 10;
+//     left: 0%;
+//     right: 0%;
+//     margin-right: auto;
+//     margin-left: auto;
+//   }
+
+//   .col1 {
+//     width: 8.33%;
+//   }
+//   .card {
+//     width: 100%;
+//   }
+//   .img {
+//     width: 120px;
+//     height: 130px;
+//     margin-right: 16px;
+//   }
+
+//   .col2 {
+//     width: 16.66%;
+//   }
+//   .col3 {
+//     box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+//       0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+//       0px 23px 35px rgba(0, 0, 0, 0.05);
+//     border-radius: 12px;
+//     margin-left: auto;
+//     margin-top: 5%;
+//     margin-right: auto;
+//     margin-bottom: 5%;
+//     width: 100%;
+//     height: 356px;
+//   }
+//   .col3Moreone {
+//     box-shadow: none;
+//     border-radius: 12px;
+//     width: 100%;
+//     height: 350px;
+//     margin-left: 15%;
+//     margin-bottom: 15%;
+//     margin-top: -15%;
+//     border: 1px solid rgb(196, 188, 188);
+
+//     position: absolute;
+//     transform: translate(-50%, -50%);
+//   }
+//   .col4 {
+//     width: 33.33%;
+//   }
+//   .col5 {
+//     width: 41.66%;
+//   }
+//   .col6 {
+//     width: 50%;
+//   }
+//   .col7 {
+//     width: 58.33%;
+//   }
+//   .col8 {
+//     width: 66.66%;
+//   }
+//   .col9 {
+//     width: 75%;
+//   }
+//   .col10 {
+//     width: 83.33%;
+//   }
+//   .col11 {
+//     width: 91.66%;
+//   }
+//   .col12 {
+//     width: 100%;
+//   }
+// }

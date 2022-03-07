@@ -1,0 +1,587 @@
+//import "~slick-carousel/slick/slick.css";
+
+
+.TodayContainer {
+  display: flex;
+  // flex-direction: row;
+  padding-top: 112px;
+  // width: 650px;
+  padding-bottom: 40px;
+  justify-content: center;
+  align-self: center;
+  text-align: center;
+  background-color: #fafbfd;
+
+  // background-color: blue;
+  // // position: absolute;
+  // left: 50%;
+  // margin-right: -50%;
+  // transform: translate(-50%, -50%);
+}
+.Todaytime{
+  font-weight: 600;
+}
+
+.sliderAntee {
+  width: 650px;
+  justify-self: center;
+  align-self: center;
+  text-align: center;
+}
+
+.SesionTodayContainer {
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #fafbfd;
+  // flex-direction: row;
+
+  // width: 650px;
+  justify-content: center;
+  text-align: center;
+
+  // position: absolute;
+  // left: 50%;
+  // margin-right: -50%;
+  // transform: translate(-50%, -50%);
+  // margin-top: 550px;
+}
+
+.SesionTodayItem {
+  display: flex;
+
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+    0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
+  // background-color: #78ca49;
+  width: 448px;
+  // height: 356px;
+  margin: 20px;
+  padding: 32px;
+}
+.cardContent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  height: auto;
+  width: 100%;
+  // background-color: #78ca49;
+
+  margin-top: 32px;
+  // padding-bottom: 20px;
+  // margin-top: 35px;
+  // margin-left: 5%;
+  border: 1px solid #cecece;
+  padding: 0px;
+  border-radius: 0.5vh;
+}
+
+.img {
+  width: 130px;
+  height: max-content;
+  margin-right: 16px;
+}
+.arrowRight {
+  // float: right;
+  margin-top: 8px;
+  width: 56px;
+  height: 56px;
+  background: rgba(52, 55, 65, 0.15);
+  border-radius: 28px;
+  cursor: pointer;
+}
+.btnRight {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: -10px;
+}
+
+.btnLeft {
+  position: absolute;
+  text-align: center;
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: -15px;
+}
+.arrowLeft {
+  margin-top: 8px;
+  cursor: pointer;
+  width: 56px;
+  height: 56px;
+  background: rgba(52, 55, 65, 0.15);
+  border-radius: 28px;
+  cursor: pointer;
+}
+
+.card {
+  width: 100%;
+}
+
+.icon {
+  margin-right: 2px;
+  font-size: 12px;
+}
+.icontext {
+  display: inline-flex;
+  font-size: 14px;
+  margin-top: 10px;
+}
+#antoreeHr{
+  background-color: #0aa263;
+  width: 250px;
+}
+.timecard {
+  font-size: 14px;
+  cursor: pointer;
+  color: #343741;
+  width: 100%;
+}
+.hR2 {
+  position: absolute;
+  padding-top: 500px;
+
+  background-color: rgb(167, 207, 177);
+
+  transform: translate(-50%, -50%);
+}
+.dot {
+  position: absolute;
+  top: 30%;
+  margin-left: -55px;
+  height: 8px;
+  width: 8px;
+  background-color: rgb(0, 192, 129);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  // animation: dot 1s ease-in-out infinite alternate;
+  // animation: dot 1s infinite;
+  box-shadow: 0px 0px 2px #78ca49;
+
+  &::after {
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    animation: dot 1.2s infinite ease-in-out;
+    border: 1px solid #78ca49;
+    content: '';
+  }
+}
+@keyframes dot {
+  0% {
+    transform: scale(0.8);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+@media only screen and (max-width: 1100px) {
+  .TodayContainer {
+    display: flex;
+    // flex-direction: row;
+    padding-top: 112px;
+    // width: 650px;
+    padding-bottom: 40px;
+    // width: 650px;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    // background-color: blue;
+    // // position: absolute;
+    // left: 50%;
+    // margin-right: -50%;
+    // transform: translate(-50%, -50%);
+  }
+  .arrowRight {
+    // float: right;
+    margin-top: 8px;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .btnRight {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -10px;
+  }
+
+  .btnLeft {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -15px;
+  }
+  .arrowLeft {
+    margin-top: 8px;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .sliderAntee {
+    width: 90%;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .SesionTodayContainer {
+    display: grid;
+    grid-template-columns: auto auto;
+
+    // flex-direction: row;
+
+    // width: 650px;
+    justify-content: center;
+    text-align: center;
+
+    // position: absolute;
+    // left: 50%;
+    // margin-right: -50%;
+    // transform: translate(-50%, -50%);
+    // margin-top: 550px;
+  }
+
+  .SesionTodayItem {
+    display: flex;
+
+    margin-left: auto;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+      0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+      0px 23px 35px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    margin-bottom: 10px;
+    width: 350px;
+  }
+  .cardContent {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    height: auto;
+    padding-right: 0px;
+    font-size: 14px;
+    border: 1px solid #cecece;
+    border-radius: 0.5vh;
+  }
+  .img {
+    width: 130px;
+    height: 150px;
+    margin-right: 16px;
+  }
+  .arrowRight {
+    // float: right;
+    margin-top: 8px;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .btnRight {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -10px;
+  }
+
+  .btnLeft {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -15px;
+  }
+  .arrowLeft {
+    margin-top: 8px;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .icon {
+    margin-right: 2px;
+    font-size: 12px;
+  }
+  .icontext {
+    display: inline-flex;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .timecard {
+    font-size: 14px;
+    cursor: pointer;
+    color: #343741;
+    width: 100%;
+  }
+  .hr {
+    top: 50px;
+    text-align: center;
+    left: 50%;
+    height: 2px;
+    width: 40px;
+    border-radius: 5px;
+    background-color: rgb(18, 22, 19);
+
+    transform: translate(-50%, -50%);
+  }
+  .dot {
+    position: absolute;
+    top: 30%;
+    margin-left: -55px;
+    height: 8px;
+    width: 8px;
+    background-color: rgb(0, 192, 129);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    // animation: dot 1s ease-in-out infinite alternate;
+    // animation: dot 1s infinite;
+    box-shadow: 0px 0px 2px #78ca49;
+
+    &::after {
+      position: absolute;
+      height: 200px;
+      width: 200px;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      animation: dot 1.2s infinite ease-in-out;
+      border: 1px solid #78ca49;
+      content: '';
+    }
+  }
+  @keyframes dot {
+    0% {
+      transform: scale(0.8);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(2.4);
+      opacity: 0;
+    }
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
+  .TodayContainer {
+    display: flex;
+    // flex-direction: row;
+    padding-top: 112px;
+    // width: 650px;
+    padding-bottom: 40px;
+    // width: 650px;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    // background-color: blue;
+    // // position: absolute;
+    // left: 50%;
+    // margin-right: -50%;
+    // transform: translate(-50%, -50%);
+  }
+  .arrowRight {
+    // float: right;
+    margin-top: 8px;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .btnRight {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -10px;
+  }
+
+  .btnLeft {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -15px;
+  }
+  .arrowLeft {
+    margin-top: 8px;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .sliderAntee {
+    width: 90%;
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .SesionTodayContainer {
+    display: grid;
+    grid-template-columns: auto ;
+
+    // flex-direction: row;
+
+    // width: 650px;
+    justify-content: center;
+    text-align: center;
+
+    // position: absolute;
+    // left: 50%;
+    // margin-right: -50%;
+    // transform: translate(-50%, -50%);
+    // margin-top: 550px;
+  }
+
+  .SesionTodayItem {
+    display: flex;
+
+    margin-left: auto;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1),
+    0px 3.6px 13px rgba(0, 0, 0, 0.07), 0px 8.4px 23px rgba(0, 0, 0, 0.06),
+    0px 23px 35px rgba(0, 0, 0, 0.05);
+    border-radius: 12px;
+    margin-bottom: 10px;
+    width: 90%;
+  }
+  .cardContent {
+    display: flex;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    height: auto;
+    padding-bottom: 0px;
+    margin-top: 35px;
+    margin-left: 0%;
+    border: 1px solid #cecece;
+    border-radius: 0.5vh;
+  }
+  .img {
+    width: 130px;
+    height: max-content;
+    margin-right: 16px;
+  }
+  .arrowRight {
+    // float: right;
+    margin-top: 8px;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .btnRight {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -10px;
+  }
+
+  .btnLeft {
+    position: absolute;
+    text-align: center;
+    justify-content: center;
+    margin-top: 15px;
+    margin-left: -15px;
+  }
+  .arrowLeft {
+    margin-top: 8px;
+    cursor: pointer;
+    width: 56px;
+    height: 56px;
+    background: none;
+    border-radius: 28px;
+    cursor: pointer;
+  }
+  .icon {
+    margin-right: 2px;
+    font-size: 12px;
+  }
+  .icontext {
+    display: inline-flex;
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .timecard {
+    font-size: 14px;
+    cursor: pointer;
+    color: #343741;
+    width: 100%;
+  }
+  .hr {
+    top: 50px;
+    text-align: center;
+    left: 50%;
+    height: 2px;
+    width: 40px;
+    border-radius: 5px;
+    background-color: rgb(18, 22, 19);
+
+    transform: translate(-50%, -50%);
+  }
+  .dot {
+    position: absolute;
+    top: 30%;
+    margin-left: -55px;
+    height: 8px;
+    width: 8px;
+    background-color: rgb(0, 192, 129);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    // animation: dot 1s ease-in-out infinite alternate;
+    // animation: dot 1s infinite;
+    box-shadow: 0px 0px 2px #78ca49;
+
+    &::after {
+      position: absolute;
+      height: 200px;
+      width: 200px;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      animation: dot 1.2s infinite ease-in-out;
+      border: 1px solid #78ca49;
+      content: '';
+    }
+  }
+  @keyframes dot {
+    0% {
+      transform: scale(0.8);
+      opacity: 1;
+    }
+    100% {
+      transform: scale(2.4);
+      opacity: 0;
+    }
+  }
+}
+

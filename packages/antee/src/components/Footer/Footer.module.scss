@@ -1,0 +1,27 @@
+.footer {
+  @apply px-4 md:px-0 py-10;
+  background: #1a1c21;
+  padding: 0 56px;
+  p,
+  h5 {
+    color: white !important;
+  }
+  > * {
+    max-width: 1280px;
+    margin: auto;
+
+    @media (max-width: 1280px) {
+      padding: 0 16px;
+      
+    }
+  }
+}
+@media only screen and (max-width: 500px) {
+  .Address {
+    margin-bottom: 30px;
+    padding: 0px;
+  }
+  .footer{
+    padding: 0 16px !important;
+  }
+}

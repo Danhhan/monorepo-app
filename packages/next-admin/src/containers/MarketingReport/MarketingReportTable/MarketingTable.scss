@@ -1,0 +1,71 @@
+.styled-table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  // min-width: 400px;
+  width: 100%;
+
+  // box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+.styled-table thead tr {
+  // background-color: #00c081;
+  border-bottom: 1px solid #dddddd;
+  color: #69707d;
+  // color: #fff;
+  text-align: left;
+  justify-content: left;
+  padding-left: 15px;
+}
+.styled-table th {
+  padding-left: 15px;
+}
+.styled-table th,
+.styled-table td {
+  padding: 8px 15px;
+  // background-color: #009879;
+}
+.styled-table tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+.tablehead {
+  padding-left: 30px;
+}
+
+.styled-table tbody tr.active-row {
+  font-weight: bold;
+  color: #009879;
+}
+.antoreeTooltip {
+  position: relative;
+  display: inline-block;
+  //border-bottom: 1px dotted black;
+}
+
+.antoreeTooltip .antoreeTooltipText {
+  visibility: hidden;
+  width: 300px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  left: 110%;
+}
+
+.antoreeTooltip .antoreeTooltipText::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+}
+.antoreeTooltip:hover .antoreeTooltipText {
+  visibility: visible;
+}

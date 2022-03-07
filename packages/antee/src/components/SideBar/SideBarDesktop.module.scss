@@ -1,0 +1,43 @@
+.navSideBarContain {
+  @apply pr-4;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.navSideBar {
+  @apply rounded-xl overflow-hidden h-full;
+
+  border: 1px solid rgba(205, 207, 209, 1);
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.navSideBarItem {
+  @apply px-4;
+  border: none !important;
+  > :first-child {
+    padding: 8px 0px !important;
+    margin-bottom: 8px;
+  }
+
+  .euiCollapsibleNavGroup__children {
+    padding: 0px !important;
+  }
+}
+
+.innerNavItem {
+  @apply flex -mx-2 mb-4 justify-start items-center;
+
+  p {
+    @apply overflow-hidden overflow-ellipsis whitespace-nowrap;
+    max-width: 10rem;
+  }
+
+  &:last-child {
+    margin-bottom: 0px !important;
+  }
+}

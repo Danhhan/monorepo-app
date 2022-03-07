@@ -1,0 +1,133 @@
+---
+kind: pipeline
+type: kubernetes
+name: antor-staging-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      dockerfile:
+        - packages/antor/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - antor-web-stg
+      tags:
+        - ${DRONE_COMMIT_SHA:0:7}
+      build_args:
+        - PUBLIC_URL=/
+        - REACT_APP_API_URI=https://api-v2.stg.antoree.tech
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      aws_region:
+        - ap-southeast-1
+      cluster:
+        - ant-v1-staging
+      image_name:
+        - 677045118514.dkr.ecr.ap-southeast-1.amazonaws.com/antor-web-stg:${DRONE_COMMIT_SHA:0:7}
+      service:
+        - antor-pwa
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: stg_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: stg_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: stg_ecr_endpoint
+trigger:
+  branch:
+    - develop
+resource: 
+  requests: 
+    cpu: 1024m
+    memory: 2GiB
+
+---
+kind: pipeline
+type: kubernetes
+name: antor-production-deployment
+
+platform:
+  os: linux
+  arch: amd64
+
+steps:
+  - name: publish-ecr
+    image: plugins/ecr
+    settings:
+      dockerfile:
+        - packages/antor/Dockerfile
+      region:
+        - ${AWS_REGION}
+      registry:
+        - ${ECR_ENDPOINT}
+      repo:
+        - antor-web-prod
+      tags:
+        - ${DRONE_TAG}
+      build_args:
+        - PUBLIC_URL=/
+        - REACT_APP_API_URI=https://api-v2.prod.antoree.tech/
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+  - name: deploy-ecs
+    image: joshdvir/drone-ecs-deploy
+    settings:
+      aws_region:
+        - ap-southeast-1
+      cluster:
+        - antoree-v1-prod
+      image_name:
+        - 120030082686.dkr.ecr.ap-southeast-1.amazonaws.com/antor-web-prod:${DRONE_TAG}
+      service:
+        - antore-web-pro-svc
+      timeout:
+        - 1200
+    environment:
+      AWS_ACCESS_KEY_ID:
+        from_secret: prod_aws_access_key_id
+      AWS_DEFAULT_REGION:
+        from_secret: aws_default_region
+      AWS_REGION:
+        from_secret: aws_region
+      AWS_SECRET_ACCESS_KEY:
+        from_secret: prod_aws_secret_access_key
+      ECR_ENDPOINT:
+        from_secret: prod_ecr_endpoint
+trigger:
+  ref:
+    - refs/tags/antor-*

@@ -1,0 +1,57 @@
+.antoreeTextmore {
+  padding-top:32px ;
+  padding-bottom: 2px;
+  text-align: center;
+
+}
+.antoreeTextButton{
+  //padding-bottom: 32px;
+}
+.antoreeTextfooter {
+  padding: 2rem 6.25rem 0.5rem 6.25rem;
+  line-height: 1rem !important;
+  text-align: center;
+  font-size: 12px;
+}
+
+
+.lineAntroee {
+  width: 185px;
+  height: 0;
+  border: 1px solid #C4C4C4;
+  margin: 3px;
+  display:inline-block;
+}
+@media only screen and (max-width: 910px) {
+
+  .lineAntroee{
+    width: 185px;
+    height: 0;
+    border: 1px solid #C4C4C4;
+    margin: 3px;
+    display:inline-block;
+  }
+  .antoreeTextfooter {
+    padding: 2rem 6.25rem 0.5rem 6.25rem;
+    line-height: 1rem !important;
+    text-align: center;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (max-width: 730px) {
+
+  .lineAntroee{
+    width: 130px;
+    height: 0;
+    border: 1px solid #C4C4C4;
+    margin: 3px;
+    display:inline-block;
+  }
+  .antoreeTextfooter {
+    padding: 2rem 3.25rem 0.5rem 3.25rem;
+    line-height: 1rem !important;
+    text-align: center;
+    font-size: 12px;
+  }
+}

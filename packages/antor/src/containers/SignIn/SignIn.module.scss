@@ -1,0 +1,8 @@
+.panelLeft {
+  @apply bg-cover lg:flex-grow;
+  background-image: url('../../assets/images/bgImage.jpg');
+}
+
+.panelRight {
+  @apply flex-grow lg:flex-grow-0 lg:w-96;
+}

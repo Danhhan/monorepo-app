@@ -1,0 +1,34 @@
+.pageBody {
+  // background-image: url('../../assets/images/bgImage.jpg');
+
+  & > div > * {
+    max-width: 1280px;
+    margin: auto;
+    #Anteecol {
+      display: block;
+    }
+    @media (max-width: 1280px) {
+      padding: 0 16px;
+    }
+  }
+}
+#Media {
+  display: block;
+  margin-right: auto;
+}
+.Introtext {
+  width: 450px;
+}
+@media (orientation: portrait) {
+  #Media {
+    display: block;
+    margin-right: 50%;
+    width: 100%;
+  }
+  #imgIntro {
+    margin-right: 20%;
+  }
+  .Introtext {
+    width: 100%;
+  }
+}

@@ -1,0 +1,264 @@
+.pageBody {
+  @apply bg-cover bg-white;
+  // background-image: url('../../assets/images/bgImage.jpg');
+
+  & > div > * {
+    max-width: 1440px;
+    margin: auto;
+    @media (max-width: 1280px) {
+      padding: 0 16px;
+    }
+
+  }
+}
+.underBanner{
+  padding: 24px 0px;
+}
+
+
+
+.pageContainer{
+  padding-left: 56px;
+  padding-right: 56px;
+}
+.underBannerInner {
+  @apply rounded-xl text-white md:m-0 mb-4;
+  background-color: #00c081;
+
+
+  // background-image: url('../../assets/images/under-banner-mobile.svg');
+
+  @media (max-width: 768px) {
+    background: #00c081;
+  }
+
+  background-repeat: no-repeat;
+  background-size: 125%;
+  background-position: center -5px;
+  // background: rgba(0, 192, 129, 1);
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 3.6px 13px rgba(0, 0, 0, 0.07),
+  0px 8.4px 23px rgba(0, 0, 0, 0.06), 0px 23px 35px rgba(0, 0, 0, 0.05);
+}
+
+@media  only screen and (max-width: 1100px) {
+  .pageBody {
+    @apply bg-cover bg-white;
+    // background-image: url('../../assets/images/bgImage.jpg');
+    padding-left: 0px;
+    padding-right: 0px;
+
+  }
+  .pageContainer{
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+  .underBanner{
+    padding: 24px 15px;
+  }
+
+}
+@media  only screen and (max-width: 768px) {
+  .pageBody {
+    @apply bg-cover bg-white;
+    // background-image: url('../../assets/images/bgImage.jpg');
+    padding-left: 0px;
+    padding-right: 0px;
+
+  }
+  .underBanner{
+    padding: 0px 0px;
+  }
+  .pageContainer{
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+}
+
+
+.pageHome{
+  width: 100vw;
+}
+
+.headerItem {
+  > :first-child {
+    display: block;
+  }
+
+  > :not(:first-child) {
+    display: none;
+  }
+
+  @media (max-width: 768px) {
+    > :first-child {
+      display: none !important;
+    }
+
+    > :not(:first-child) {
+      display: block !important;
+    }
+  }
+}
+
+.customTab {
+  color: rgba(52, 55, 65, 1);
+  background-color: transparent !important;
+  text-decoration: none !important;
+  &::after {
+    width: 40% !important;
+    margin: auto;
+    right: 0;
+  }
+}
+
+.bannerSection {
+  @media (max-width: 1100px) {
+    flex-grow: 200 !important;
+    padding-top: 30px;
+    padding-right: 20px;
+  }
+  @media (max-width: 880px) {
+    flex-grow: 300 !important;
+    padding-top: 30px;
+    padding-right: 20px;
+  }
+  @media (max-width: 500px) {
+    flex-grow: 200 !important;
+    padding-top: 30px;
+    padding-right: 0px;
+  }
+}
+
+.navSideBarContain {
+  @apply pr-4;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.navSideBar {
+  @apply rounded-xl overflow-hidden;
+
+  border: 1px solid rgba(205, 207, 209, 1);
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.navSideBarItem {
+  @apply px-4;
+  border: none !important;
+  > :first-child {
+    padding: 8px 0px !important;
+    margin-bottom: 8px;
+  }
+
+  .euiCollapsibleNavGroup__children {
+    padding: 0px !important;
+  }
+}
+
+.navButtonContain {
+  @apply flex-row justify-end items-center;
+  display: flex !important;
+
+  @media (max-width: 768px) {
+    display: none;
+  }
+}
+
+.filterButtonContain {
+  @apply rounded-lg;
+  border: 1px solid #cdcfd1;
+  width: 50vw;
+  max-width: 720px;
+  margin: auto;
+  @media (max-width: 768px) {
+    border: none;
+  }
+}
+
+.filterButton {
+  @apply p-4 py-2 h-full w-full;
+
+  border-color: transparent;
+  text-decoration: none !important;
+  // border-right: 1px solid rgb(205, 207, 209);
+  background-color: #fff !important;
+  transform: none;
+  border-radius: 12px;
+
+  &:after {
+    content: '';
+    height: 70%; //You can change this if you want smaller/bigger borders
+    width: 1px;
+
+    position: absolute;
+    right: 0;
+    top: 0; // If you want to set a smaller height and center it, change this value
+    bottom: 0;
+    margin: auto;
+
+    background-color: rgb(205, 207, 209); // The color of your border
+  }
+
+  &:focus {
+    border: 1px solid #cdcfd1;
+    box-shadow: 0px 0.7px 1.4px rgba(0, 0, 0, 0.07),
+      0px 1.9px 4px rgba(0, 0, 0, 0.05), 0px 4.5px 10px rgba(0, 0, 0, 0.05);
+  }
+
+  @media (max-width: 768px) {
+    border: 1px solid #cdcfd1;
+
+    &:after {
+      display: none;
+    }
+  }
+}
+
+.innerNavItem {
+  @apply flex -mx-2 mb-4 justify-start items-center;
+
+  &:last-child {
+    margin-bottom: 0px !important;
+  }
+}
+
+
+.homepageSwiper {
+}
+
+.imgContain {
+  @apply relative overflow-hidden;
+  div {
+    transition: bottom 0.5s ease;
+    bottom: -100%;
+  }
+  &:hover div {
+    bottom: 0;
+  }
+}
+#pageHome {
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: white;
+}
+.footer {
+  @apply px-4 md:px-0 py-10;
+  background: #1a1c21;
+  p,
+  h5 {
+    color: white !important;
+  }
+}
+
+@media (orientation: portrait) {
+  #pageHome {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+  }
+}

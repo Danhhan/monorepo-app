@@ -1,0 +1,19 @@
+.contentSection {
+  width: 100%;
+  border-top-width: 1px !important;
+  border-top-style: solid !important;
+  border-top-color: #d3dae6 !important;
+}
+
+.infoSection {
+  width: 100%;
+  border-top-width: 1px !important;
+  border-top-style: dashed !important;
+  border-top-color: #d3dae6 !important;
+}
+
+.panelWraper {
+  border-color: rgba(15, 39, 118, 0.1) !important;
+  box-shadow: 0px 1px 1px rgba(152, 162, 179, 0.1),
+    0px 5px 20px rgba(152, 162, 179, 0.25) !important;
+}

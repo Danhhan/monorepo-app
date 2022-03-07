@@ -1,0 +1,16 @@
+.ButtonBottombar {
+  width: 1050px;
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 10px;
+  transform: translate(-50%, -50%);
+}
+@media only screen and (max-width: 600px) {
+  .ButtonBottombar {
+    width: 100%;
+    margin-left: 50%;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-top: 20px;
+  }
+}
